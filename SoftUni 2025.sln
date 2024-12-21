@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programming Basics with C#", "Programming Basics with C#", "{56282B67-40F9-48F9-8F0E-3497CB768787}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. First Steps In Coding - Lab", "1. First Steps In Coding - Lab", "{2F352FDF-AF26-49F2-BFC7-2A0E0D68B6ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Hello SoftUni", "01. Hello SoftUni", "{73113D0D-0052-4F23-9B2F-15842726CFCC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSoftUni", "Programming Basics with C#\1. First Steps In Coding - Lab\01. Hello SoftUni\HelloSoftUni\HelloSoftUni.csproj", "{6B41CB64-967B-4784-B37B-C7B7573272C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B41CB64-967B-4784-B37B-C7B7573272C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B41CB64-967B-4784-B37B-C7B7573272C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B41CB64-967B-4784-B37B-C7B7573272C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B41CB64-967B-4784-B37B-C7B7573272C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F352FDF-AF26-49F2-BFC7-2A0E0D68B6ED} = {56282B67-40F9-48F9-8F0E-3497CB768787}
+		{73113D0D-0052-4F23-9B2F-15842726CFCC} = {2F352FDF-AF26-49F2-BFC7-2A0E0D68B6ED}
+		{6B41CB64-967B-4784-B37B-C7B7573272C6} = {73113D0D-0052-4F23-9B2F-15842726CFCC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC0F862-35E0-4838-A722-C7635F191DD0}
+	EndGlobalSection
+EndGlobal
