@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\bin\Debug\net8.0\RectangleArea.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\bin\Debug\net8.0\RectangleArea.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\bin\Debug\net8.0\RectangleArea.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\bin\Debug\net8.0\RectangleArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\bin\Debug\net8.0\RectangleArea.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\refint\RectangleArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\RectangleArea.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni 2025\Programming Basics with C#\1. First Steps In Coding - Lab\03. Rectangle Area\RectangleArea\obj\Debug\net8.0\ref\RectangleArea.dll
