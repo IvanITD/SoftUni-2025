@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/HelloSoftUni.csproj": {}
+    "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/04. Inches to Centimeters/InchesToCentimeters/InchesToCentimeters.csproj": {}
   },
   "projects": {
-    "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/HelloSoftUni.csproj": {
+    "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/04. Inches to Centimeters/InchesToCentimeters/InchesToCentimeters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/HelloSoftUni.csproj",
-        "projectName": "HelloSoftUni",
-        "projectPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/HelloSoftUni.csproj",
+        "projectUniqueName": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/04. Inches to Centimeters/InchesToCentimeters/InchesToCentimeters.csproj",
+        "projectName": "InchesToCentimeters",
+        "projectPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/04. Inches to Centimeters/InchesToCentimeters/InchesToCentimeters.csproj",
         "packagesPath": "/Users/astrosspace/.nuget/packages/",
-        "outputPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/",
+        "outputPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/04. Inches to Centimeters/InchesToCentimeters/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/astrosspace/.nuget/NuGet/NuGet.Config"
