@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/bin/Debug/net8.0/YardGreening
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/bin/Debug/net8.0/YardGreening.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/bin/Debug/net8.0/YardGreening.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/bin/Debug/net8.0/YardGreening.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/bin/Debug/net8.0/YardGreening.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/refint/YardGreening.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/YardGreening.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/09. Yard Greening/YardGreening/obj/Debug/net8.0/ref/YardGreening.dll
