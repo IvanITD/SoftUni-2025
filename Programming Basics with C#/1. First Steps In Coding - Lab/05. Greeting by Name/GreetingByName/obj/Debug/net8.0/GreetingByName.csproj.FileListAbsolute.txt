@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/bin/Debug/net8.0/GreetingByName
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/bin/Debug/net8.0/GreetingByName.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/bin/Debug/net8.0/GreetingByName.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/bin/Debug/net8.0/GreetingByName.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/bin/Debug/net8.0/GreetingByName.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/refint/GreetingByName.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/GreetingByName.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/05. Greeting by Name/GreetingByName/obj/Debug/net8.0/ref/GreetingByName.dll
