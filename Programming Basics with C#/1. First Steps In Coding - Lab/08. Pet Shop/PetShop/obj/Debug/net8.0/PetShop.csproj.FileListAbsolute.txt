@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/bin/Debug/net8.0/PetShop
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/bin/Debug/net8.0/PetShop.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/bin/Debug/net8.0/PetShop.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/bin/Debug/net8.0/PetShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/bin/Debug/net8.0/PetShop.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/refint/PetShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/PetShop.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/08. Pet Shop/PetShop/obj/Debug/net8.0/ref/PetShop.dll
