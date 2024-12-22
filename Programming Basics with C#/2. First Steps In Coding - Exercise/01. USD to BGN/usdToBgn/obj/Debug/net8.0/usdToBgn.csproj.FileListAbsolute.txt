@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/bin/Debug/net8.0/usdToBgn
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/bin/Debug/net8.0/usdToBgn.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/bin/Debug/net8.0/usdToBgn.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/bin/Debug/net8.0/usdToBgn.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/bin/Debug/net8.0/usdToBgn.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/refint/usdToBgn.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/usdToBgn.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/01. USD to BGN/usdToBgn/obj/Debug/net8.0/ref/usdToBgn.dll
