@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/bin/Debug/net8.0/ConcatenateData
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/bin/Debug/net8.0/ConcatenateData.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/bin/Debug/net8.0/ConcatenateData.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/bin/Debug/net8.0/ConcatenateData.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/bin/Debug/net8.0/ConcatenateData.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/refint/ConcatenateData.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ConcatenateData.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/06. Concatenate Data/ConcatenateData/obj/Debug/net8.0/ref/ConcatenateData.dll
