@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/bin/Debug/net8.0/SpeedInfo
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/bin/Debug/net8.0/SpeedInfo.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/bin/Debug/net8.0/SpeedInfo.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/bin/Debug/net8.0/SpeedInfo.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/bin/Debug/net8.0/SpeedInfo.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/refint/SpeedInfo.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/SpeedInfo.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/06. Speed Info/SpeedInfo/obj/Debug/net8.0/ref/SpeedInfo.dll
