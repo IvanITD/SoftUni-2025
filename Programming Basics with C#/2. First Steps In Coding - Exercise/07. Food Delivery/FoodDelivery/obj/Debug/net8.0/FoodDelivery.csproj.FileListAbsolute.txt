@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/bin/Debug/net8.0/FoodDelivery
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/bin/Debug/net8.0/FoodDelivery.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/bin/Debug/net8.0/FoodDelivery.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/bin/Debug/net8.0/FoodDelivery.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/bin/Debug/net8.0/FoodDelivery.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/refint/FoodDelivery.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/FoodDelivery.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/obj/Debug/net8.0/ref/FoodDelivery.dll
