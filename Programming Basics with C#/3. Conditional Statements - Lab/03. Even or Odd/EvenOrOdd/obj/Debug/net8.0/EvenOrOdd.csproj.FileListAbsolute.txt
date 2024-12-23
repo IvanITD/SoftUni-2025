@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/bin/Debug/net8.0/EvenOrOdd
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/bin/Debug/net8.0/EvenOrOdd.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/bin/Debug/net8.0/EvenOrOdd.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/bin/Debug/net8.0/EvenOrOdd.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/bin/Debug/net8.0/EvenOrOdd.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/refint/EvenOrOdd.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/EvenOrOdd.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/obj/Debug/net8.0/ref/EvenOrOdd.dll
