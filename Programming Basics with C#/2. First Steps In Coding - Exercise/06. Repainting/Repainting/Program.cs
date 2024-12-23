@@ -9,25 +9,18 @@ double nylonPrice = 1.50;
 double paintPrice = 14.50;
 double thinnerPrice = 5.00;
 
-//More materials needed
-double moreNylon = nylonAmount + 2;
-double morePaint = paintLiters * 0.10;
-double bagPrice = 0.40;
-
-//Calculations
-double nylonTotalPrice = (nylonAmount + moreNylon) * nylonPrice; // + 2 for more nylon
-double paintTotalPrice = (paintLiters * morePaint) * paintPrice;
+//calculations
+double nylonTotalPrice = (nylonAmount + 2) * nylonPrice; // +2 for extra nylon
+double paintLitersTotalPrice = (paintLiters + (paintLiters * 0.10)) * paintPrice;  // +10% for extra paint
 double thinnerTotalPrice = thinnerLiters * thinnerPrice;
+double bagPrice = 0.40; // bag price
+double materialPrice = nylonTotalPrice + paintLitersTotalPrice + thinnerTotalPrice + bagPrice;
+
+//Workers money
+double workersMoney = (materialPrice * 0.30) * hours;
 
 //Total Price
-double sumPrice = nylonTotalPrice + paintTotalPrice + thinnerTotalPrice;
-
-//money for workers
-double workersPrice = sumPrice * 0.30;
-double workersTotalPrice = hours * workersPrice;
-
-//TotalPrice
-double totalPrice = sumPrice + workersTotalPrice + bagPrice;
+double TotalPrice = materialPrice + workersMoney;
 
 //Output
-Console.WriteLine(totalPrice);
+Console.WriteLine(TotalPrice);
