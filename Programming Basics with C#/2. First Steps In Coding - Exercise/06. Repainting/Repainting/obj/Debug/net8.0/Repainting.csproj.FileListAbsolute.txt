@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/bin/Debug/net8.0/Repainting
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/bin/Debug/net8.0/Repainting.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/bin/Debug/net8.0/Repainting.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/bin/Debug/net8.0/Repainting.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/bin/Debug/net8.0/Repainting.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/refint/Repainting.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/Repainting.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/06. Repainting/Repainting/obj/Debug/net8.0/ref/Repainting.dll

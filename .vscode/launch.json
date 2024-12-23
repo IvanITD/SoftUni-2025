@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: HelloSoftUni",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/HelloSoftUni.csproj",
+            "launchConfigurationId": "TargetFramework=;HelloSoftUni"
+        }
+    ]
+}

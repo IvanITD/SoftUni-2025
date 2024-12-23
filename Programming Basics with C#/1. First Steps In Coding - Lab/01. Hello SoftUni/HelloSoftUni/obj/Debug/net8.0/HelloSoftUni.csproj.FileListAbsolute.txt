@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/bin/Debug/net8.0/HelloSoftUni
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/bin/Debug/net8.0/HelloSoftUni.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/bin/Debug/net8.0/HelloSoftUni.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/bin/Debug/net8.0/HelloSoftUni.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/bin/Debug/net8.0/HelloSoftUni.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/refint/HelloSoftUni.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/HelloSoftUni.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/1. First Steps In Coding - Lab/01. Hello SoftUni/HelloSoftUni/obj/Debug/net8.0/ref/HelloSoftUni.dll
