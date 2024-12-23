@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/bin/Debug/net8.0/FishTank
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/bin/Debug/net8.0/FishTank.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/bin/Debug/net8.0/FishTank.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/bin/Debug/net8.0/FishTank.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/bin/Debug/net8.0/FishTank.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/refint/FishTank.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/FishTank.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/09. Fish Tank/FishTank/obj/Debug/net8.0/ref/FishTank.dll
