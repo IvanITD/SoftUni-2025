@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/bin/Debug/net8.0/AreaOfFigures
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/bin/Debug/net8.0/AreaOfFigures.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/bin/Debug/net8.0/AreaOfFigures.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/bin/Debug/net8.0/AreaOfFigures.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/bin/Debug/net8.0/AreaOfFigures.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/refint/AreaOfFigures.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/AreaOfFigures.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/obj/Debug/net8.0/ref/AreaOfFigures.dll
