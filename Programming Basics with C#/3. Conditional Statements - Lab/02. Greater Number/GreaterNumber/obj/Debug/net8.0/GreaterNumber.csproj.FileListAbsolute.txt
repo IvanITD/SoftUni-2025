@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/bin/Debug/net8.0/GreaterNumber
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/bin/Debug/net8.0/GreaterNumber.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/bin/Debug/net8.0/GreaterNumber.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/bin/Debug/net8.0/GreaterNumber.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/bin/Debug/net8.0/GreaterNumber.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/refint/GreaterNumber.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/GreaterNumber.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/02. Greater Number/GreaterNumber/obj/Debug/net8.0/ref/GreaterNumber.dll
