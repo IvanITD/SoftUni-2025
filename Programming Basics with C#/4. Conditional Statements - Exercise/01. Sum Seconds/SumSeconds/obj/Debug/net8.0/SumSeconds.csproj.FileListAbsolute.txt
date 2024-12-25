@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/bin/Debug/net8.0/SumSeconds
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/bin/Debug/net8.0/SumSeconds.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/bin/Debug/net8.0/SumSeconds.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/bin/Debug/net8.0/SumSeconds.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/bin/Debug/net8.0/SumSeconds.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/refint/SumSeconds.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/SumSeconds.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/01. Sum Seconds/SumSeconds/obj/Debug/net8.0/ref/SumSeconds.dll
