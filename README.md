@@ -61,14 +61,15 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
 │   │	├── Task 11 - Fruit Shop
 │   │   └── Task 12 - Trade Commissions
 │   ├── Exercise  
-│       ├── Task 1 - 
-│       ├── Task 2 - 
-│       ├── Task 3 - 
-│       ├── Task 4 - 
-│       ├── Task 5 - 
-│       ├── Task 6 - 
-│       ├── Task 7 - 
-│       └── Task 8 - 
+│       ├── Task 1 - Cinema
+│       ├── Task 2 - Summer Outfit
+│       ├── Task 3 - New House
+│       ├── Task 4 - Fishing Boat
+│       ├── Task 5 - Journey
+│       ├── Task 6 - Operations Between Numbers
+│       ├── Task 7 - Hotel Room
+│       ├── Task 8 - On Time for the Exam
+│       └── Task 9 - Ski Trip
 </pre>
 <hr>
 <h3>🛠️ Tools and Technologies</h3>
