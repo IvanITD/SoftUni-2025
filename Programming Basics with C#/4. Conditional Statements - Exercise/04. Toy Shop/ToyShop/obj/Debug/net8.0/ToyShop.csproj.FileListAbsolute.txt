@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/bin/Debug/net8.0/ToyShop
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/bin/Debug/net8.0/ToyShop.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/bin/Debug/net8.0/ToyShop.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/bin/Debug/net8.0/ToyShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/bin/Debug/net8.0/ToyShop.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/refint/ToyShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ToyShop.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/04. Toy Shop/ToyShop/obj/Debug/net8.0/ref/ToyShop.dll
