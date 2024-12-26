@@ -44,61 +44,61 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
       <td>Conditional Statements</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td>If-else, comparison operators</td>
+      <td></td>
     </tr>
     <tr>
+      <td>Conditional Statements</td>
       <td>Exercise</td>
-      <td></td>
       <td>✅ Complete</td>
-      <td>Nested conditions, logical expressions</td>
+      <td></td>
     </tr>
     <tr>
-      <td>Advanced Lab</td>
-      <td></td>
+      <td>Conditional Statements Advanced</td></td>
+      <td>Lab</td>
       <td>✅ Complete</td>
-      <td>Complex conditions</td>
+      <td></td>
     </tr>
     <tr>
-      <td>Advanced Exercise</td>
-      <td></td>
+      <td>Conditional Statements Advanced</td>
+      <td>Exercise</td>
       <td>✅ Complete</td>
-      <td>Advanced branching</td>
+      <td></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td>Iteration, simple loops</td>
+      <td></td>
     </tr>
     <tr>
+      <td>For Loop</td>
       <td>Exercise</td>
-      <td></td>
       <td>✅ Complete</td>
-      <td>Summation, ranges, loops within conditions</td>
+      <td></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Lab</td>
       <td>🚧 In Progress</td>
-      <td>Repeating actions, exit conditions</td>
+      <td></td>
     </tr>
     <tr>
+      <td>While Loop</td>
       <td>Exercise</td>
-      <td></td>
       <td>🚧 In Progress</td>
-      <td>Simpler logic using loops</td>
+      <td></td>
     </tr>
     <tr>
       <td>Nested Loops</td>
       <td>Lab</td>
       <td>❌ Not Started</td>
-      <td>Inner and outer loops</td>
+      <td></td>
     </tr>
     <tr>
+      <td>Nested Loops</td>
       <td>Exercise</td>
-      <td></td>
       <td>❌ Not Started</td>
-      <td>Patterns, advanced iterations</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
