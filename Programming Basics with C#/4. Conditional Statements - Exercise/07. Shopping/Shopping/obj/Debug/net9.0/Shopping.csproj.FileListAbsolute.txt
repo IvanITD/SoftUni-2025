@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/bin/Debug/net9.0/Shopping
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/bin/Debug/net9.0/Shopping.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/bin/Debug/net9.0/Shopping.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/bin/Debug/net9.0/Shopping.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/bin/Debug/net9.0/Shopping.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/refint/Shopping.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/Shopping.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/07. Shopping/Shopping/obj/Debug/net9.0/ref/Shopping.dll
