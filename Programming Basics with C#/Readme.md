@@ -151,5 +151,6 @@
 │       ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/02.%20Bonus%20Score/BonusScore/Program.cs" class="button">Bonus Score</a>
 │       ├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/03.%20Time%20Plus%2015%20Minutes/TimePlus15Minutes/Program.cs" class="button">Time + 15 Minutes</a>
 │       ├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/04.%20Toy%20Shop/ToyShop/Program.cs" class="button">Toy Shop</a>
-│       ├── Task 5 - Godzilla vs. Kong
+│       ├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/05.%20Godzilla%20vs.%20Kong/GodzillaVSKong/Program.cs" class="button">Godzilla vs. Kong</a>
+│       ├── Task 6 - World Swimming Record
 </pre>
