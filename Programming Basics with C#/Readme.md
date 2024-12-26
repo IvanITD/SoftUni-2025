@@ -153,6 +153,6 @@
 │       ├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/04.%20Toy%20Shop/ToyShop/Program.cs" class="button">Toy Shop</a>
 │       ├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/05.%20Godzilla%20vs.%20Kong/GodzillaVSKong/Program.cs" class="button">Godzilla vs. Kong</a>
 │       ├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/06.%20World%20Swimming%20Record/WorldSwimmingRecord/Program.cs"class="button">World Swimming Record</a>
-│       ├── Task 7 - Shopping
+│       ├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/07.%20Shopping/Shopping/Program.cs" class="button">Shopping</a>
 │       └── Task 8 - Lunch Break
 </pre>
