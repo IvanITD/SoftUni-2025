@@ -1,4 +1,4 @@
-<h1>SoftUni <a href="https://softuni.bg/trainings/4880/programming-basics-with-csharp-january-2025" class="button">Programming Basics with C# - Course Tasks 🚀</a></h1>
+<h1>SoftUni <a href="https://softuni.bg/curriculum" class="button"> Cirriculum🚀</a></h1>
 <h3>📖 About This Repository</h3>
 <p>Welcome to my <b>SoftUni Programming Basics with C#</b> repository! 👨‍💻</p>
 <p>This repository contains all the tasks and solutions I’ve completed during the <b>Programming Basics with C#</b> course at SoftUni. Each solution reflects my journey of mastering the fundamentals of programming, building a strong foundation for future development.</p>
