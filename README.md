@@ -30,3 +30,15 @@
 │   ├── Lab  
 │   └── Exercise  
 ...  
+<hr>
+<h3>🛠️ Tools and Technologies</h3>
+<ul>
+  <li><b>Programming Language:</b> C#</li>
+	<li><b>IDE:</b> Visual Studio / Visual Studio Code</li>
+	<li><b>Version Control:</b> Git & GitHub</li>
+</ul>
+<hr>
+<h3>🤔 Why This Repository Exists</h3>
+<ol>
+  <li>Learning: To track my progress and improve my skills as I move through the course.</li>
+</ol>
