@@ -106,8 +106,8 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>
 <ul>
-	<li><b>GitHub Profile:</b> [Your GitHub Link]</li>
-	<li><b>LinkedIn:</b> [Your LinkedIn Link]</li>
+	<li><b>GitHub Profile:</b> <a href="https://github.com/IvanITD" class="button">IvanITD</a></li>
+	<li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ivanivanovofficial" class="button">Ivan Ivanov</a></li>
 </ul>
 <hr>
 <h3>📢 Note</h3>
