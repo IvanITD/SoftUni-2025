@@ -1,4 +1,4 @@
-<h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
+<h1>SoftUni <a href="https://softuni.bg/trainings/4880/programming-basics-with-csharp-january-2025" class="button">Programming Basics with C# - Course Tasks 🚀</a></h1>
 <h3>📖 About This Repository</h3>
 <p>Welcome to my <b>SoftUni Programming Basics with C#</b> repository! 👨‍💻</p>
 <p>This repository contains all the tasks and solutions I’ve completed during the <b>Programming Basics with C#</b> course at SoftUni. Each solution reflects my journey of mastering the fundamentals of programming, building a strong foundation for future development.</p>
@@ -32,25 +32,25 @@
       <td>First Steps in Coding</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td>Variables | Data Types | Console Input/Output | Simple Operations and Calculations</td>
+      <td><b><i>Variables</i></b> | <b><i>Data Types</i></b> | <b><i>Console Input/Output</i></b> | <b><i>Simple Operations and Calculations</i></b></td>
     </tr>
     <tr>
       <td>First Steps in Coding</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td>Working with variables | Arithmetic operations | Basic input and output | Formulas and calculations | Data formatting | Problem decomposition | Basic logic and decision-making</td>
+      <td><b><i>Working with variables</i></b> | <b><i>Arithmetic operations</i></b> | <b><i>Basic input and output</i></b> | <b><i>Formulas and calculations</i></b> | <b><i>Data formatting</i></b> | <b><i>Problem decomposition</i></b> | <b><i>Basic logic and decision-making</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td>Comparison operators | Boolean variable | Simple logical checks | Series of checks | Rounding and formatting | Variable lifetime | Debugging</td>
+      <td><b><i>Comparison operators</i></b> | <b><i>Boolean variable</i></b> | <b><i>Simple logical checks</i></b> | <b><i>Series of checks</i></b> | <b><i>Rounding and formatting</i></b> | <b><i>Variable lifetime</i></b> | <b><i>Debugging</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
       <td>Exercise</td>
       <td>🚧 In Progress</td>
-      <td>Time manipulation and calculation | Conditional logic and branching | Arithmetic and percentage calculations | Simple input and output handling | Basic mathematical operations with variables | Comparison operators and logical expressions | Problem-solving with basic data structures</td>
+      <td><b><i>Time manipulation and calculation</i></b> | <b><i>Conditional logic and branching</i></b> | <b><i>Arithmetic and percentage calculations</i></b> | <b><i>Simple input and output handling</i></b> | <b><i>Basic mathematical operations with variables</i></b> | <b><i>Comparison operators and logical expressions</i></b> | <b><i>Problem-solving with basic data structures</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td></td>
@@ -116,7 +116,6 @@
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:</p>
 <pre>
-├── README.md  
 ├── First Steps in Coding
 │   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button">Lab</a>
 │   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button">Hello SoftUni</a>
