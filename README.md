@@ -9,28 +9,61 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
 ├── README.md  
 ├── First Steps in Coding  
 │   ├── Lab  
-│   │   ├── Task 1 - Hello SoftUni.cs  
-│   │   ├── Task 2 - Nums 1 to 10.cs  
-│   │   └── ...  
+│   │   ├── Task 1 - Hello SoftUni
+│   │   ├── Task 2 - Nums 1...10
+│   │	├── Task 3 - Rectangle Area
+│   │	├── Task 4 - Inches to Centimeters
+│   │	├── Task 5 - Greeting by Name
+│   │	├── Task 6 - Concatenate Data
+│   │	├── Task 7 - Projects Creation
+│   │	├── Task 8 - Pet Shop
+│   │   └── Task 9 - Yard Greening
 │   ├── Exercise  
-│       ├── Task 1 - USD to BGN.cs  
-│       ├── Task 2 - Rectangle Area.cs  
-│       └── ...  
+│       ├── Task 1 - USD to BGN 
+│       ├── Task 2 - Radians to Degrees
+│       ├── Task 3 - Deposit Calculator
+│       ├── Task 4 - Vacation Books List
+│       ├── Task 5 - Supplies for School
+│       ├── Task 6 - Repainting
+│       ├── Task 7 - Food Delivery
+│       ├── Task 8 - Basketball Equipment
+│       └── Task 9 - Fish Tank
 ├── Conditional Statements  
 │   ├── Lab  
+│   │   ├── Task 1 - Excellent Result
+│   │   ├── Task 2 - Greater Number
+│   │	├── Task 3 - Even or Odd
+│   │	├── Task 4 - Password Guess
+│   │	├── Task 5 - Number 100...200
+│   │	├── Task 6 - Speed Info
+│   │   └── Task 7 - Area of Figures
 │   ├── Exercise  
-│   ├── Advanced Lab  
-│   └── Advanced Exercise  
-├── For Loop  
+│       ├── Task 1 - Sum Seconds
+│       ├── Task 2 - Bonus Score
+│       ├── Task 3 - Time + 15 Minutes
+│       ├── Task 4 - Toy Shop
+│       ├── Task 5 - Godzilla vs. Kong
+│       ├── Task 6 - World Swimming Record
+│       ├── Task 7 - Shopping
+│       └── Task 8 - Lunch Break
+├── Conditional Statements Advanced
 │   ├── Lab  
-│   └── Exercise  
-├── While Loop  
-│   ├── Lab  
-│   └── Exercise  
-├── Nested Loops  
-│   ├── Lab  
-│   └── Exercise  
-...  
+│   │   ├── Task 1 - 
+│   │   ├── Task 2 - 
+│   │	├── Task 3 - 
+│   │	├── Task 4 - 
+│   │	├── Task 5 - 
+│   │	├── Task 6 - 
+│   │   └── Task 7 - 
+│   ├── Exercise  
+│       ├── Task 1 - 
+│       ├── Task 2 - 
+│       ├── Task 3 - 
+│       ├── Task 4 - 
+│       ├── Task 5 - 
+│       ├── Task 6 - 
+│       ├── Task 7 - 
+│       └── Task 8 - 
 </pre>
 <hr>
 <h3>🛠️ Tools and Technologies</h3>
