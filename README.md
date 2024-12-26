@@ -6,11 +6,11 @@ Welcome to my **SoftUni 2025** repository! This repository contains all the mile
 
 The **SoftUni 2025** curriculum is designed to provide comprehensive training in programming, from the basics to advanced software engineering concepts. The path starts with foundational knowledge and progresses into specialized fields, leading to a career as a software engineer.
 
-### 1. Entry Module | **Programming Basics** 💻
+### 1. Entry Module | <a href="https://softuni.bg/trainings/4880/programming-basics-with-csharp-january-2025" class="button">**Programming Basics**</a> 💻
 
 The journey begins with a **free preparatory course** in **Programming Basics**, where I will choose one of the following programming languages: C#, Java, JS, or Python. This module concludes with an entrance exam to determine the next steps in the curriculum.
 
-- **Course Languages**: C#, Java, JavaScript, Python
+- **Course Languages**: <b><i>C#</b></i>, Java, JavaScript, Python
 - **Goal**: To build a strong foundation in programming, covering basic syntax and introductory concepts.
 
 ---
@@ -73,25 +73,33 @@ Here’s a quick overview of my progress in the **SoftUni 2025** curriculum:
 
 | Module                         | Status       | Concepts Learned                               |
 | ------------------------------ | ------------ | ---------------------------------------------- |
-| **Programming Basics**          | ✅ Complete  | Intro to programming, variables, data types, loops, conditionals |
-| **Programming Fundamentals**    | ✅ Complete  | Functions, arrays, basic algorithms            |
-| **C# Advanced**                 | 🚧 In Progress | LINQ, async/await, advanced OOP                |
+| **Programming Basics**          | 🚧 In Progress | Intro to programming, variables, data types, loops, conditionals |
+| **Programming Fundamentals**    | ❌ Not Started | Functions, arrays, basic algorithms            |
+| **C# Advanced**                 | ❌ Not Started | LINQ, async/await, advanced OOP                |
 | **C# DB**                       | ❌ Not Started | SQL, Entity Framework Core                     |
 | **C# Web**                      | ❌ Not Started | ASP.NET, MVC, REST APIs                        |
 | **JS Front-End**                | ❌ Not Started | HTML, CSS, JavaScript, DOM manipulation        |
-| **DevOps**                      | ❌ Not Started | Docker, CI/CD, Cloud Computing                |
+| **DevOps**                      | ❌ Not Started | Docker, CI/CD, Cloud Computing                 |
 
 ---
 
 ## 📜 Contents of This Repository
 
 This repository is organized by modules, with each folder containing tasks, assignments, and solutions. Here’s an example of the directory structure:
-
-```bash
+<pre>	
 ├── Programming Basics
-│   ├── Task 1 - Hello World
-│   ├── Task 2 - Variables and Data Types
-│   └── Task 3 - Control Structures
+│   ├── Topic 1 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button">First Steps in Coding - Lab</a>
+│   ├── Topic 2 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button">First Steps in Coding - Exercise</a>
+│   ├── Topic 3 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button">Conditional Statements - Lab</a>
+│   ├── Topic 4 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button">Conditional Statements - Exercise</a>
+│   ├── Topic 5 - Conditional Statements Advanced - Lab
+│   ├── Topic 6 - Conditional Statements Advanced - Exercise
+│   ├── Topic 7 - For Loop - Lab
+│   ├── Topic 8 - For Loop - Exercise
+│   ├── Topic 9 - While Loop - Lab
+│   ├── Topic 10 - While Loop - Exercise
+│   ├── Topic 11 - Nested Loops - Lab
+│   └── Topic 12 - Nested Loops - Exercise
 ├── Fundamentals
 │   ├── Task 1 - Functions
 │   ├── Task 2 - Arrays and Lists
@@ -113,8 +121,8 @@ This repository is organized by modules, with each folder containing tasks, assi
 ├── Full-Stack Developer
 │   ├── Task 1 - Docker Containers
 │   ├── Task 2 - Cloud Deployment
-│   └── Task 3 - CI/CD with Jenkins
-```
+│   └── Task 3 - CI/CD with JenkinsÎ
+</pre>
 <hr>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions or suggestions, feel free to reach out via:</p>
