@@ -32,13 +32,13 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
       <td>First Steps in Coding</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td>Input/output, arithmetic operations</td>
+      <td></td>
     </tr>
     <tr>
+      <td>First Steps in Coding</td>
       <td>Exercise</td>
-      <td></td>
       <td>✅ Complete</td>
-      <td>Basic calculations, formatting</td>
+      <td></td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
