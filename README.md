@@ -48,13 +48,18 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
 │       └── Task 8 - Lunch Break
 ├── Conditional Statements Advanced
 │   ├── Lab  
-│   │   ├── Task 1 - 
-│   │   ├── Task 2 - 
-│   │	├── Task 3 - 
-│   │	├── Task 4 - 
-│   │	├── Task 5 - 
-│   │	├── Task 6 - 
-│   │   └── Task 7 - 
+│   │   ├── Task 1 - Day of Week
+│   │   ├── Task 2 - Weekend or Working Day
+│   │	├── Task 3 - Animal Type
+│   │	├── Task 4 - Personal Titles
+│   │	├── Task 5 - Small Shop
+│   │	├── Task 6 - Number in Range
+│   │	├── Task 7 - Working Hours
+│   │	├── Task 8 - Cinema Ticket
+│   │	├── Task 9 - Fruit or Vegetable
+│   │	├── Task 10 - Invalid Number
+│   │	├── Task 11 - Fruit Shop
+│   │   └── Task 12 - Trade Commissions
 │   ├── Exercise  
 │       ├── Task 1 - 
 │       ├── Task 2 - 
