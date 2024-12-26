@@ -61,31 +61,31 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
     <tr>
       <td>Conditional Statements Advanced</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>🚧 In Progress</td>
       <td></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Lab</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Lab</td>
-      <td>🚧 In Progress</td>
+      <td>❌ Not Started</td></td>
       <td></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Exercise</td>
-      <td>🚧 In Progress</td>
+      <td>❌ Not Started</td>
       <td></td>
     </tr>
     <tr>
