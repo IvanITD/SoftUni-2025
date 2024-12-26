@@ -119,7 +119,7 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
 ├── README.md  
 ├── First Steps in Coding  
 │   ├── Lab  
-│   │   ├── Task 1 - <a class="button">Hello SoftUni</a>
+│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button">Hello SoftUni</a>
 │   │   ├── Task 2 - <a class="button">Nums 1...10</a>
 │   │	├── Task 3 - <a class="button">Rectangle Area</a>
 │   │	├── Task 4 - <a class="button">Inches to Centimeters</a>
