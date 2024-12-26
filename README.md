@@ -46,3 +46,97 @@
 </ol>
 <hr>
 <h3>🏆 Course Progress</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Module Name</th>
+      <th>Subcategory</th>
+      <th>Status</th>
+      <th>Example Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>First Steps in Coding</td>
+      <td>Lab</td>
+      <td>✅ Complete</td>
+      <td>Input/output, arithmetic operations</td>
+    </tr>
+    <tr>
+      <td>Exercise</td>
+      <td></td>
+      <td>✅ Complete</td>
+      <td>Basic calculations, formatting</td>
+    </tr>
+    <tr>
+      <td>Conditional Statements</td>
+      <td>Lab</td>
+      <td>✅ Complete</td>
+      <td>If-else, comparison operators</td>
+    </tr>
+    <tr>
+      <td>Exercise</td>
+      <td></td>
+      <td>✅ Complete</td>
+      <td>Nested conditions, logical expressions</td>
+    </tr>
+    <tr>
+      <td>Advanced Lab</td>
+      <td></td>
+      <td>✅ Complete</td>
+      <td>Complex conditions</td>
+    </tr>
+    <tr>
+      <td>Advanced Exercise</td>
+      <td></td>
+      <td>✅ Complete</td>
+      <td>Advanced branching</td>
+    </tr>
+    <tr>
+      <td>For Loop</td>
+      <td>Lab</td>
+      <td>✅ Complete</td>
+      <td>Iteration, simple loops</td>
+    </tr>
+    <tr>
+      <td>Exercise</td>
+      <td></td>
+      <td>✅ Complete</td>
+      <td>Summation, ranges, loops within conditions</td>
+    </tr>
+    <tr>
+      <td>While Loop</td>
+      <td>Lab</td>
+      <td>🚧 In Progress</td>
+      <td>Repeating actions, exit conditions</td>
+    </tr>
+    <tr>
+      <td>Exercise</td>
+      <td></td>
+      <td>🚧 In Progress</td>
+      <td>Simpler logic using loops</td>
+    </tr>
+    <tr>
+      <td>Nested Loops</td>
+      <td>Lab</td>
+      <td>❌ Not Started</td>
+      <td>Inner and outer loops</td>
+    </tr>
+    <tr>
+      <td>Exercise</td>
+      <td></td>
+      <td>❌ Not Started</td>
+      <td>Patterns, advanced iterations</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<h3>🌟 Get in Touch</h3>
+<p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>
+<ul>
+	<li><b>GitHub Profile:</b> [Your GitHub Link]</li>
+	<li><b>LinkedIn:</b> [Your LinkedIn Link]</li>
+</ul>
+<hr>
+<h3>📢 Note</h3>
+<p>This repository reflects my ongoing progress in the <b>SoftUni Programming Basics with C#</b> course. Some solutions may evolve as I learn and improve. Thank you for visiting and happy coding! 😊</p>
