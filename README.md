@@ -1,10 +1,11 @@
-<h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
+What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
 <h3>📖 About This Repository</h3>
 <p>Welcome to my <b>SoftUni Programming Basics with C#</b> repository! 👨‍💻</p>
 <p>This repository contains all the tasks and solutions I’ve completed during the <b>Programming Basics with C#</b> course at SoftUni. Each solution reflects my journey of mastering the fundamentals of programming, building a strong foundation for future development.</p>
 <hr>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:</p>
+<pre>
 ├── README.md  
 ├── First Steps in Coding  
 │   ├── Lab  
@@ -30,6 +31,7 @@
 │   ├── Lab  
 │   └── Exercise  
 ...  
+</pre>
 <hr>
 <h3>🛠️ Tools and Technologies</h3>
 <ul>
