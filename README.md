@@ -117,7 +117,7 @@ What <h1>SoftUni Programming Basics with C# - Course Tasks 🚀</h1>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:</p>
 <pre>
 ├── README.md  
-├── First Steps in Coding  
+├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button">First Steps in Coding</a>
 │   ├── Lab  
 │   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button">Hello SoftUni</a>
 │   │   ├── Task 2 - <a class="button">Nums 1...10</a>
