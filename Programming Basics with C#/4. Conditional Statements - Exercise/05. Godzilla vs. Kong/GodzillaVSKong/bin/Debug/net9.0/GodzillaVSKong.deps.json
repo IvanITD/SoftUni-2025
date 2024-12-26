@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GodzillaVSKong/1.0.0": {
+        "runtime": {
+          "GodzillaVSKong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GodzillaVSKong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
