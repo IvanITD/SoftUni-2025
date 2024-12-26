@@ -32,36 +32,36 @@
       <td>First Steps in Coding</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td></td>
+      <td>Variables | Data Types | Console Input/Output | Simple Operations and Calculations</td>
     </tr>
     <tr>
       <td>First Steps in Coding</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td></td>
+      <td>Working with variables | Arithmetic operations | Basic input and output | Formulas and calculations | Data formatting | Problem decomposition | Basic logic and decision-making</td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td></td>
+      <td>Comparison operators | Boolean variable | Simple logical checks | Series of checks | Rounding and formatting | Variable lifetime | Debugging</td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
-      <td></td>
+      <td>🚧 In Progress</td>
+      <td>Time manipulation and calculation | Conditional logic and branching | Arithmetic and percentage calculations | Simple input and output handling | Basic mathematical operations with variables | Comparison operators and logical expressions | Problem-solving with basic data structures</td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td></td>
       <td>Lab</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td>
       <td>Exercise</td>
-      <td>🚧 In Progress</td>
+      <td>❌ Not Started</td>
       <td></td>
     </tr>
     <tr>
