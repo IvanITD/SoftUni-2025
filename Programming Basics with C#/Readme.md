@@ -112,6 +112,8 @@
 <hr>
 <h3>📢 Note</h3>
 <p>This repository reflects my ongoing progress in the <b>SoftUni Programming Basics with C#</b> course. Some solutions may evolve as I learn and improve. Thank you for visiting and happy coding! 😊</p>
+<p> Also have in mind that in the section <b>Conditional Statements Advanced</b>, the tasks are meant to be written with the <b><i>Switch Statement</i></b>, but I decided to include the tasks written with the <b><i>If-Else Statement</i></b>.
+So feel free to choose whichever one you like better!</p>
 <hr>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:</p>
@@ -158,7 +160,7 @@
 ├── Conditional Statements Advanced
 │   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button">Lab</a>
 │   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeek/Program.cs" class="button">Day of Week</a> ==> <a href="" class="button">If-Else Option</a>
-│   │   ├── Task 2 - 
+│   │   ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20Weekend%20or%20Working%20Day/WeekendOrWorkingDay/Program.cs" class="button">Weekend or Working Day</a> ==> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20Weekend%20or%20Working%20Day/WeekendOrWorkingDayIfElse/Program.cs" class="button">If-Else Option</a>
 │   │   ├── Task 3 - 
 │   │   ├── Task 4 - 
 │   │   ├── Task 5 - 
