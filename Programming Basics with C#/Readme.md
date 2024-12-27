@@ -159,17 +159,17 @@ So feel free to choose whichever one you like better!</p>
 │       └── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/08.%20Lunch%20Break/LunchBreak/Program.cs" class="button"><b><i>Lunch Break</i></b></a>
 ├── Conditional Statements Advanced
 │   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Lab</i></b></a>
-│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week" class="button"><b><i>Day of Week</i></b></a> ==> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeek/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeekIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 2 - Weekend or Working Day ==> Switch Statement || If-Else Statement
-│   │   ├── Task 3 - Animal Type ==> Switch Statement || If-Else Statement
+│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week" class="button"><b><i>Day of Week</i></b></a> ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeek/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeekIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
+│   │   ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20Weekend%20or%20Working%20Day" class="button"><b><i>Weekend or Working Day</i></b></a> ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20Weekend%20or%20Working%20Day/WeekendOrWorkingDay/Program.cs" class="button"><b><i>Switch  Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20Weekend%20or%20Working%20Day/WeekendOrWorkingDayIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
+│   │   ├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/03.%20Animal%20Type" class="button"><b><i>Animal Type</i></b></a> ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/03.%20Animal%20Type/AnimalType/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/03.%20Animal%20Type/AnimalTypeIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 │   │   ├── Task 4 - 
-│   │   ├── Task 5 - 
-│   │   ├── Task 6 -  
-│   │   ├── Task 7 - 
-│   │   ├── Task 8 - 
-│   │   ├── Task 9 - 
-│   │   ├── Task 10 - 
-│   │   ├── Task 11 - 
+│   │   ├── Task 5 -
+│   │   ├── Task 6 -
+│   │   ├── Task 7 -
+│   │   ├── Task 8 -
+│   │   ├── Task 9 -
+│   │   ├── Task 10 -
+│   │   └── Task 11 -
 │   │   └── Task 12 - 
 │   ├── Exercise
 │       ├── Task 1 - 
