@@ -155,9 +155,9 @@
 │       ├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/06.%20World%20Swimming%20Record/WorldSwimmingRecord/Program.cs"class="button">World Swimming Record</a>
 │       ├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/07.%20Shopping/Shopping/Program.cs" class="button">Shopping</a>
 │       └── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/08.%20Lunch%20Break/LunchBreak/Program.cs" class="button">Lunch Break</a>
-├── Conditional Statements  
-│   ├── <a href="" class="button">Lab</a>
-│   │   ├── Task 1 - Day of Week
+├── Conditional Statements Advanced
+│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button">Lab</a>
+│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeek/Program.cs" class="button">Day of Week</a> ==> <a href="" class="button">If-Else Option</a>
 │   │   ├── Task 2 - 
 │   │   ├── Task 3 - 
 │   │   ├── Task 4 - 
