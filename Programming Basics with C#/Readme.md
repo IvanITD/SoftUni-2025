@@ -49,14 +49,14 @@
     <tr>
       <td>Conditional Statements</td>
       <td>Exercise</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Complete</td>
       <td><b><i>Time manipulation and calculation</i></b> | <b><i>Conditional logic and branching</i></b> | <b><i>Arithmetic and percentage calculations</i></b> | <b><i>Simple input and output handling</i></b> | <b><i>Basic mathematical operations with variables</i></b> | <b><i>Comparison operators and logical expressions</i></b> | <b><i>Problem-solving with basic data structures</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td></td>
       <td>Lab</td>
-      <td>❌ Not Started</td>
-      <td></td>
+      <td>🚧 In Progress</td>
+      <td><b><i>Switch-case construct</b></i> | <b><i>Nested checks</b></i> | <b><i>Logical operators: AND, OR, NOT</b></i></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td>
@@ -155,4 +155,82 @@
 │       ├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/06.%20World%20Swimming%20Record/WorldSwimmingRecord/Program.cs"class="button">World Swimming Record</a>
 │       ├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/07.%20Shopping/Shopping/Program.cs" class="button">Shopping</a>
 │       └── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/08.%20Lunch%20Break/LunchBreak/Program.cs" class="button">Lunch Break</a>
+├── Conditional Statements  
+│   ├── <a href="" class="button">Lab</a>
+│   │   ├── Task 1 - Day of Week
+│   │   ├── Task 2 - 
+│   │   ├── Task 3 - 
+│   │   ├── Task 4 - 
+│   │   ├── Task 5 - 
+│   │   ├── Task 6 -  
+│   │   ├── Task 7 - 
+│   │   ├── Task 8 - 
+│   │   ├── Task 9 - 
+│   │   ├── Task 10 - 
+│   │   ├── Task 11 - 
+│   │   └── Task 12 - 
+│   ├── Exercise
+│       ├── Task 1 - 
+│       ├── Task 2 - 
+│       ├── Task 3 - 
+│       ├── Task 4 - 
+│       ├── Task 5 - 
+│       ├── Task 6 - 
+│       ├── Task 7 - 
+│       ├── Task 8 - 
+│       └── Task 9 - 
+├── For Loop
+│   ├── Lab
+│   │   ├── Task 1 - 
+│   │   ├── Task 2 - 
+│   │   ├── Task 3 - 
+│   │   ├── Task 4 - 
+│   │   ├── Task 5 - 
+│   │   ├── Task 6 - 
+│   │   ├── Task 7 - 
+│   │   ├── Task 8 - 
+│   │   ├── Task 9 - 
+│   │   └── Task 10 - 
+│   ├── Exercise
+│       ├── Task 1 - 
+│       ├── Task 2 - 
+│       ├── Task 3 - 
+│       ├── Task 4 - 
+│       ├── Task 5 - 
+│       ├── Task 6 - 
+│       ├── Task 7 - 
+│       └── Task 8 - 
+├── While Loop
+│   ├── Lab
+│   │   ├── Task 1 - 
+│   │   ├── Task 2 - 
+│   │   ├── Task 3 - 
+│   │   ├── Task 4 - 
+│   │   ├── Task 5 - 
+│   │   ├── Task 6 -
+│   │   ├── Task 7 -
+│   │   └── Task 8 - 
+│   ├── Exercise
+│       ├── Task 1 - 
+│       ├── Task 2 - 
+│       ├── Task 3 - 
+│       ├── Task 4 - 
+│       ├── Task 5 - 
+│       ├── Task 6 - 
+│       └── Task 7 - 
+├── Nested Loops  
+│   ├── Lab
+│   │   ├── Task 1 - 
+│   │   ├── Task 2 - 
+│   │   ├── Task 3 - 
+│   │   ├── Task 4 - 
+│   │   ├── Task 5 - 
+│   │   └── Task 6 - 
+│   ├── Exercise
+│       ├── Task 1 - 
+│       ├── Task 2 - 
+│       ├── Task 3 - 
+│       ├── Task 4 - 
+│       ├── Task 5 - 
+│       └── Task 6 - 
 </pre>
