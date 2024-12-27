@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/bin/Debug/net9.0/DayOfWeek
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/bin/Debug/net9.0/DayOfWeek.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/bin/Debug/net9.0/DayOfWeek.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/bin/Debug/net9.0/DayOfWeek.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/bin/Debug/net9.0/DayOfWeek.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/refint/DayOfWeek.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/DayOfWeek.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/01. Day of Week/DayOfWeek/obj/Debug/net9.0/ref/DayOfWeek.dll
