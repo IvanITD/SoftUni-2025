@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/bin/Debug/net9.0/LunchBreak
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/bin/Debug/net9.0/LunchBreak.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/bin/Debug/net9.0/LunchBreak.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/bin/Debug/net9.0/LunchBreak.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/bin/Debug/net9.0/LunchBreak.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/refint/LunchBreak.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/LunchBreak.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/08. Lunch Break/LunchBreak/obj/Debug/net9.0/ref/LunchBreak.dll
