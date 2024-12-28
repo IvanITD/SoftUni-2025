@@ -88,11 +88,11 @@ Here’s a quick overview of my progress in the **SoftUni 2025** curriculum:
 This repository is organized by modules, with each folder containing tasks, assignments, and solutions. Here’s an example of the directory structure:
 <pre>	
 ├── Programming Basics
-│   ├── Topic 1 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button">First Steps in Coding - Lab</a>
-│   ├── Topic 2 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button">First Steps in Coding - Exercise</a>
-│   ├── Topic 3 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button">Conditional Statements - Lab</a>
-│   ├── Topic 4 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button">Conditional Statements - Exercise</a>
-│   ├── Topic 5 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button">Conditional Statements Advanced - Lab</a>
+│   ├── Topic 1 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button"><b><i>First Steps in Coding - Lab</i></b></a>
+│   ├── Topic 2 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button"><b><i>First Steps in Coding - Exercise</i></b></a>
+│   ├── Topic 3 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button"><b><i>Conditional Statements - Lab</i></b></a>
+│   ├── Topic 4 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button"><b><i>Conditional Statements - Exercise</i></b></a>
+│   ├── Topic 5 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Conditional Statements Advanced - Lab</i></b></a>
 │   ├── Topic 6 - Conditional Statements Advanced - Exercise
 │   ├── Topic 7 - For Loop - Lab
 │   ├── Topic 8 - For Loop - Exercise
