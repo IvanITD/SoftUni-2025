@@ -5,30 +5,18 @@ string dayFromWeek = Console.ReadLine();
 switch (dayFromWeek)
 {
     case "Monday":
-    Console.WriteLine("12");
-    break;
-
     case "Tuesday":
-    Console.WriteLine("12");
-    break;
-    
-    case "Wednesday":
-    Console.WriteLine("14");
-    break;
-
-    case "Thursday":
-    Console.WriteLine("14");
-    break;
-
     case "Friday":
-    Console.WriteLine("12");
-    break;
+        Console.WriteLine("12");
+        break;
+
+    case "Wednesday":
+    case "Thursday":
+        Console.WriteLine("14");
+        break;
 
     case "Saturday":
-    Console.WriteLine("16");
-    break;
-
     case "Sunday":
-    Console.WriteLine("16");
-    break;
+        Console.WriteLine("16");
+        break;
 }
