@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/bin/Debug/net9.0/WorkingHours
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/bin/Debug/net9.0/WorkingHours.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/bin/Debug/net9.0/WorkingHours.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/bin/Debug/net9.0/WorkingHours.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/bin/Debug/net9.0/WorkingHours.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/refint/WorkingHours.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/WorkingHours.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/07. Working Hours/WorkingHours/obj/Debug/net9.0/ref/WorkingHours.dll
