@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/bin/Debug/net9.0/CinemaTicket
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/bin/Debug/net9.0/CinemaTicket.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/bin/Debug/net9.0/CinemaTicket.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/bin/Debug/net9.0/CinemaTicket.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/bin/Debug/net9.0/CinemaTicket.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/refint/CinemaTicket.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/CinemaTicket.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/obj/Debug/net9.0/ref/CinemaTicket.dll
