@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/bin/Debug/net9.0/Cinema
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/bin/Debug/net9.0/Cinema.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/bin/Debug/net9.0/Cinema.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/bin/Debug/net9.0/Cinema.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/bin/Debug/net9.0/Cinema.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/refint/Cinema.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/Cinema.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/01. Cinema/Cinema/obj/Debug/net9.0/ref/Cinema.dll
