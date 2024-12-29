@@ -174,7 +174,7 @@ So feel free to choose whichever one you like better!</p>
 │   ├── Exercise
 │       ├── Task 1 - Cinema ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/Cinema/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/CinemaIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 │       ├── Task 2 - Summer Outfit ==>> <a href="" class="button"><b><i>Combined</i></b></a>
-│       ├── Task 3 - 
+│       ├── Task 3 - New House ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/03.%20New%20House/NewHouse/Program.cs" class="button"><b><i>Combined</i></b></a>
 │       ├── Task 4 - 
 │       ├── Task 5 - 
 │       ├── Task 6 - 
