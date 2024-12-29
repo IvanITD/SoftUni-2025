@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/bin/Debug/net9.0/FruitShop
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/bin/Debug/net9.0/FruitShop.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/bin/Debug/net9.0/FruitShop.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/bin/Debug/net9.0/FruitShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/bin/Debug/net9.0/FruitShop.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/refint/FruitShop.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/FruitShop.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/11. Fruit Shop/FruitShop/obj/Debug/net9.0/ref/FruitShop.dll
