@@ -176,7 +176,7 @@ So feel free to choose whichever one you like better!</p>
 │       ├── Task 2 - Summer Outfit ==>> <a href="" class="button"><b><i>Combined</i></b></a>
 │       ├── Task 3 - New House ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/03.%20New%20House/NewHouse/Program.cs" class="button"><b><i>Combined</i></b></a>
 │       ├── Task 4 - Fishing Boat ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/04.%20Fishing%20Boat/FishingBoat/Program.cs" class="button"><b><i>Combined</i></b></a>
-│       ├── Task 5 - 
+│       ├── Task 5 - Journey ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/05.%20Journey/Journey/Program.cs" class="button"><b><i>Combined</i></b></a>
 │       ├── Task 6 - 
 │       ├── Task 7 - 
 │       ├── Task 8 - 
