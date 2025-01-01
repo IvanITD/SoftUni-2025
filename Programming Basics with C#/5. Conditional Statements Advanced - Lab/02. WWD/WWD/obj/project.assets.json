@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/02. Weekend or Working Day/WeekendOrWorkingDay/WeekendOrWorkingDay.csproj",
+      "projectUniqueName": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/02. WWD/WWD/WeekendOrWorkingDay.csproj",
       "projectName": "WeekendOrWorkingDay",
-      "projectPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/02. Weekend or Working Day/WeekendOrWorkingDay/WeekendOrWorkingDay.csproj",
+      "projectPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/02. WWD/WWD/WeekendOrWorkingDay.csproj",
       "packagesPath": "/Users/astrosspace/.nuget/packages/",
-      "outputPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/02. Weekend or Working Day/WeekendOrWorkingDay/obj/",
+      "outputPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/02. WWD/WWD/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/astrosspace/.nuget/NuGet/NuGet.Config"
