@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\bin\Debug\net9.0\OperationsBetweenNumbers.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\bin\Debug\net9.0\OperationsBetweenNumbers.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\bin\Debug\net9.0\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\bin\Debug\net9.0\OperationsBetweenNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\bin\Debug\net9.0\OperationsBetweenNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\refint\OperationsBetweenNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\06. OBN\OBN\obj\Debug\net9.0\ref\OperationsBetweenNumbers.dll
