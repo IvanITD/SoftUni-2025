@@ -55,19 +55,19 @@
     <tr>
       <td>Conditional Statements Advanced</td></td>
       <td>Lab</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Complete</td>
       <td><b><i>Switch-case construct</b></i> | <b><i>Nested checks</b></i> | <b><i>Logical operators: AND, OR, NOT</b></i></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td>
+      <td>✅ Complete</td>
       <td></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Lab</td>
-      <td>❌ Not Started</td>
+      <td>🚧 In Progress</td>
       <td></td>
     </tr>
     <tr>
