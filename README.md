@@ -94,7 +94,7 @@ This repository is organized by modules, with each folder containing tasks, assi
 │   ├── Topic 4 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button"><b><i>Conditional Statements - Exercise</i></b></a>
 │   ├── Topic 5 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Conditional Statements Advanced - Lab</i></b></a>
 │   ├── Topic 6 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise" class="button"><b><i>Conditional Statements Advanced - Exercise</i></b></a>
-│   ├── Topic 7 - For Loop - Lab
+│   ├── Topic 7 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab" class="button"><b><i>For Loop - Lab</i></b></a>
 │   ├── Topic 8 - For Loop - Exercise
 │   ├── Topic 9 - While Loop - Lab
 │   ├── Topic 10 - While Loop - Exercise
