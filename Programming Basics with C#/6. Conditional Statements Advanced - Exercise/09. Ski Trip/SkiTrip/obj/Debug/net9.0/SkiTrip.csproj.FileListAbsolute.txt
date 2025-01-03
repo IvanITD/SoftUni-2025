@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\bin\Debug\net9.0\SkiTrip.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\bin\Debug\net9.0\SkiTrip.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\bin\Debug\net9.0\SkiTrip.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\bin\Debug\net9.0\SkiTrip.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\bin\Debug\net9.0\SkiTrip.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\refint\SkiTrip.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\SkiTrip.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\6. Conditional Statements Advanced - Exercise\09. Ski Trip\SkiTrip\obj\Debug\net9.0\ref\SkiTrip.dll
