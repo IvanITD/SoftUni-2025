@@ -183,7 +183,7 @@ So feel free to choose whichever one you like better!</p>
 │       └── Task 9 - Ski Trip ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/09.%20Ski%20Trip/SkiTrip/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 ├── For Loop
 │   ├── Lab
-│   │   ├── Task 1 - 
+│   │   ├── Task 1 - Numbers from 1 to 100
 │   │   ├── Task 2 - 
 │   │   ├── Task 3 - 
 │   │   ├── Task 4 - 
