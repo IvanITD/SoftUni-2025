@@ -179,7 +179,7 @@ So feel free to choose whichever one you like better!</p>
 │       ├── Task 5 - Journey ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/05.%20Journey/Journey/Program.cs" class="button"><b><i>Combined</i></b></a>
 │       ├── Task 6 - Operations Between Numbers ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/06.%20OBN/OBN/Program.cs" class="button"><b><i>If-Else Statement</i>></b></a>
 │       ├── Task 7 - Hotel Room ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/07.%20Hotel%20Room/HotelRoom/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│       ├── Task 8 - 
+│       ├── Task 8 - On Time for the Exam ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/08.%20On%20Time%20for%20the%20Exam/OnTimeForExam/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 │       └── Task 9 - 
 ├── For Loop
 │   ├── Lab
