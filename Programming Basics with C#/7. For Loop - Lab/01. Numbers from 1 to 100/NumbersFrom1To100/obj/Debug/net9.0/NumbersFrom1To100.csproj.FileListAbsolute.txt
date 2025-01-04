@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\bin\Debug\net9.0\NumbersFrom1To100.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\bin\Debug\net9.0\NumbersFrom1To100.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\bin\Debug\net9.0\NumbersFrom1To100.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\bin\Debug\net9.0\NumbersFrom1To100.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\bin\Debug\net9.0\NumbersFrom1To100.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\refint\NumbersFrom1To100.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\NumbersFrom1To100.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\01. Numbers from 1 to 100\NumbersFrom1To100\obj\Debug\net9.0\ref\NumbersFrom1To100.dll
