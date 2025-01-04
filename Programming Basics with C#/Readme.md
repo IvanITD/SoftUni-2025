@@ -184,8 +184,9 @@ So feel free to choose whichever one you like better!</p>
 ├── For Loop
 │   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab" class="button"><b><i>Lab</i></b></a>
 │   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/01.%20Numbers%20from%201%20to%20100/NumbersFrom1To100/Program.cs" class="button"><b><i>Numbers from 1 to 100</i></b></a>
-│   │   ├── Task 2 - 
-│   │   ├── Task 3 - 
+│   │   ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/02.%20Numbers%20Nto100/NumbersNto100/Program.cs" class="button"><b><i>Numbers N...1</i></b></a>
+│   │   ├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/03.%20Numbers%201toN%20with%20Step%203/Numbers1toNWithStep3/Program.cs" class="button"><b><i>Numbers 1...N with Step 3</i></b></a>
+
 │   │   ├── Task 4 - 
 │   │   ├── Task 5 - 
 │   │   ├── Task 6 - 
