@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\bin\Debug\net9.0\VegetableMarket.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\bin\Debug\net9.0\VegetableMarket.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\bin\Debug\net9.0\VegetableMarket.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\bin\Debug\net9.0\VegetableMarket.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\bin\Debug\net9.0\VegetableMarket.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\refint\VegetableMarket.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\VegetableMarket.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\04. Vegetable Market\VegetableMarket\obj\Debug\net9.0\ref\VegetableMarket.dll
