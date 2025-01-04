@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\bin\Debug\net9.0\Numbers1toNWithStep3.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\bin\Debug\net9.0\Numbers1toNWithStep3.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\bin\Debug\net9.0\Numbers1toNWithStep3.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\bin\Debug\net9.0\Numbers1toNWithStep3.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\bin\Debug\net9.0\Numbers1toNWithStep3.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\refint\Numbers1toNWithStep3.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\Numbers1toNWithStep3.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\03. Numbers 1toN with Step 3\Numbers1toNWithStep3\obj\Debug\net9.0\ref\Numbers1toNWithStep3.dll
