@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\bin\Debug\net9.0\CelciusToFahrenheit.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\bin\Debug\net9.0\CelciusToFahrenheit.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\bin\Debug\net9.0\CelciusToFahrenheit.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\bin\Debug\net9.0\CelciusToFahrenheit.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\bin\Debug\net9.0\CelciusToFahrenheit.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\refint\CelciusToFahrenheit.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\CelciusToFahrenheit.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\03. Celsius to Fahrenheit\CelciusToFahrenheit\obj\Debug\net9.0\ref\CelciusToFahrenheit.dll
