@@ -171,7 +171,7 @@ So feel free to choose whichever one you like better!</p>
 │   │   ├── Task 10 - Invalid Number ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/10.%20Invalid%20Number/InvalidNumber/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 │   │   └── Task 11 - Fruit Shop ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/11.%20Fruit%20Shop/FruitShop/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/11.%20Fruit%20Shop/FruitShopIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 │   │   └── Task 12 - Trade Commissions ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/12.%20Trade%20Commissions/TradeCommissions/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   ├── Exercise
+│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise" class="button"><b><i>Exercise</i></b></a>
 │       ├── Task 1 - Cinema ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/Cinema/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/CinemaIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 │       ├── Task 2 - Summer Outfit ==>> <a href="" class="button"><b><i>Combined</i></b></a>
 │       ├── Task 3 - New House ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/03.%20New%20House/NewHouse/Program.cs" class="button"><b><i>Combined</i></b></a>
@@ -182,8 +182,8 @@ So feel free to choose whichever one you like better!</p>
 │       ├── Task 8 - On Time for the Exam ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/08.%20On%20Time%20for%20the%20Exam/OnTimeForExam/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 │       └── Task 9 - Ski Trip ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/09.%20Ski%20Trip/SkiTrip/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
 ├── For Loop
-│   ├── Lab
-│   │   ├── Task 1 - Numbers from 1 to 100
+│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab" class="button"><b><i>Lab</i></b></a>
+│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/01.%20Numbers%20from%201%20to%20100/NumbersFrom1To100/Program.cs" class="button"><b><i>Numbers from 1 to 100</i></b></a>
 │   │   ├── Task 2 - 
 │   │   ├── Task 3 - 
 │   │   ├── Task 4 - 
