@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\bin\Debug\net9.0\TrapeziodArea.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\bin\Debug\net9.0\TrapeziodArea.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\bin\Debug\net9.0\TrapeziodArea.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\bin\Debug\net9.0\TrapeziodArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\bin\Debug\net9.0\TrapeziodArea.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\refint\TrapeziodArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\TrapeziodArea.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\01. Trapeziod Area\TrapeziodArea\obj\Debug\net9.0\ref\TrapeziodArea.dll
