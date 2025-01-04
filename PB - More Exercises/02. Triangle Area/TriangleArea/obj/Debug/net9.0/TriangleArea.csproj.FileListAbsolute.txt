@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\bin\Debug\net9.0\TriangleArea.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\bin\Debug\net9.0\TriangleArea.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\bin\Debug\net9.0\TriangleArea.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\bin\Debug\net9.0\TriangleArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\bin\Debug\net9.0\TriangleArea.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\refint\TriangleArea.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\TriangleArea.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\02. Triangle Area\TriangleArea\obj\Debug\net9.0\ref\TriangleArea.dll
