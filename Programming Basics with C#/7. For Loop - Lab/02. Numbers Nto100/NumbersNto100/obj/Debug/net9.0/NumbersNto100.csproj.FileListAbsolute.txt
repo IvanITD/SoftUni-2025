@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\bin\Debug\net9.0\NumbersNto100.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\bin\Debug\net9.0\NumbersNto100.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\bin\Debug\net9.0\NumbersNto100.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\bin\Debug\net9.0\NumbersNto100.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\bin\Debug\net9.0\NumbersNto100.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\refint\NumbersNto100.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\NumbersNto100.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\02. Numbers Nto100\NumbersNto100\obj\Debug\net9.0\ref\NumbersNto100.dll
