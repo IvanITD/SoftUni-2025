@@ -187,7 +187,7 @@ So feel free to choose whichever one you like better!</p>
 │   │   ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/02.%20Numbers%20Nto100/NumbersNto100/Program.cs" class="button"><b><i>Numbers N...1</i></b></a>
 │   │   ├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/03.%20Numbers%201toN%20with%20Step%203/Numbers1toNWithStep3/Program.cs" class="button"><b><i>Numbers 1...N with Step 3</i></b></a>
 
-│   │   ├── Task 4 - 
+│   │   ├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/04.%20Even%20Powers%20of%202/EvenPowersOf2/Program.cs" class="button"><b><i>Even Powers of 2</i></b></a>
 │   │   ├── Task 5 - 
 │   │   ├── Task 6 - 
 │   │   ├── Task 7 - 
