@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\bin\Debug\net9.0\CharacterSequence.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\bin\Debug\net9.0\CharacterSequence.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\bin\Debug\net9.0\CharacterSequence.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\bin\Debug\net9.0\CharacterSequence.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\bin\Debug\net9.0\CharacterSequence.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\refint\CharacterSequence.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\CharacterSequence.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\05. Character Sequence\CharacterSequence\obj\Debug\net9.0\ref\CharacterSequence.dll
