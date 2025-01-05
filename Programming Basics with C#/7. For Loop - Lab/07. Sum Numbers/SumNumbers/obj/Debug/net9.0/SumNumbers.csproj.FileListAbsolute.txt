@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\bin\Debug\net9.0\SumNumbers.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\bin\Debug\net9.0\SumNumbers.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\bin\Debug\net9.0\SumNumbers.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\bin\Debug\net9.0\SumNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\bin\Debug\net9.0\SumNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\refint\SumNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\SumNumbers.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\07. Sum Numbers\SumNumbers\obj\Debug\net9.0\ref\SumNumbers.dll
