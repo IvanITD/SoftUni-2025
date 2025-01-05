@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\bin\Debug\net9.0\EvenPowersOf2.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\bin\Debug\net9.0\EvenPowersOf2.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\bin\Debug\net9.0\EvenPowersOf2.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\bin\Debug\net9.0\EvenPowersOf2.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\bin\Debug\net9.0\EvenPowersOf2.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\refint\EvenPowersOf2.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\EvenPowersOf2.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\04. Even Powers of 2\EvenPowersOf2\obj\Debug\net9.0\ref\EvenPowersOf2.dll
