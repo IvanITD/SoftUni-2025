@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\bin\Debug\net9.0\VowelsSum.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\bin\Debug\net9.0\VowelsSum.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\bin\Debug\net9.0\VowelsSum.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\bin\Debug\net9.0\VowelsSum.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\bin\Debug\net9.0\VowelsSum.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\refint\VowelsSum.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\VowelsSum.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\06. Vowels Sum\VowelsSum\obj\Debug\net9.0\ref\VowelsSum.dll
