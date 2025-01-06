@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\bin\Debug\net9.0\NumberSequence.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\bin\Debug\net9.0\NumberSequence.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\bin\Debug\net9.0\NumberSequence.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\bin\Debug\net9.0\NumberSequence.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\bin\Debug\net9.0\NumberSequence.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\refint\NumberSequence.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\NumberSequence.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\7. For Loop - Lab\08. Number sequence\NumberSequence\obj\Debug\net9.0\ref\NumberSequence.dll
