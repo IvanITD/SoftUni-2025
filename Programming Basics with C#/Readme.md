@@ -191,7 +191,7 @@ So feel free to choose whichever one you like better!</p>
 │   │   ├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/05.%20Character%20Sequence/CharacterSequence/Program.cs" class="button"><b><i>Character Sequence</i></b></a>
 │   │   ├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/06.%20Vowels%20Sum/VowelsSum/Program.cs" class="button"><b><i>Vowels Sum</i></b></a>
 │   │   ├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/07.%20Sum%20Numbers/SumNumbers/Program.cs" class="button"><b><i>Sum Numbers</i></b></a>
-│   │   ├── Task 8 - 
+│   │   ├── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/08.%20Number%20sequence/NumberSequence/Program.cs" class="button"><b><i>Number Sequence</i></b></a>
 │   │   ├── Task 9 - 
 │   │   └── Task 10 - 
 │   ├── Exercise
