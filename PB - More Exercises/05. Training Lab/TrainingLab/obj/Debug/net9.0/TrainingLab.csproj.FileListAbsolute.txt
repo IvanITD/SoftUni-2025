@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\bin\Debug\net9.0\TrainingLab.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\bin\Debug\net9.0\TrainingLab.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\bin\Debug\net9.0\TrainingLab.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\bin\Debug\net9.0\TrainingLab.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\bin\Debug\net9.0\TrainingLab.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\refint\TrainingLab.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\TrainingLab.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\05. Training Lab\TrainingLab\obj\Debug\net9.0\ref\TrainingLab.dll
