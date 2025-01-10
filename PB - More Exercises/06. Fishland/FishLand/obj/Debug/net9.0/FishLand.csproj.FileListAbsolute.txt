@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\bin\Debug\net9.0\FishLand.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\bin\Debug\net9.0\FishLand.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\bin\Debug\net9.0\FishLand.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\bin\Debug\net9.0\FishLand.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\bin\Debug\net9.0\FishLand.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\refint\FishLand.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\FishLand.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\06. Fishland\FishLand\obj\Debug\net9.0\ref\FishLand.dll
