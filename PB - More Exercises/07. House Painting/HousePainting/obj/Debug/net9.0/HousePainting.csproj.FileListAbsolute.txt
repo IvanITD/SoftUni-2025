@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\bin\Debug\net9.0\HousePainting.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\bin\Debug\net9.0\HousePainting.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\bin\Debug\net9.0\HousePainting.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\bin\Debug\net9.0\HousePainting.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\bin\Debug\net9.0\HousePainting.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\refint\HousePainting.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\HousePainting.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\07. House Painting\HousePainting\obj\Debug\net9.0\ref\HousePainting.dll
