@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\bin\Debug\net9.0\WeatherForecastSecondPart.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\bin\Debug\net9.0\WeatherForecastSecondPart.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\bin\Debug\net9.0\WeatherForecastSecondPart.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\bin\Debug\net9.0\WeatherForecastSecondPart.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\bin\Debug\net9.0\WeatherForecastSecondPart.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\refint\WeatherForecastSecondPart.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\WeatherForecastSecondPart.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\09. Weather Forecast Second Part\WeatherForecastSecondPart\obj\Debug\net9.0\ref\WeatherForecastSecondPart.dll
