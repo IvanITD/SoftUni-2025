@@ -118,122 +118,19 @@ So feel free to choose whichever one you like better!</p>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:</p>
 <pre>
-├── First Steps in Coding
-│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button"><b><i>Lab</i></b></a>
-│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button"><b><i>Hello SoftUni</i></b></a>
-│   │   ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/02.%20Nums%201...10/Nums1to10/Program.cs" class="button"><b><i>Nums 1...10</i></b></a>
-│   │	├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/03.%20Rectangle%20Area/RectangleArea/Program.cs" class="button"><b><i>Rectangle Area</i></b></a>
-│   │	├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/04.%20Inches%20to%20Centimeters/InchesToCentimeters/Program.cs" class="button"><b><i>Inches to Centimeters</i></b></a>
-│   │	├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/05.%20Greeting%20by%20Name/GreetingByName/Program.cs" class="button"><b><i>Greeting by Name</i></b></a>
-│   │	├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/06.%20Concatenate%20Data/ConcatenateData/Program.cs" class="button"><b><i>Concatenate Data</i></b></a>
-│   │	├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/07.%20Projects%20Creation/ProjectsCreation/Program.cs" class="button"><b><i>Projects Creation</i></b></a>
-│   │	├── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/08.%20Pet%20Shop/PetShop/Program.cs" class="button"><b><i>Pet Shop</i></b></a>
-│   │   └── Task 9 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/09.%20Yard%20Greening/YardGreening/Program.cs" class="button"><b><i>Yard Greening</i></b></a>
-│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button"><b><i>Exercise</i></b></a>
-│       ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/01.%20USD%20to%20BGN/usdToBgn/Program.cs" class="button"><b><i>USD to BGN</i></b></a>
-│       ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/02.%20Radians%20to%20Degrees/RadiansToDegrees/Program.cs" class="button"><b><i>Radians to Degrees</i></b></a>
-│       ├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/03.%20Deposit%20Calculator/DepositCalculator/Program.cs" class="button"><b><i>Deposit Calculator</i></b></a>
-│       ├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/04.%20Vacation%20Books%20List/VacationBooksList/Program.cs" class="button"><b><i>Vacation Books List</i></b></a>
-│       ├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/05.%20Supplies%20for%20School/SuppliesForSchool/Program.cs" class="button"><b><i>Supplies for School</i></b></a>
-│       ├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/06.%20Repainting/Repainting/Program.cs" class="button"><b><i>Repainting</i></b></a>
-│       ├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/07.%20Food%20Delivery/FoodDelivery/Program.cs" class="button"><b><i>Food Delivery</i></b></a>
-│       ├── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/08.%20Basketball%20Equipment/BasketballEquipment/Program.cs" class="button"><b><i>Basketball Equipment</i></b></a>
-│       └── Task 9 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/09.%20Fish%20Tank/FishTank/Program.cs" class="button"><b><i>Fish Tank</i></b></a>
-├── Conditional Statements  
-│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button"><b><i>Lab</i></b></a>
-│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/01.%20Excellent%20Result/ExcellentResult/Program.cs" class="button"><b><i>Excellent Result</i></b></a>
-│   │   ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/02.%20Greater%20Number/GreaterNumber/Program.cs" class="button"><b><i>Greater Number</i></b></a>
-│   │	├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/03.%20Even%20or%20Odd/EvenOrOdd/Program.cs" class="button"><b><i>Even or Odd</b></i></a>
-│   │	├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/04.%20Password%20Guess/PasswordGuess/Program.cs" class="button"><b><i>Password Guess</i></b></a>
-│   │	├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/05.%20Number%20100To200/Number100To200/Program.cs" class="button"><b><i>Number 100...200</i></b></a>
-│   │	├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/06.%20Speed%20Info/SpeedInfo/Program.cs" class="button"><b><i>Speed Info</i></b></a>
-│   │   └── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/07.%20Area%20of%20Figures/AreaOfFigures/Program.cs" class="button"><b><i>Area of Figures</i></b></a>
-│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button"><b><i>Exercise</i></b></a>
-│       ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/01.%20Sum%20Seconds/SumSeconds/Program.cs" class="button"><b><i>Sum Seconds</i></b></a>
-│       ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/02.%20Bonus%20Score/BonusScore/Program.cs" class="button"><b><i>Bonus Score</i></b></a>
-│       ├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/03.%20Time%20Plus%2015%20Minutes/TimePlus15Minutes/Program.cs" class="button"><b><i>Time + 15 Minutes</i></b></a>
-│       ├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/04.%20Toy%20Shop/ToyShop/Program.cs" class="button"><b><i>Toy Shop</i></b></a>
-│       ├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/05.%20Godzilla%20vs.%20Kong/GodzillaVSKong/Program.cs" class="button"><b><i>Godzilla vs. Kong</i></b></a>
-│       ├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/06.%20World%20Swimming%20Record/WorldSwimmingRecord/Program.cs"class="button"><b><i>World Swimming Record</i></b></a>
-│       ├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/07.%20Shopping/Shopping/Program.cs" class="button"><b><i>Shopping</i></b></a>
-│       └── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/08.%20Lunch%20Break/LunchBreak/Program.cs" class="button"><b><i>Lunch Break</i></b></a>
-├── Conditional Statements Advanced
-│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Lab</i></b></a>
-│   │   ├── Task 1 - Day of Week ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeek/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeekIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 2 - Weekend or Working Day ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20Weekend%20or%20Working%20Day/WeekendOrWorkingDay/Program.cs" class="button"><b><i>Switch  Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20Weekend%20or%20Working%20Day/WeekendOrWorkingDayIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 3 - Animal Type ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/03.%20Animal%20Type/AnimalType/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/03.%20Animal%20Type/AnimalTypeIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 4 - Personal Titles ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/04.%20Personal%20Titles/PersonalTitles/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/04.%20Personal%20Titles/PersonalTitlesIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 5 - Small Shop ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/05.%20Small%20Shop/SmallShop/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/05.%20Small%20Shop/SmallShopIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 6 - Number in Range ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/06.%20Number%20in%20Range/NumberInRange/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 7 - Working Hours ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/07.%20Working%20Hours/WorkingHours/Program.cs" class="button"><b><i>Combined</i></b></a>
-│   │   ├── Task 8 - Cinema Ticket ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/08.%20Cinema%20Ticket/CinemaTicket/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/08.%20Cinema%20Ticket/CinemaTicketIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 9 - Fruit or Vegetable ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/09.%20Fruit%20or%20Vegetable/FruitOrVegetable/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/09.%20Fruit%20or%20Vegetable/FruitOrVegetableIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   ├── Task 10 - Invalid Number ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/10.%20Invalid%20Number/InvalidNumber/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   └── Task 11 - Fruit Shop ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/11.%20Fruit%20Shop/FruitShop/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/11.%20Fruit%20Shop/FruitShopIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   │   └── Task 12 - Trade Commissions ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/12.%20Trade%20Commissions/TradeCommissions/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise" class="button"><b><i>Exercise</i></b></a>
-│       ├── Task 1 - Cinema ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/Cinema/Program.cs" class="button"><b><i>Switch Statement</i></b></a> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/CinemaIfElse/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│       ├── Task 2 - Summer Outfit ==>> <a href="" class="button"><b><i>Combined</i></b></a>
-│       ├── Task 3 - New House ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/03.%20New%20House/NewHouse/Program.cs" class="button"><b><i>Combined</i></b></a>
-│       ├── Task 4 - Fishing Boat ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/04.%20Fishing%20Boat/FishingBoat/Program.cs" class="button"><b><i>Combined</i></b></a>
-│       ├── Task 5 - Journey ==>> <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/05.%20Journey/Journey/Program.cs" class="button"><b><i>Combined</i></b></a>
-│       ├── Task 6 - Operations Between Numbers ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/06.%20OBN/OBN/Program.cs" class="button"><b><i>If-Else Statement</i>></b></a>
-│       ├── Task 7 - Hotel Room ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/07.%20Hotel%20Room/HotelRoom/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│       ├── Task 8 - On Time for the Exam ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/08.%20On%20Time%20for%20the%20Exam/OnTimeForExam/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-│       └── Task 9 - Ski Trip ==>> <i>Switch Not Supported</i> || <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/09.%20Ski%20Trip/SkiTrip/Program.cs" class="button"><b><i>If-Else Statement</i></b></a>
-├── For Loop
-│   ├── <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab" class="button"><b><i>Lab</i></b></a>
-│   │   ├── Task 1 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/01.%20Numbers%20from%201%20to%20100/NumbersFrom1To100/Program.cs" class="button"><b><i>Numbers from 1 to 100</i></b></a>
-│   │   ├── Task 2 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/02.%20Numbers%20Nto100/NumbersNto100/Program.cs" class="button"><b><i>Numbers N...1</i></b></a>
-│   │   ├── Task 3 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/03.%20Numbers%201toN%20with%20Step%203/Numbers1toNWithStep3/Program.cs" class="button"><b><i>Numbers 1...N with Step 3</i></b></a>
+First Steps in Coding
+  <details>
+  <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button"><b><i>Open Folder</i></b></a>)</summary>
+  <ul>
+    <li>01. Hello SoftUni (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>02. </li>
+    <li>03. </li>
+    <li>04. </li>
+    <li>05. </li>
+    <li>06. </li>
+    <li>07. </li>
+    <li>08. </li>
+    <li>09. </li>
+  </ul>
 
-│   │   ├── Task 4 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/04.%20Even%20Powers%20of%202/EvenPowersOf2/Program.cs" class="button"><b><i>Even Powers of 2</i></b></a>
-│   │   ├── Task 5 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/05.%20Character%20Sequence/CharacterSequence/Program.cs" class="button"><b><i>Character Sequence</i></b></a>
-│   │   ├── Task 6 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/06.%20Vowels%20Sum/VowelsSum/Program.cs" class="button"><b><i>Vowels Sum</i></b></a>
-│   │   ├── Task 7 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/07.%20Sum%20Numbers/SumNumbers/Program.cs" class="button"><b><i>Sum Numbers</i></b></a>
-│   │   ├── Task 8 - <a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/08.%20Number%20sequence/NumberSequence/Program.cs" class="button"><b><i>Number Sequence</i></b></a>
-│   │   ├── Task 9 - 
-│   │   └── Task 10 - 
-│   ├── Exercise
-│       ├── Task 1 - 
-│       ├── Task 2 - 
-│       ├── Task 3 - 
-│       ├── Task 4 - 
-│       ├── Task 5 - 
-│       ├── Task 6 - 
-│       ├── Task 7 - 
-│       └── Task 8 - 
-├── While Loop
-│   ├── Lab
-│   │   ├── Task 1 - 
-│   │   ├── Task 2 - 
-│   │   ├── Task 3 - 
-│   │   ├── Task 4 - 
-│   │   ├── Task 5 - 
-│   │   ├── Task 6 -
-│   │   ├── Task 7 -
-│   │   └── Task 8 - 
-│   ├── Exercise
-│       ├── Task 1 - 
-│       ├── Task 2 - 
-│       ├── Task 3 - 
-│       ├── Task 4 - 
-│       ├── Task 5 - 
-│       ├── Task 6 - 
-│       └── Task 7 - 
-├── Nested Loops  
-│   ├── Lab
-│   │   ├── Task 1 - 
-│   │   ├── Task 2 - 
-│   │   ├── Task 3 - 
-│   │   ├── Task 4 - 
-│   │   ├── Task 5 - 
-│   │   └── Task 6 - 
-│   ├── Exercise
-│       ├── Task 1 - 
-│       ├── Task 2 - 
-│       ├── Task 3 - 
-│       ├── Task 4 - 
-│       ├── Task 5 - 
-│       └── Task 6 - 
-</pre>
+  </details>
