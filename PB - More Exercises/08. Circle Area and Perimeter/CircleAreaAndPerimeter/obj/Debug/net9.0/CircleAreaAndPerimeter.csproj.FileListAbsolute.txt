@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\bin\Debug\net9.0\CircleAreaAndPerimeter.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\bin\Debug\net9.0\CircleAreaAndPerimeter.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\bin\Debug\net9.0\CircleAreaAndPerimeter.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\bin\Debug\net9.0\CircleAreaAndPerimeter.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\bin\Debug\net9.0\CircleAreaAndPerimeter.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\refint\CircleAreaAndPerimeter.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\CircleAreaAndPerimeter.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\08. Circle Area and Perimeter\CircleAreaAndPerimeter\obj\Debug\net9.0\ref\CircleAreaAndPerimeter.dll
