@@ -137,14 +137,42 @@ So feel free to choose whichever one you like better!</p>
   <details>
   <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
   <ol>
-  <li>USD to BGN (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Radians to Degrees (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Deposit Calculator (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Vacation Books List (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Supplies for School (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Repainting (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Food Delivery (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Basketball Equipment (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Fish Tank (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>USD to BGN (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/01.%20USD%20to%20BGN/usdToBgn/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Radians to Degrees (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/02.%20Radians%20to%20Degrees/RadiansToDegrees/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Deposit Calculator (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/03.%20Deposit%20Calculator/DepositCalculator/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Vacation Books List (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/04.%20Vacation%20Books%20List/VacationBooksList/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Supplies for School (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/05.%20Supplies%20for%20School/SuppliesForSchool/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Repainting (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/06.%20Repainting/Repainting/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Food Delivery (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/07.%20Food%20Delivery/FoodDelivery/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Basketball Equipment (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/08.%20Basketball%20Equipment/BasketballEquipment/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Fish Tank (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/09.%20Fish%20Tank/FishTank/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   </ol>
+  </details>
+
+<h3>Conditional Statements</h3>
+  <details>
+    <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <ol>
+      <li>Excellent Result (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Greater Number (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Even or Odd (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Password Guess (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Number 100...200 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Speed Info (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Area of Figures (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+    </ol>
+  </details>
+
+  <details>
+    <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <ol>
+      <li>Sum Seconds (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Bonus Score (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Time + 15 Minutes (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Toy Shop (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Godzilla vs. Kong (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>World Swimming Record (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Shopping (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Lunch Break (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+    </ol>
   </details>
