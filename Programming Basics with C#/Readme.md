@@ -116,7 +116,7 @@
 So feel free to choose whichever one you like better!</p>
 <hr>
 <h3>📋 Contents</h3>
-<p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:</p>
+<p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:<br>I also decided to include my <strong>PB More Exercises</strong> Section in case someone wants to check what I've done!</p>
 
 <h3>First Steps in Coding</h3>
   <details>
@@ -153,26 +153,157 @@ So feel free to choose whichever one you like better!</p>
   <details>
     <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
     <ol>
-      <li>Excellent Result (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Greater Number (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Even or Odd (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Password Guess (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Number 100...200 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Speed Info (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Area of Figures (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Excellent Result (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/01.%20Excellent%20Result/ExcellentResult/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Greater Number (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/02.%20Greater%20Number/GreaterNumber/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Even or Odd (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/03.%20Even%20or%20Odd/EvenOrOdd/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Password Guess (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/04.%20Password%20Guess/PasswordGuess/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Number 100...200 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/05.%20Number%20100To200/Number100To200/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Speed Info (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/06.%20Speed%20Info/SpeedInfo/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Area of Figures (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/07.%20Area%20of%20Figures/AreaOfFigures/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     </ol>
   </details>
 
   <details>
     <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
     <ol>
-      <li>Sum Seconds (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Bonus Score (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Time + 15 Minutes (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Toy Shop (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Godzilla vs. Kong (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>World Swimming Record (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Shopping (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Lunch Break (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Sum Seconds (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/01.%20Sum%20Seconds/SumSeconds/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Bonus Score (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/02.%20Bonus%20Score/BonusScore/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Time + 15 Minutes (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/03.%20Time%20Plus%2015%20Minutes/TimePlus15Minutes/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Toy Shop (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/04.%20Toy%20Shop/ToyShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Godzilla vs. Kong (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/05.%20Godzilla%20vs.%20Kong/GodzillaVSKong/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>World Swimming Record (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/06.%20World%20Swimming%20Record/WorldSwimmingRecord/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Shopping (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/07.%20Shopping/Shopping/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Lunch Break (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/08.%20Lunch%20Break/LunchBreak/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    </ol>
+  </details>
+
+  <h3>Conditional Statements Advanced</h3>
+
+  <details>
+    <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <ol>
+      <li>
+      <details>
+      <summary>Day of Week</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeek/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/01.%20Day%20of%20Week/DayOfWeekIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Weekend or Working Day</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20WWD/WWD/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/02.%20WWD/WWDIf-Else/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Animal Type</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/03.%20Animal%20Type/AnimalType/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/03.%20Animal%20Type/AnimalTypeIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Personal Titles</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/04.%20Personal%20Titles/PersonalTitles/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/04.%20Personal%20Titles/PersonalTitlesIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Small Shop</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/05.%20Small%20Shop/SmallShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/05.%20Small%20Shop/SmallShopIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Number in Range</summary>
+        <ul>
+          <li><i>Switch Not Supported</i></li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/06.%20Number%20in%20Range/NumberInRange/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Working Hours</summary>
+        <ul>
+          <li>Combined (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/07.%20Working%20Hours/WorkingHours/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <p> =>> Here I combined <strong>Switch Case</strong> & <strong>If-Else Statement</strong></p>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Cinema Ticket</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/08.%20Cinema%20Ticket/CinemaTicket/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/08.%20Cinema%20Ticket/CinemaTicketIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Fruit or Vegetables</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/09.%20Fruit%20or%20Vegetable/FruitOrVegetable/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/09.%20Fruit%20or%20Vegetable/FruitOrVegetableIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Invalid Number</summary>
+        <ul>
+          <li><i>Switch Not Supported</i></li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/10.%20Invalid%20Number/InvalidNumber/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Fruit Shop</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/11.%20Fruit%20Shop/FruitShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/11.%20Fruit%20Shop/FruitShopIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Trade Commissions</summary>
+        <ul>
+          <li><i>Switch Not Supported</i></li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab/12.%20Trade%20Commissions/TradeCommissions/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+    </ol>
+  </details>
+
+  <details>
+    <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <ol>
+      <li>
+      <details>
+      <summary>Cinema</summary>
+        <ul>
+          <li>Switch Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/Cinema/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/01.%20Cinema/CinemaIfElse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
     </ol>
   </details>
