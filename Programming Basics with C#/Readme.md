@@ -117,10 +117,10 @@ So feel free to choose whichever one you like better!</p>
 <hr>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:<br>I also decided to include my <strong>PB More Exercises</strong> Section in case someone wants to check what I've done!</p>
-
+<h1>C# Basics</h1>
 <h3>First Steps in Coding</h3>
   <details>
-  <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+  <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
   <ol>
     <li>Hello SoftUni (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Nums 1...10 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/02.%20Nums%201...10/Nums1to10/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
@@ -135,7 +135,7 @@ So feel free to choose whichever one you like better!</p>
   </details>
 
   <details>
-  <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+  <summary><strong>Exercise</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
   <ol>
   <li>USD to BGN (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/01.%20USD%20to%20BGN/usdToBgn/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Radians to Degrees (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise/02.%20Radians%20to%20Degrees/RadiansToDegrees/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
@@ -151,7 +151,7 @@ So feel free to choose whichever one you like better!</p>
 
 <h3>Conditional Statements</h3>
   <details>
-    <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
     <ol>
       <li>Excellent Result (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/01.%20Excellent%20Result/ExcellentResult/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Greater Number (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/3.%20Conditional%20Statements%20-%20Lab/02.%20Greater%20Number/GreaterNumber/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
@@ -164,7 +164,7 @@ So feel free to choose whichever one you like better!</p>
   </details>
 
   <details>
-    <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <summary><strong>Exercise</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
     <ol>
       <li>Sum Seconds (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/01.%20Sum%20Seconds/SumSeconds/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Bonus Score (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/4.%20Conditional%20Statements%20-%20Exercise/02.%20Bonus%20Score/BonusScore/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
@@ -180,7 +180,7 @@ So feel free to choose whichever one you like better!</p>
   <h3>Conditional Statements Advanced</h3>
 
   <details>
-    <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
     <ol>
       <li>
       <details>
@@ -294,7 +294,7 @@ So feel free to choose whichever one you like better!</p>
   </details>
 
   <details>
-    <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <summary><strong>Exercise</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
     <ol>
       <li>
       <details>
@@ -305,5 +305,94 @@ So feel free to choose whichever one you like better!</p>
         </ul>
       </details>
       </li>
+      <li>
+      <details>
+      <summary>Summer Outfit</summary>
+        <ul>
+          <li>Combined (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/02.%20Summer%20Outfit/SummerOutfit/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <p> =>> Here I combined <strong>Switch Case</strong> & <strong>If-Else Statement</strong></p>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>New Outfit</summary>
+        <ul>
+          <li>Combined (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/03.%20New%20House/NewHouse/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <p> =>> Here I combined <strong>Switch Case</strong> & <strong>If-Else Statement</strong></p>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Fishing Boat</summary>
+        <ul>
+          <li>Combined (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/04.%20Fishing%20Boat/FishingBoat/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <p> =>> Here I combined <strong>Switch Case</strong> & <strong>If-Else Statement</strong></p>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Journey</summary>
+        <ul>
+          <li>Combined (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/05.%20Journey/Journey/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+          <p> =>> Here I combined <strong>Switch Case</strong> & <strong>If-Else Statement</strong></p>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Operations Between Numbers</summary>
+        <ul>
+          <li><i>Switch Not Supported</i></li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/06.%20OBN/OBN/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Hotel Room</summary>
+        <ul>
+          <li><i>Switch Not Supported</i></li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/07.%20Hotel%20Room/HotelRoom/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>On Time for the Exam</summary>
+        <ul>
+          <li><i>Switch Not Supported</i></li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/08.%20On%20Time%20for%20the%20Exam/OnTimeForExam/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+      <li>
+      <details>
+      <summary>Ski Trip</summary>
+        <ul>
+          <li><i>Switch Not Supported</i></li>
+          <li>If-Else Statement (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise/09.%20Ski%20Trip/SkiTrip/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+        </ul>
+      </details>
+      </li>
+    </ol>
+  </details>
+
+  <h3>For Loop</h3>
+  <details>
+    <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <ol>
+      <li>Numbers from 1 to 100 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/01.%20Numbers%20from%201%20to%20100/NumbersFrom1To100/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Numbers N...1 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Numbers 1...N with Step 3 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/03.%20Numbers%201toN%20with%20Step%203/Numbers1toNWithStep3/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Even Powers of 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/04.%20Even%20Powers%20of%202/EvenPowersOf2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Character Sequence (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/05.%20Character%20Sequence/CharacterSequence/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Vowels Sum (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/06.%20Vowels%20Sum/VowelsSum/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Sum Numbers (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/07.%20Sum%20Numbers/SumNumbers/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Numbers Sequence (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/08.%20Number%20sequence/NumberSequence/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li></li>
+      <li></li>
     </ol>
   </details>
