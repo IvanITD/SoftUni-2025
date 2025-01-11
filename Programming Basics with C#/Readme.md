@@ -117,6 +117,12 @@ So feel free to choose whichever one you like better!</p>
 <hr>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:<br>I also decided to include my <strong>PB More Exercises</strong> Section in case someone wants to check what I've done!</p>
+<!-- This is where the right side of the content starts-->
+<!-- C# Basics -->
+<table>
+<tr>
+<!--Left Side Content-->
+<td style="vertical-align: top; padding-right: 20px;">
 <h1>C# Basics</h1>
 <h3>First Steps in Coding</h3>
   <details>
@@ -396,3 +402,29 @@ So feel free to choose whichever one you like better!</p>
       <li></li>
     </ol>
   </details>
+  </td>
+  <td style="vertical-align:top;">
+  <!--This is where the left side starts-->
+  <!--PB More Exercises-->
+  <h1>PB More Exercises</h1>
+  <h3>First Steps in Coding</h3>
+  <details>
+    <summary><strong>More Exercises (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</strong></summary>
+    <ol>
+      <li>Trapeziod Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/01.%20Trapeziod%20Area/TrapeziodArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Triangle Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/02.%20Triangle%20Area/TriangleArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Celsius to Fahrenheit (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/03.%20Celsius%20to%20Fahrenheit/CelciusToFahrenheit/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Vegetable Market (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/04.%20Vegetable%20Market/VegetableMarket/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Training Lab (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/05.%20Training%20Lab/TrainingLab/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Fishland (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/06.%20Fishland/FishLand/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>House Painting (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/07.%20House%20Painting/HousePainting/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Circle Area and Perimeter (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/08.%20Circle%20Area%20and%20Perimeter/CircleAreaAndPerimeter/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Weather Forecast (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast1/WeatherForecast1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Weather Forecast - Part 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast2/WeatherForecast2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    </ol>
+  </details>
+
+  </td>
+  </tr>
+</table>
+
