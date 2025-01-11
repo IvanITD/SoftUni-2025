@@ -385,7 +385,7 @@ So feel free to choose whichever one you like better!</p>
     <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
     <ol>
       <li>Numbers from 1 to 100 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/01.%20Numbers%20from%201%20to%20100/NumbersFrom1To100/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Numbers N...1 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Numbers N...1 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/02.%20Numbers%20Nto1/NumbersNto1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Numbers 1...N with Step 3 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/03.%20Numbers%201toN%20with%20Step%203/Numbers1toNWithStep3/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Even Powers of 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/04.%20Even%20Powers%20of%202/EvenPowersOf2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Character Sequence (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/05.%20Character%20Sequence/CharacterSequence/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
