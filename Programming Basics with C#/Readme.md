@@ -117,20 +117,34 @@ So feel free to choose whichever one you like better!</p>
 <hr>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>Lab</b> and <b>Exercise</b>, ensuring an easy-to-follow structure:</p>
-<pre>
-First Steps in Coding
+
+<h3>First Steps in Coding</h3>
   <details>
   <summary>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
-  <ul>
-    <li>01. Hello SoftUni (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>02. Nums 1...10 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/02.%20Nums%201...10/Nums1to10/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>03. Rectangle Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/03.%20Rectangle%20Area/RectangleArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>04. Inches to Centimeters (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/04.%20Inches%20to%20Centimeters/InchesToCentimeters/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>05. Greeting by Name (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/05.%20Greeting%20by%20Name/GreetingByName/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>06. Concatenate Data (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/06.%20Concatenate%20Data/ConcatenateData/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>07. Projects Creation (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/07.%20Projects%20Creation/ProjectsCreation/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>08. Pet Shop (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/08.%20Pet%20Shop/PetShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>09. Yard Greening (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/09.%20Yard%20Greening/YardGreening/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  </ul>
+  <ol>
+    <li>Hello SoftUni (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/01.%20Hello%20SoftUni/HelloSoftUni/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Nums 1...10 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/02.%20Nums%201...10/Nums1to10/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Rectangle Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/03.%20Rectangle%20Area/RectangleArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Inches to Centimeters (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/04.%20Inches%20to%20Centimeters/InchesToCentimeters/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Greeting by Name (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/05.%20Greeting%20by%20Name/GreetingByName/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Concatenate Data (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/06.%20Concatenate%20Data/ConcatenateData/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Projects Creation (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/07.%20Projects%20Creation/ProjectsCreation/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Pet Shop (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/08.%20Pet%20Shop/PetShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Yard Greening (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab/09.%20Yard%20Greening/YardGreening/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  </ol>
   </details>
-</pre>
+
+  <details>
+  <summary>Exercise (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/2.%20First%20Steps%20In%20Coding%20-%20Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+  <ol>
+  <li>USD to BGN (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Radians to Degrees (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Deposit Calculator (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Vacation Books List (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Supplies for School (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Repainting (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Food Delivery (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Basketball Equipment (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Fish Tank (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  </ol>
+  </details>
