@@ -408,7 +408,8 @@ So feel free to choose whichever one you like better!</p>
   <!--PB More Exercises-->
   <h1>PB More Exercises</h1>
   <h3>First Steps in Coding</h3>
-  <details>
+  <!--First Steps in Coding - More Exercises-->
+  <details> 
     <summary><strong>More Exercises (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</strong></summary>
     <ol>
       <li>Trapeziod Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/01.%20Trapeziod%20Area/TrapeziodArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
@@ -423,7 +424,14 @@ So feel free to choose whichever one you like better!</p>
       <li>Weather Forecast - Part 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast2/WeatherForecast2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     </ol>
   </details>
-
+<!--Conditional Statements - More Exercises-->
+<h3>Conditional Statements</h3>
+<details>
+  <summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+  <ol>
+    <li>Pipes in Pool (<a href="" class="button"><b><i>Not Finished Yet</i></b></a>)</li>   
+  </ol>
+</detail>
   </td>
   </tr>
 </table>
