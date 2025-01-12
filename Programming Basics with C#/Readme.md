@@ -406,7 +406,7 @@ So feel free to choose whichever one you like better!</p>
   
   <!--This is where the left side starts-->
   <!--PB More Exercises-->
-  <td style="vertical-align: top;">
+  <td style="vertical-align: top; padding-left: 20px;">
   <h1>PB More Exercises</h1>
   <h3>First Steps in Coding</h3>
   <!--First Steps in Coding - More Exercises-->
