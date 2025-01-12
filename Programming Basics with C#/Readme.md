@@ -405,7 +405,7 @@ So feel free to choose whichever one you like better!</p>
   </td>
   <!--This is where the left side starts-->
   <!--PB More Exercises-->
-  <td style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <td>
   <h1>PB More Exercises</h1>
   <h3>First Steps in Coding</h3>
   <!--First Steps in Coding - More Exercises-->
