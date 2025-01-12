@@ -429,7 +429,7 @@ So feel free to choose whichever one you like better!</p>
 <details>
   <summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
   <ol>
-    <li>Pipes in Pool (<a href="" class="button"><b><i>Not Finished Yet</i></b></a>)</li>   
+    <li>Pipes in Pool (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/01.%20Pipes%20In%20Pool/PipesInPool/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>   
   </ol>
 </detail>
   </td>
