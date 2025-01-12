@@ -403,9 +403,10 @@ So feel free to choose whichever one you like better!</p>
     </ol>
   </details>
   </td>
+  
   <!--This is where the left side starts-->
   <!--PB More Exercises-->
-  <td style="vertical-align: top; width: 50%;">
+  <td style="vertical-align: top;">
   <h1>PB More Exercises</h1>
   <h3>First Steps in Coding</h3>
   <!--First Steps in Coding - More Exercises-->
