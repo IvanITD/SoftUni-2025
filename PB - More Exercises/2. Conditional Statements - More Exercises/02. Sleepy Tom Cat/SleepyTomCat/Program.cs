@@ -1,35 +1,42 @@
-﻿//User Input
-int restDays = int.Parse(Console.ReadLine());
+﻿// Play time norm
+int playTimeNormPerYear = 30000;
 
-//Known data
-int normPlayTime = 30000;
-int workPlayTime = 63;
-int restPlayTime = 127;
-//Working days
-double workingDays = 365 - restDays;
+// Play time for work days
+int playTimeWorkDays = 63;
+// Play time for rest days
+int playTimeRestDays = 127;
 
-//Actual time for play
-double actualTimeForPlay = (workingDays * workPlayTime) + (restDays * restPlayTime);
+// Year days
+int yearDays = 365;
 
-//Norm difference
-double normDifference = normPlayTime - actualTimeForPlay;
+// User Input
+int restDaysAmount = int.Parse(Console.ReadLine());
 
-//Minutes to hours for the norm
-double normHours = Math.Floor(normDifference / 60);
-double normMinutes = normDifference % 60;
+// Working Days
+int workingDays = yearDays - restDaysAmount;
 
-//Minutes and hours for the play time
-double playTimeHours = Math.Floor(actualTimeForPlay / 60);
-double playTimeMinutes = actualTimeForPlay % 60;
+// Rest Days
+int restDays = restDaysAmount * playTimeRestDays;
 
-//Checking if the time for play is more than the norm for this year
-if (normDifference > normPlayTime)
+// Real time for playing
+int realTimeForPlaying = (workingDays * playTimeWorkDays) + (restDaysAmount * playTimeRestDays);
+
+// Difference
+int difference = Math.Abs(playTimeNormPerYear - realTimeForPlaying);
+
+// Difference in hours
+int differenceHours = difference / 60;
+
+// Difference in minutes
+int differenceMinutes = difference % 60;
+
+if (realTimeForPlaying > playTimeNormPerYear)
 {
     Console.WriteLine("Tom will run away");
-    Console.WriteLine($"{normHours} hours and {normMinutes} minutes more for play");
+    Console.WriteLine($"{differenceHours} hours and {differenceMinutes} minutes more for play");
 }
-else if (normDifference < normPlayTime)
+else if (realTimeForPlaying < playTimeNormPerYear)
 {
     Console.WriteLine("Tom sleeps well");
-    Console.WriteLine($"{playTimeHours} hours and {playTimeMinutes} minutes less for play");
+    Console.WriteLine($"{differenceHours} hours and {differenceMinutes} minutes less for play");
 }

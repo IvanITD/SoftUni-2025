@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SleepyTomCat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0934414d29fe42174d1683de7055dfa951b39b42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c26bc48ff567878405e57a1b50817e004e45d0cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SleepyTomCat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SleepyTomCat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
