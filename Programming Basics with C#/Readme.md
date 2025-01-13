@@ -432,6 +432,7 @@ So feel free to choose whichever one you like better!</p>
   <ol>
     <li>Pipes in Pool (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/01.%20Pipes%20In%20Pool/PipesInPool/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Sleepy Tom Cat (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/02.%20Sleepy%20Tom%20Cat/SleepyTomCat/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Harvest (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/03.%20Harvest/Harvest/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   </ol>
 </detail>
   </td>
