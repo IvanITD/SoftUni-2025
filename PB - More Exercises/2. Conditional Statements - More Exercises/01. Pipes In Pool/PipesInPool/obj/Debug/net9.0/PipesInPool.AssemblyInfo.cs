@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PipesInPool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ebbcb588ae8209b3ba4039fc131fbb242d2a1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0934414d29fe42174d1683de7055dfa951b39b42")]
 [assembly: System.Reflection.AssemblyProductAttribute("PipesInPool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PipesInPool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

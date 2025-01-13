@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\": {}
+    "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni 2025\\Programming Basics with C#\\1. First Steps In Coding - Lab\\03. Rectangle Area\\RectangleArea\\RectangleArea.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\1. First Steps In Coding - Lab\\03. Rectangle Area\\RectangleArea\\RectangleArea.csproj",
       "projectName": "RectangleArea",
-      "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni 2025\\Programming Basics with C#\\1. First Steps In Coding - Lab\\03. Rectangle Area\\RectangleArea\\RectangleArea.csproj",
+      "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\1. First Steps In Coding - Lab\\03. Rectangle Area\\RectangleArea\\RectangleArea.csproj",
       "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni 2025\\Programming Basics with C#\\1. First Steps In Coding - Lab\\03. Rectangle Area\\RectangleArea\\obj\\",
+      "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\1. First Steps In Coding - Lab\\03. Rectangle Area\\RectangleArea\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Ivan Ivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -61,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

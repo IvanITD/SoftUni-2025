@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj": {}
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj": {
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj",
         "projectName": "TrapeziodArea",
-        "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj",
+        "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\TrapeziodArea.csproj",
         "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\obj\\",
+        "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\01. Trapeziod Area\\TrapeziodArea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

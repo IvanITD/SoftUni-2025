@@ -14,18 +14,22 @@ double actualTimeForPlay = (workingDays * workPlayTime) + (restDays * restPlayTi
 //Norm difference
 double normDifference = normPlayTime - actualTimeForPlay;
 
-//Minutes to hours
+//Minutes to hours for the norm
 double normHours = Math.Floor(normDifference / 60);
 double normMinutes = normDifference % 60;
+
+//Minutes and hours for the play time
+double playTimeHours = Math.Floor(actualTimeForPlay / 60);
+double playTimeMinutes = actualTimeForPlay % 60;
 
 //Checking if the time for play is more than the norm for this year
 if (normDifference > normPlayTime)
 {
     Console.WriteLine("Tom will run away");
-    Console.WriteLine("{normHours} hours and {normMinutes} minutes more for play");
+    Console.WriteLine($"{normHours} hours and {normMinutes} minutes more for play");
 }
 else if (normDifference < normPlayTime)
 {
     Console.WriteLine("Tom sleeps well");
-    Console.WriteLine($"{}");
+    Console.WriteLine($"{playTimeHours} hours and {playTimeMinutes} minutes less for play");
 }

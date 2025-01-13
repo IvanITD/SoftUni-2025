@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\08. Circle Area and Perimeter\\CircleAreaAndPerimeter\\CircleAreaAndPerimeter.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\08. Circle Area and Perimeter\\CircleAreaAndPerimeter\\CircleAreaAndPerimeter.csproj",
       "projectName": "CircleAreaAndPerimeter",
-      "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\08. Circle Area and Perimeter\\CircleAreaAndPerimeter\\CircleAreaAndPerimeter.csproj",
+      "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\08. Circle Area and Perimeter\\CircleAreaAndPerimeter\\CircleAreaAndPerimeter.csproj",
       "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\08. Circle Area and Perimeter\\CircleAreaAndPerimeter\\obj\\",
+      "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\08. Circle Area and Perimeter\\CircleAreaAndPerimeter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

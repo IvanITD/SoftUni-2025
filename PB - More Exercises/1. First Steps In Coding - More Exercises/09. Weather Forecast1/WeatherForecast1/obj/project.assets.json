@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\09. Weather Forecast First Part\\WeatherForecastFirstPart\\WeatherForecastFirstPart.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\09. Weather Forecast1\\WeatherForecast1\\WeatherForecastFirstPart.csproj",
       "projectName": "WeatherForecastFirstPart",
-      "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\09. Weather Forecast First Part\\WeatherForecastFirstPart\\WeatherForecastFirstPart.csproj",
+      "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\09. Weather Forecast1\\WeatherForecast1\\WeatherForecastFirstPart.csproj",
       "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\09. Weather Forecast First Part\\WeatherForecastFirstPart\\obj\\",
+      "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\09. Weather Forecast1\\WeatherForecast1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

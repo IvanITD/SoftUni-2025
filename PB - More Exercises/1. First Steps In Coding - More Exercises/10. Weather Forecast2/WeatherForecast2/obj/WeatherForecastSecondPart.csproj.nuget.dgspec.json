@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\First Steps In Coding - More Exercises\\09. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj": {}
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\10. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\First Steps In Coding - More Exercises\\09. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj": {
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\10. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\First Steps In Coding - More Exercises\\09. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\10. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj",
         "projectName": "WeatherForecastSecondPart",
-        "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\First Steps In Coding - More Exercises\\09. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj",
+        "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\10. Weather Forecast2\\WeatherForecast2\\WeatherForecastSecondPart.csproj",
         "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\First Steps In Coding - More Exercises\\09. Weather Forecast2\\WeatherForecast2\\obj\\",
+        "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\10. Weather Forecast2\\WeatherForecast2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

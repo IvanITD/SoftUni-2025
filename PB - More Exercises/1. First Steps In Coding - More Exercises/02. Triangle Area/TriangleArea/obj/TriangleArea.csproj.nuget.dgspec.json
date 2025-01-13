@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj": {}
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj": {
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj",
         "projectName": "TriangleArea",
-        "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj",
+        "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj",
         "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\02. Triangle Area\\TriangleArea\\obj\\",
+        "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\02. Triangle Area\\TriangleArea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
