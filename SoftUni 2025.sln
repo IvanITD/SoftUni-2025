@@ -347,6 +347,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Transport Price", "04. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportPrice", "PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\TransportPrice.csproj", "{5B0FDD1D-5EFD-4209-B9D9-16F861AF8A72}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Pets", "05. Pets", "{9CE93F08-31A1-427E-9E35-0E072BFB4AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets", "PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\Pets.csproj", "{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -693,6 +697,10 @@ Global
 		{5B0FDD1D-5EFD-4209-B9D9-16F861AF8A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B0FDD1D-5EFD-4209-B9D9-16F861AF8A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B0FDD1D-5EFD-4209-B9D9-16F861AF8A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -868,6 +876,8 @@ Global
 		{A324472B-09F3-447D-B51D-2DAE9E987C6A} = {8F93ADB3-EEF7-4D54-908D-41F54DD0C973}
 		{E0033A17-570D-4BA7-BA9D-E7E2B6529CD8} = {11AEF6F3-394F-41EC-8DC5-F5738EE874FD}
 		{5B0FDD1D-5EFD-4209-B9D9-16F861AF8A72} = {E0033A17-570D-4BA7-BA9D-E7E2B6529CD8}
+		{9CE93F08-31A1-427E-9E35-0E072BFB4AA5} = {11AEF6F3-394F-41EC-8DC5-F5738EE874FD}
+		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA} = {9CE93F08-31A1-427E-9E35-0E072BFB4AA5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EC0F862-35E0-4838-A722-C7635F191DD0}

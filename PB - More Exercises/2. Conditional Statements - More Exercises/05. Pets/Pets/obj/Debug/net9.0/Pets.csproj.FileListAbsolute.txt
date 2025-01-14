@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\bin\Debug\net9.0\Pets.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\bin\Debug\net9.0\Pets.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\bin\Debug\net9.0\Pets.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\bin\Debug\net9.0\Pets.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\bin\Debug\net9.0\Pets.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\refint\Pets.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\Pets.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\obj\Debug\net9.0\ref\Pets.dll
