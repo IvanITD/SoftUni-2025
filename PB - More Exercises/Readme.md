@@ -34,135 +34,164 @@
     </tr>
     <tr>
       <td>Conditional Statements - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>🚧 In Progress</td>
       <td><b><i>Boolean Logic</i></b> | <b><i>Comparison Operators</i></b> | <b><i>Decision Making</i></b> | <b><i>Nested Conditions</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td><b><i>Complex Conditions</i></b> | <b><i>Switch-Case</i></b> | <b><i>Nested Conditions</i></b> | <b><i>Logical Operators</i></b></td>
     </tr>
     <tr>
       <td>For Loop - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td><b><i>Loops</i></b> | <b><i>Iteration</i></b> | <b><i>Nested Loops</i></b> | <b><i>Problem Solving</i></b></td>
     </tr>
     <tr>
       <td>While Loop - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td><b><i>Loops</i></b> | <b><i>While Condition</i></b> | <b><i>Problem Solving</i></b></td>
     </tr>
     <tr>
       <td>Nested Loops - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td><b><i>Complex Loops</i></b> | <b><i>Iteration</i></b> | <b><i>Nested Loops</i></b> | <b><i>Problem Solving</i></b></td>
     </tr>
     <tr>
       <td>Drawing Figures with Loops - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>❌ Not Started</td>
       <td><b><i>Loops</i></b> | <b><i>Drawing Patterns</i></b> | <b><i>Nested Loops</i></b> | <b><i>Problem Solving</i></b></td>
     </tr>
   </tbody>
 </table>
+<br>
 <hr>
 <h3>📋 Contents</h3>
 <p>The repository is organized into modules and subcategories of tasks, such as <b>More Exercises</b>, ensuring an easy-to-follow structure:</p>
 
-<h3>First Steps in Coding - More Exercises</h3>
+<!--First Steps in Coding  - More Exercises-->
+<h3>First Steps in Coding</h3>
+<details>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>01. Trapeziod Area</li>
-  <li>02. Triangle Area</li>
-  <li>03. Celsius to Fahrenheit</li>
-  <li>04. Vegetable Market</li>
-  <li>05. Training Lab</li>
-  <li>06. Fishland</li>
-  <li>07. House Painting</li>
-  <li>08. Circle Area and Perimeter</li>
-  <li>09. Weather Forecast</li>
-  <li>10. Weather Forecast - Part 2</li>
+  <li>Trapeziod Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/01.%20Trapeziod%20Area/TrapeziodArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Triangle Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/02.%20Triangle%20Area/TriangleArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Celsius to Fahrenheit (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/03.%20Celsius%20to%20Fahrenheit/CelciusToFahrenheit/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Vegetable Market (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/04.%20Vegetable%20Market/VegetableMarket/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Training Lab (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/05.%20Training%20Lab/TrainingLab/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Fishland (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/06.%20Fishland/FishLand/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>House Painting (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/07.%20House%20Painting/HousePainting/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Circle Area and Perimeter (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/08.%20Circle%20Area%20and%20Perimeter/CircleAreaAndPerimeter/Program.cs" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Weather Forecast (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast1/WeatherForecast1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Weather Forecast - Part 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast2/WeatherForecast2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
+</details>
 
-<h3>Conditional Statements - More Exercises</h3>
+<!--Conditional Statements - More Exercises-->
+<h3>Conditional Statements</h3>
+<details>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>01. Pipes In Pool</li>
-  <li>02. Sleepy Tom Cat</li>
-  <li>03. Harvest</li>
-  <li>04. Transport Price</li>
-  <li>05. Pets</li>
-  <li>06. Flower Shop</li>
-  <li>07. Fuel Tank</li>
-  <li>08. Fuel Tank - Part 2</li>
+  <li>Pipes In Pool (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/01.%20Pipes%20In%20Pool/PipesInPool/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Sleepy Tom Cat (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/02.%20Sleepy%20Tom%20Cat/SleepyTomCat/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Harvest (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/03.%20Harvest/Harvest/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Transport Price (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Pets (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Flower Shop (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Fuel Tank (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Fuel Tank - Part 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
 </ol>
+</details>
 
-<h3>Conditional Statements Advanced - More Exercises</h3>
+<!--Conditional Statements Advanced - More Exercises-->
+<h3>Conditional Statements Advanced</h3>
+<details>
+<summary>More Exercises</summary>
 <ol>
-  <li>01. Match Tickets</li>
-  <li>02. Bike Race</li>
-  <li>03. Flowers</li>
-  <li>04. Car To Go</li>
-  <li>05. Vacation</li>
-  <li>06. Truck Driver</li>
-  <li>07. School Camp</li>
-  <li>08. Point on Rectangle Border</li>
-  <li>09. Numbers from 1 to 10</li>
-  <li>10. Multiply by 2</li>
+  <li>Match Tickets (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Bike Race (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Flowers (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Car To Go (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Vacation (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Truck Driver (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>School Camp (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Point on Rectangle Border (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Numbers from 1 to 10 (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Multiply by 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
 </ol>
+</details>
 
-<h3>For Loop - More Exercises</h3>
+<!--For Loop - More Exercises-->
+<h3>For Loop</h3>
+<details>
+<summary>More Exercises</summary>
 <ol>
-  <li>01. Back To The Past</li>
-  <li>02. Hospital</li>
-  <li>03. Logistics</li>
-  <li>04. Grades</li>
-  <li>05. Game Of Intervals</li>
-  <li>06. Bills</li>
-  <li>07. Football League</li>
-  <li>08. Equal Pairs</li>
-  <li>09. Clock</li>
-  <li>10. Clock - part 2</li>
-  <li>11. Odd / Even Position</li>
+  <li>Back To The Past (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Hospital (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Logistics (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Grades (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Game Of Intervals (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Bills (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Football League (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Equal Pairs (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Clock (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Clock - part 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Odd / Even Position (<a><b><i>Not Solved Yet</i></b></a>)</li>
 </ol>
+</details>
 
-<h3>While Loop - More Exercises</h3>
+<!--While Loop - More Exercises-->
+<h3>While Loop</h3>
+<details>
+<summary>More Exercises</summary>
 <ol>
-  <li>01. Dishwasher</li>
-  <li>02. Report System</li>
-  <li>03. Stream Of Letters</li>
-  <li>04. Numbers Divided by 3 Without Reminder</li>
-  <li>05. Average Number</li>
+  <li>Dishwasher (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Report System (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Stream Of Letters (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Numbers Divided by 3 Without Reminder (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Average Number (<a><b><i>Not Solved Yet</i></b></a>))</li>
 </ol>
+</details>
 
-<h3>Nested Loops - More Exercises</h3>
+<!--Nested Loops - More Exercises-->
+<h3>Nested Loops</h3>
+<details>
+<summary>More Exercises</summary>
 <ol>
-  <li>01. Unique PIN Codes</li>
-  <li>02. Letters Combinations</li>
-  <li>03. Lucky Numbers</li>
-  <li>04. Car Number</li>
-  <li>05. Challenge the Wedding</li>
-  <li>06. Wedding Seats</li>
-  <li>07. Safe Passwords Generator</li>
-  <li>08. Secret Door's Lock</li>
-  <li>09. Sum of Two Numbers</li>
-  <li>10. Profit</li>
-  <li>11. HappyCat Parking</li>
-  <li>12. The song of the wheels</li>
-  <li>13. Prime Pairs</li>
-  <li>14. Password Generator</li>
+  <li>Unique PIN Codes (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Letters Combinations (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Lucky Numbers (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Car Number (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Challenge the Wedding (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Wedding Seats (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Safe Passwords Generator (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Secret Door's Lock (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Sum of Two Numbers (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Profit (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>HappyCat Parking (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>The song of the wheels (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Prime Pairs (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Password Generator (<a><b><i>Not Solved Yet</i></b></a>))</li>
 </ol>
+</details>
 
-<h3>Drawing Figures with Loops - More Exercises</h3>
+<h3>Drawing Figures with Loops</h3>
+<details>
+<summary>More Exercises</summary>
 <ol>
-  <li>01. Rectangle of 10 x 10 Stars</li>
-  <li>02. Rectangle of N x N Stars</li>
-  <li>03. Square of Stars</li>
-  <li>04. Triangle of Dollars</li>
-  <li>05. Square Frame</li>
-  <li>06. Rhombus of Stars</li>
-  <li>07. Christmas Tree</li>
-  <li>08. Sunglasses</li>
-  <li>09. House</li>
-  <li>10. Diamond</li>
+  <li>Rectangle of 10 x 10 Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Rectangle of N x N Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Square of Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Triangle of Dollars (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Square Frame (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Rhombus of Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Christmas Tree (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Sunglasses (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>House (<a><b><i>Not Solved Yet</i></b></a>))</li>
+  <li>Diamond (<a><b><i>Not Solved Yet</i></b></a>))</li>
 </ol>
+</details>
+
 <hr>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>
