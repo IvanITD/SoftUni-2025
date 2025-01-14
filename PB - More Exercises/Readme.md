@@ -95,7 +95,7 @@
   <li>Pipes In Pool (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/01.%20Pipes%20In%20Pool/PipesInPool/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Sleepy Tom Cat (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/02.%20Sleepy%20Tom%20Cat/SleepyTomCat/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Harvest (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/03.%20Harvest/Harvest/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Transport Price (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Transport Price (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/04.%20Transport%20Price/TransportPrice/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Pets (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Flower Shop (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Fuel Tank (<a><b><i>Not Solved Yet</i></b></a>)</li>
