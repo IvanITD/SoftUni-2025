@@ -351,6 +351,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Pets", "05. Pets", "{9C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets", "PB - More Exercises\2. Conditional Statements - More Exercises\05. Pets\Pets\Pets.csproj", "{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Flower Shop", "06. Flower Shop", "{3C6C97A2-B85E-4235-82A3-CDCE380391E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerShop", "PB - More Exercises\2. Conditional Statements - More Exercises\06. Flower Shop\FlowerShop\FlowerShop.csproj", "{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -701,6 +705,10 @@ Global
 		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -878,6 +886,8 @@ Global
 		{5B0FDD1D-5EFD-4209-B9D9-16F861AF8A72} = {E0033A17-570D-4BA7-BA9D-E7E2B6529CD8}
 		{9CE93F08-31A1-427E-9E35-0E072BFB4AA5} = {11AEF6F3-394F-41EC-8DC5-F5738EE874FD}
 		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA} = {9CE93F08-31A1-427E-9E35-0E072BFB4AA5}
+		{3C6C97A2-B85E-4235-82A3-CDCE380391E2} = {11AEF6F3-394F-41EC-8DC5-F5738EE874FD}
+		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F} = {3C6C97A2-B85E-4235-82A3-CDCE380391E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EC0F862-35E0-4838-A722-C7635F191DD0}

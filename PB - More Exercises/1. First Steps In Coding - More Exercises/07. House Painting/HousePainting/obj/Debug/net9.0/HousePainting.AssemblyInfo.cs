@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HousePainting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e7e72d3ad2cd841af5b67fa0750463ac502fa14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47e59efb68ff118c087f632aa72ee8443d7de0d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HousePainting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HousePainting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
