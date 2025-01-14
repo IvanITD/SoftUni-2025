@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\bin\Debug\net9.0\TransportPrice.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\bin\Debug\net9.0\TransportPrice.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\bin\Debug\net9.0\TransportPrice.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\bin\Debug\net9.0\TransportPrice.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\bin\Debug\net9.0\TransportPrice.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\refint\TransportPrice.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\TransportPrice.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\04. Transport Price\TransportPrice\obj\Debug\net9.0\ref\TransportPrice.dll
