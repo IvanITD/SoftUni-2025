@@ -601,8 +601,10 @@ So feel free to choose whichever one you like better!</p>
   <li>Diamond (<a><b><i>Not Solved Yet</i></b></a>))</li>
 </ol>
 </details>
-
-
+<br>
+<br>
+<br>
+<br>
   </td>
   </tr>
 </table>
