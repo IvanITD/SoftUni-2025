@@ -398,9 +398,80 @@ So feel free to choose whichever one you like better!</p>
       <li>Vowels Sum (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/06.%20Vowels%20Sum/VowelsSum/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Sum Numbers (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/07.%20Sum%20Numbers/SumNumbers/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Numbers Sequence (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/08.%20Number%20sequence/NumberSequence/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li></li>
-      <li></li>
+      <li>Left and Right Sum (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Odd Even Sum (<a><b><i>Not Solved Yet</i></b></a>)</li>
     </ol>
+  </details>
+  <!--For Loop - Exercises-->
+  <details>
+    <summary><strong>Exercise</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
+      <ol>
+      <li>Numbers Ending in 7 (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Half Sum Element (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Histogram (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Clever Lily (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Salary (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Oscars (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Trekking Mania (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Tennis Ranklist (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      </ol>
+  </details>
+
+  <!-- While Loop - Lab -->
+  <h3>While Loop</h3>
+  <details>
+    <summary><strong>Lab (<a><b><i>Not Created Yet</i></b></a>)</strong></summary>
+      <ol>
+        <li>Read Text (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Password (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Sum Numbers (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Sequence 2k+1 (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Account Balance (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Max Number (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Min Number (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Graduation (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      </ol>
+  </details>
+
+  <!--While Loop - Exercises-->
+  <details>
+    <summary><strong>Exercises (<a><b><i>Not Created Yet</i></b></a>)</strong></summary>
+      <ol>
+        <li>Old Books (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Exam Preparation (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Vacation (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Walking (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Coins (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Cake (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Moving (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      </ol>
+  </details>
+
+  <!--Nested Loops - Lab-->
+  <h3>Nested Loops</h3>
+  <details>
+    <summary><strong>Lab</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
+      <ol>
+        <li>Clock (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Multiplication Table (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Combinations (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Sum of Two Numbers (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Traveling (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Building (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      </ol>
+  </details>
+
+  <!--Nested Loops - Exercises-->
+  <details>
+    <summary><strong>Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
+      <ol>
+        <li>Number Pyramid (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Equal Sums Even Odd Position (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Sum Prime Non Prime (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Train The Trainers (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Special Numbers (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Cinema Tickets (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      </ol>
   </details>
   </td>
   
@@ -435,7 +506,7 @@ So feel free to choose whichever one you like better!</p>
     <li>Harvest (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/03.%20Harvest/Harvest/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Transport Price (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/04.%20Transport%20Price/TransportPrice/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Pets (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/05.%20Pets/Pets/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Flower Shop (<a><b><i>Not Solved Yet</i></b></a>)</li>
+    <li>Flower Shop (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/06.%20Flower%20Shop/FlowerShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Fuel Tank (<a><b><i>Not Solved Yet</i></b></a>)</li>
     <li>Fuel Tank - Part 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
   </ol>
@@ -444,7 +515,7 @@ So feel free to choose whichever one you like better!</p>
 <!--Conditional Statements Advanced - More Exercises-->
 <h3>Conditional Statements Advanced</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
 <ol>
   <li>Match Tickets (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Bike Race (<a><b><i>Not Solved Yet</i></b></a>)</li>
@@ -462,7 +533,7 @@ So feel free to choose whichever one you like better!</p>
 <!--For Loop - More Exercises-->
 <h3>For Loop</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
 <ol>
   <li>Back To The Past (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Hospital (<a><b><i>Not Solved Yet</i></b></a>)</li>
@@ -481,7 +552,7 @@ So feel free to choose whichever one you like better!</p>
 <!--While Loop - More Exercises-->
 <h3>While Loop</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
 <ol>
   <li>Dishwasher (<a><b><i>Not Solved Yet</i></b></a>))</li>
   <li>Report System (<a><b><i>Not Solved Yet</i></b></a>))</li>
@@ -494,7 +565,7 @@ So feel free to choose whichever one you like better!</p>
 <!--Nested Loops - More Exercises-->
 <h3>Nested Loops</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
 <ol>
   <li>Unique PIN Codes (<a><b><i>Not Solved Yet</i></b></a>))</li>
   <li>Letters Combinations (<a><b><i>Not Solved Yet</i></b></a>))</li>
@@ -513,9 +584,10 @@ So feel free to choose whichever one you like better!</p>
 </ol>
 </details>
 
+<!--Drawing Figures with Loops - More Exercises-->
 <h3>Drawing Figures with Loops</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
 <ol>
   <li>Rectangle of 10 x 10 Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
   <li>Rectangle of N x N Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
