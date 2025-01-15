@@ -355,6 +355,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Flower Shop", "06. Flow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerShop", "PB - More Exercises\2. Conditional Statements - More Exercises\06. Flower Shop\FlowerShop\FlowerShop.csproj", "{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Fuel Tank", "07. Fuel Tank", "{4E941DD2-DA51-4152-8A68-2E71918F4AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelTank", "PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\FuelTank.csproj", "{1541E72A-13B3-4F04-9EA3-74BFB8CA5C61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -709,6 +713,10 @@ Global
 		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1541E72A-13B3-4F04-9EA3-74BFB8CA5C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1541E72A-13B3-4F04-9EA3-74BFB8CA5C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1541E72A-13B3-4F04-9EA3-74BFB8CA5C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1541E72A-13B3-4F04-9EA3-74BFB8CA5C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -888,6 +896,8 @@ Global
 		{90E2714F-75C7-4F3B-B1EE-9EB6FAB720FA} = {9CE93F08-31A1-427E-9E35-0E072BFB4AA5}
 		{3C6C97A2-B85E-4235-82A3-CDCE380391E2} = {11AEF6F3-394F-41EC-8DC5-F5738EE874FD}
 		{2116EE0E-95F5-4F3D-AB06-F9DB8010735F} = {3C6C97A2-B85E-4235-82A3-CDCE380391E2}
+		{4E941DD2-DA51-4152-8A68-2E71918F4AA1} = {11AEF6F3-394F-41EC-8DC5-F5738EE874FD}
+		{1541E72A-13B3-4F04-9EA3-74BFB8CA5C61} = {4E941DD2-DA51-4152-8A68-2E71918F4AA1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EC0F862-35E0-4838-A722-C7635F191DD0}
