@@ -601,6 +601,7 @@ So feel free to choose whichever one you like better!</p>
   <li>Diamond (<a><b><i>Not Solved Yet</i></b></a>))</li>
 </ol>
 </details>
+<!--This part of the code is like this because GitHub, can't represent the table properly. The idea is to make the PB-More Exercises look somehow aligned with the C# Basics section.-->
 <br>
 <br>
 <br>
