@@ -508,7 +508,7 @@ So feel free to choose whichever one you like better!</p>
     <li>Pets (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/05.%20Pets/Pets/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Flower Shop (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/06.%20Flower%20Shop/FlowerShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Fuel Tank (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/07.%20Fuel%20Tank/FuelTank/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Fuel Tank - Part 2 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Fuel Tank - Part 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/08.%20Fuel%20Tank%20-%20Part%202/FuelTankPart2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   </ol>
 </details>
 
