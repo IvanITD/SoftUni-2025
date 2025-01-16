@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\bin\Debug\net9.0\FuelTank.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\bin\Debug\net9.0\FuelTank.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\bin\Debug\net9.0\FuelTank.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\bin\Debug\net9.0\FuelTank.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\bin\Debug\net9.0\FuelTank.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\refint\FuelTank.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\FuelTank.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\2. Conditional Statements - More Exercises\07. Fuel Tank\FuelTank\obj\Debug\net9.0\ref\FuelTank.dll
