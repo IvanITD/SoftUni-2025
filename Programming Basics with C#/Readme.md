@@ -507,7 +507,7 @@ So feel free to choose whichever one you like better!</p>
     <li>Transport Price (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/04.%20Transport%20Price/TransportPrice/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Pets (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/05.%20Pets/Pets/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Flower Shop (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/06.%20Flower%20Shop/FlowerShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Fuel Tank (<a><b><i>Not Solved Yet</i></b></a>)</li>
+    <li>Fuel Tank (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/07.%20Fuel%20Tank/FuelTank/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
     <li>Fuel Tank - Part 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
   </ol>
 </details>
