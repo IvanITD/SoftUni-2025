@@ -34,12 +34,12 @@
     </tr>
     <tr>
       <td>Conditional Statements - More Exercises</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Complete</td>
       <td><b><i>Boolean Logic</i></b> | <b><i>Comparison Operators</i></b> | <b><i>Decision Making</i></b> | <b><i>Nested Conditions</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced - More Exercises</td>
-      <td>❌ Not Started</td>
+      <td>🚧 In Progress</td>
       <td><b><i>Complex Conditions</i></b> | <b><i>Switch-Case</i></b> | <b><i>Nested Conditions</i></b> | <b><i>Logical Operators</i></b></td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@
   <li>Pets (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/05.%20Pets/Pets/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Flower Shop (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/06.%20Flower%20Shop/FlowerShop/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Fuel Tank (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/2.%20Conditional%20Statements%20-%20More%20Exercises/07.%20Fuel%20Tank/FuelTank/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Fuel Tank - Part 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Fuel Tank - Part 2 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
 </details>
 
