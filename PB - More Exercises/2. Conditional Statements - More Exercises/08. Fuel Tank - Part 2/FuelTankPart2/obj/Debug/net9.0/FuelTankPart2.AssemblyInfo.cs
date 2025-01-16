@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuelTankPart2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c5647d0fcb5c90c26afd748abb0aecc6a142c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dc827dc7bda4c133117babca9f3a57dcb766e0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuelTankPart2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuelTankPart2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
