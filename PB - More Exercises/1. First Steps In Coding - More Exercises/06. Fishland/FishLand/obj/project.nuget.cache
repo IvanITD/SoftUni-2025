@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "5PEZaO1eV7k=",
-=======
   "dgSpecHash": "1vwHOZbhmOk=",
->>>>>>> 5ffd67a (Started new task called Left And Right Sum from the Programming Basics with C# in For Loop - Lab)
   "success": true,
   "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/1. First Steps In Coding - More Exercises/06. Fishland/FishLand/FishLand.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/1. First Steps In Coding - More Exercises/06. Fishland/FishLand/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

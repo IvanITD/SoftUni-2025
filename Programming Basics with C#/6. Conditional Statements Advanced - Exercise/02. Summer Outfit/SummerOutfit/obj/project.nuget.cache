@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "Pck69LiYMZs=",
-=======
   "dgSpecHash": "WQ6+bUSuJuk=",
->>>>>>> 5ffd67a (Started new task called Left And Right Sum from the Programming Basics with C# in For Loop - Lab)
   "success": true,
   "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/02. Summer Outfit/SummerOutfit/SummerOutfit.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/02. Summer Outfit/SummerOutfit/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
