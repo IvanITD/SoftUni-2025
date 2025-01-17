@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "M2jUxOkVWWI=",
+=======
+  "dgSpecHash": "Y9Xvn0hqI4o=",
+>>>>>>> 5ffd67a (Started new task called Left And Right Sum from the Programming Basics with C# in For Loop - Lab)
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\6. Conditional Statements Advanced - Exercise\\06. OBN\\OBN\\OperationsBetweenNumbers.csproj",
+  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/06. OBN/OBN/OperationsBetweenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

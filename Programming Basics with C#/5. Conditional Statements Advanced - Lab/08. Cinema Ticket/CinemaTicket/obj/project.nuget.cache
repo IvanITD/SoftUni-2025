@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "1ppL1zW/bzY=",
+=======
+  "dgSpecHash": "2BJkBaldAgc=",
+>>>>>>> 5ffd67a (Started new task called Left And Right Sum from the Programming Basics with C# in For Loop - Lab)
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\5. Conditional Statements Advanced - Lab\\08. Cinema Ticket\\CinemaTicket\\CinemaTicket.csproj",
+  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/CinemaTicket.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

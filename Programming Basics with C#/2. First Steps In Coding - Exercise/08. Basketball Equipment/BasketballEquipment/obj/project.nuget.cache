@@ -1,8 +1,16 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "0aGqd3TeycA=",
+=======
+  "dgSpecHash": "T8yufRct2z4=",
+>>>>>>> 5ffd67a (Started new task called Left And Right Sum from the Programming Basics with C# in For Loop - Lab)
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\2. First Steps In Coding - Exercise\\08. Basketball Equipment\\BasketballEquipment\\BasketballEquipment.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/08. Basketball Equipment/BasketballEquipment/BasketballEquipment.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "tsjAPdRIw1w=",
+=======
+  "dgSpecHash": "jCTMgN8vIww=",
+>>>>>>> 5ffd67a (Started new task called Left And Right Sum from the Programming Basics with C# in For Loop - Lab)
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\2. Conditional Statements - More Exercises\\08. Fuel Tank - Part 2\\FuelTankPart2\\FuelTankPart2.csproj",
+  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/2. Conditional Statements - More Exercises/08. Fuel Tank - Part 2/FuelTankPart2/FuelTankPart2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

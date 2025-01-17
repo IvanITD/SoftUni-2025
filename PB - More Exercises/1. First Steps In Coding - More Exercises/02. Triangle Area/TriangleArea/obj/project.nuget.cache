@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vmCj5thwH34=",
+=======
+  "dgSpecHash": "6Al+2mKj5Vk=",
+>>>>>>> 5ffd67a (Started new task called Left And Right Sum from the Programming Basics with C# in For Loop - Lab)
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\1. First Steps In Coding - More Exercises\\02. Triangle Area\\TriangleArea\\TriangleArea.csproj",
+  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/1. First Steps In Coding - More Exercises/02. Triangle Area/TriangleArea/TriangleArea.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
