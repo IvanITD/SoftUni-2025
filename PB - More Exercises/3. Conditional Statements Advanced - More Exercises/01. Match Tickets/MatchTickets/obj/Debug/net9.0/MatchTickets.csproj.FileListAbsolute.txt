@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\bin\Debug\net9.0\MatchTickets.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\bin\Debug\net9.0\MatchTickets.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\bin\Debug\net9.0\MatchTickets.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\bin\Debug\net9.0\MatchTickets.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\bin\Debug\net9.0\MatchTickets.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\refint\MatchTickets.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\MatchTickets.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\obj\Debug\net9.0\ref\MatchTickets.dll

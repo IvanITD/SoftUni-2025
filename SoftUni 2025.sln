@@ -363,6 +363,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Fuel Tank - Part 2", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelTankPart2", "PB - More Exercises\2. Conditional Statements - More Exercises\08. Fuel Tank - Part 2\FuelTankPart2\FuelTankPart2.csproj", "{6DDA653F-114F-4452-A3C2-F8E54BC4C4A8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Conditional Statements Advanced - More Exercises", "3. Conditional Statements Advanced - More Exercises", "{E5938C70-61C2-4583-BB8C-69049526FC65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Match Tickets", "01. Match Tickets", "{32658E79-43F1-4B53-BC3C-440B69C9E3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchTickets", "PB - More Exercises\3. Conditional Statements Advanced - More Exercises\01. Match Tickets\MatchTickets\MatchTickets.csproj", "{899310FF-358B-42A9-8180-BC2D9D03B341}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -725,6 +731,10 @@ Global
 		{6DDA653F-114F-4452-A3C2-F8E54BC4C4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DDA653F-114F-4452-A3C2-F8E54BC4C4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DDA653F-114F-4452-A3C2-F8E54BC4C4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899310FF-358B-42A9-8180-BC2D9D03B341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899310FF-358B-42A9-8180-BC2D9D03B341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899310FF-358B-42A9-8180-BC2D9D03B341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899310FF-358B-42A9-8180-BC2D9D03B341}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -908,6 +918,9 @@ Global
 		{1541E72A-13B3-4F04-9EA3-74BFB8CA5C61} = {4E941DD2-DA51-4152-8A68-2E71918F4AA1}
 		{9FBF27C9-9920-4EBD-9038-938F83136E09} = {11AEF6F3-394F-41EC-8DC5-F5738EE874FD}
 		{6DDA653F-114F-4452-A3C2-F8E54BC4C4A8} = {9FBF27C9-9920-4EBD-9038-938F83136E09}
+		{E5938C70-61C2-4583-BB8C-69049526FC65} = {3BC58D80-C939-4E66-A9B1-2C3D621A1884}
+		{32658E79-43F1-4B53-BC3C-440B69C9E3EB} = {E5938C70-61C2-4583-BB8C-69049526FC65}
+		{899310FF-358B-42A9-8180-BC2D9D03B341} = {32658E79-43F1-4B53-BC3C-440B69C9E3EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EC0F862-35E0-4838-A722-C7635F191DD0}
