@@ -106,9 +106,9 @@
 <!--Conditional Statements Advanced - More Exercises-->
 <h3>Conditional Statements Advanced</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Match Tickets (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Match Tickets (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/01.%20Match%20Tickets/MatchTickets/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Bike Race (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Flowers (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Car To Go (<a><b><i>Not Solved Yet</i></b></a>)</li>
@@ -124,7 +124,7 @@
 <!--For Loop - More Exercises-->
 <h3>For Loop</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
   <li>Back To The Past (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Hospital (<a><b><i>Not Solved Yet</i></b></a>)</li>
@@ -143,7 +143,7 @@
 <!--While Loop - More Exercises-->
 <h3>While Loop</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
   <li>Dishwasher (<a><b><i>Not Solved Yet</i></b></a>))</li>
   <li>Report System (<a><b><i>Not Solved Yet</i></b></a>))</li>
@@ -156,7 +156,7 @@
 <!--Nested Loops - More Exercises-->
 <h3>Nested Loops</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
   <li>Unique PIN Codes (<a><b><i>Not Solved Yet</i></b></a>))</li>
   <li>Letters Combinations (<a><b><i>Not Solved Yet</i></b></a>))</li>
@@ -177,7 +177,7 @@
 
 <h3>Drawing Figures with Loops</h3>
 <details>
-<summary>More Exercises</summary>
+<summary><strong>More Exercises</strong> (<a><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
   <li>Rectangle of 10 x 10 Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
   <li>Rectangle of N x N Stars (<a><b><i>Not Solved Yet</i></b></a>))</li>
