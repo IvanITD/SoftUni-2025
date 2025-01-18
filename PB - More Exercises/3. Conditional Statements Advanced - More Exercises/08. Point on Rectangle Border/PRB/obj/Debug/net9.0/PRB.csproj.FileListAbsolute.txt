@@ -1,0 +1,5 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\PRB\obj\Debug\net9.0\PRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\PRB\obj\Debug\net9.0\PRB.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\PRB\obj\Debug\net9.0\PRB.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\PRB\obj\Debug\net9.0\PRB.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\PRB\obj\Debug\net9.0\PRB.sourcelink.json
