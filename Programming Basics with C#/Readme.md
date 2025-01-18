@@ -62,19 +62,19 @@
       <td>Conditional Statements Advanced</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td></td>
+      <td><b><i>Logical Operators in Action | Switch Statement with Multiple Cases | Nested If-Else Logic | Range-Based Validation | Dynamic Condition Evaluation | Fallback Logic with Default or Else</i></b></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Lab</td>
       <td>🚧 In Progress</td>
-      <td></td>
+      <td><b><i>Increment and Decrement | For Loop - Syntax | Decreasing For Loop | For Loop with Step</i></b></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Exercise</td>
       <td>❌ Not Started</td>
-      <td></td>
+      <td><b><i>Loop Initialization | Loop Condition | Increment/Decrement | Summing or Counting Values | Iterating Through Arrays/Lists | Nested Loops | Break and Continue | Loop Efficiency and Optimization</i></b></td>
     </tr>
     <tr>
       <td>While Loop</td>
@@ -515,9 +515,9 @@ So feel free to choose whichever one you like better!</p>
 <!--Conditional Statements Advanced - More Exercises-->
 <h3>Conditional Statements Advanced</h3>
 <details>
-<summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Match Tickets (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Match Tickets (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/01.%20Match%20Tickets/MatchTickets/Program.cs" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Bike Race (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Flowers (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Car To Go (<a><b><i>Not Solved Yet</i></b></a>)</li>
