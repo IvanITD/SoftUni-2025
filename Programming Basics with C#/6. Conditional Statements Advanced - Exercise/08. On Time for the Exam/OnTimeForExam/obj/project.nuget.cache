@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ttS3RTj3rlA=",
+  "dgSpecHash": "1jAefPDs8KE=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/08. On Time for the Exam/OnTimeForExam/OnTimeForExam.csproj",
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\6. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\OnTimeForExam\\OnTimeForExam.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/6. Conditional Statements Advanced - Exercise/08. On Time for the Exam/OnTimeForExam/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

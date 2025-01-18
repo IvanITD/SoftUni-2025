@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jCTMgN8vIww=",
+  "dgSpecHash": "tsjAPdRIw1w=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/2. Conditional Statements - More Exercises/08. Fuel Tank - Part 2/FuelTankPart2/FuelTankPart2.csproj",
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\2. Conditional Statements - More Exercises\\08. Fuel Tank - Part 2\\FuelTankPart2\\FuelTankPart2.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/2. Conditional Statements - More Exercises/08. Fuel Tank - Part 2/FuelTankPart2/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

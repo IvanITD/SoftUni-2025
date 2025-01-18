@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xi3wq2YbbtY=",
+  "dgSpecHash": "zHQmATJdEtA=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/04. Personal Titles/PersonalTitlesIfElse/PersonalTitlesIfElse.csproj",
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\5. Conditional Statements Advanced - Lab\\04. Personal Titles\\PersonalTitlesIfElse\\PersonalTitlesIfElse.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/04. Personal Titles/PersonalTitlesIfElse/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

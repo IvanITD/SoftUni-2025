@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXAR0O06XM4=",
+  "dgSpecHash": "F5hKFQk0WbQ=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/06. World Swimming Record/WorldSwimmingRecord/WorldSwimmingRecord.csproj",
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\4. Conditional Statements - Exercise\\06. World Swimming Record\\WorldSwimmingRecord\\WorldSwimmingRecord.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/4. Conditional Statements - Exercise/06. World Swimming Record/WorldSwimmingRecord/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

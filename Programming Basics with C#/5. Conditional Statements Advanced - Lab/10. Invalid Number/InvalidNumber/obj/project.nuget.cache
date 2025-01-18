@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ViTs0iE2+hU=",
+  "dgSpecHash": "+LVrCktB6Yc=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/10. Invalid Number/InvalidNumber/InvalidNumber.csproj",
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\5. Conditional Statements Advanced - Lab\\10. Invalid Number\\InvalidNumber\\InvalidNumber.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/5. Conditional Statements Advanced - Lab/10. Invalid Number/InvalidNumber/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
