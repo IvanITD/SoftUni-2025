@@ -519,7 +519,7 @@ So feel free to choose whichever one you like better!</p>
 <ol>
   <li>Match Tickets (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/01.%20Match%20Tickets/MatchTickets/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Bike Race (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/02.%20Bike%20Race/BikeRace/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Flowers (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Flowers (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/03.%20Flowers/Flowers/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Car To Go (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Vacation (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Truck Driver (<a><b><i>Not Solved Yet</i></b></a>)</li>
