@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\bin\Debug\net9.0\CarToGo.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\bin\Debug\net9.0\CarToGo.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\bin\Debug\net9.0\CarToGo.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\bin\Debug\net9.0\CarToGo.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\bin\Debug\net9.0\CarToGo.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\refint\CarToGo.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\CarToGo.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\04. Car To Go\CarToGo\obj\Debug\net9.0\ref\CarToGo.dll
