@@ -112,7 +112,7 @@
   <li>Bike Race (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/02.%20Bike%20Race/BikeRace/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Flowers (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/03.%20Flowers/Flowers/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Car To Go (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/04.%20Car%20To%20Go/CarToGo/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Vacation (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Vacation (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/05.%20Vacation/Vacation/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Truck Driver (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>School Camp (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Point on Rectangle Border (<a><b><i>Not Solved Yet</i></b></a>)</li>
