@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\bin\Debug\net9.0\TruckDriver.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\bin\Debug\net9.0\TruckDriver.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\bin\Debug\net9.0\TruckDriver.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\bin\Debug\net9.0\TruckDriver.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\bin\Debug\net9.0\TruckDriver.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\refint\TruckDriver.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\TruckDriver.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\06. Truck Driver\TruckDriver\obj\Debug\net9.0\ref\TruckDriver.dll
