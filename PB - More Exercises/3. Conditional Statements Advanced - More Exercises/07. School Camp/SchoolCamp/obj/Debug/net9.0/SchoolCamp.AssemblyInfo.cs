@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolCamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8baf98392ebb07df0e5208797b87c571b17ec134")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa481ca0daa39aa8006d88ccd947cd1704c3b64c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolCamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolCamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

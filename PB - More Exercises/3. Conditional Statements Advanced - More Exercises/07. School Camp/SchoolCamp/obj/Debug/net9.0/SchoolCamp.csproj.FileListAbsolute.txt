@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\bin\Debug\net9.0\SchoolCamp.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\bin\Debug\net9.0\SchoolCamp.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\bin\Debug\net9.0\SchoolCamp.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\bin\Debug\net9.0\SchoolCamp.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\bin\Debug\net9.0\SchoolCamp.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\refint\SchoolCamp.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\SchoolCamp.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\07. School Camp\SchoolCamp\obj\Debug\net9.0\ref\SchoolCamp.dll
