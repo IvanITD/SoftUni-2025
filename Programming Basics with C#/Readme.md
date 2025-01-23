@@ -535,7 +535,7 @@ So feel free to choose whichever one you like better!</p>
 <details>
 <summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
 <ol>
-  <li>Back To The Past (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Back To The Past (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/01.%20Back%20To%20The%20Past/BackToThePast/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Hospital (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Logistics (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Grades (<a><b><i>Not Solved Yet</i></b></a>)</li>
