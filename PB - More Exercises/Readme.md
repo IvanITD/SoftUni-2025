@@ -117,7 +117,7 @@
   <li>School Camp (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/07.%20School%20Camp/SchoolCamp/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Point on Rectangle Border (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/08.%20Point%20on%20Rectangle%20Border/PRB/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Numbers from 1 to 10 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/09.%20Numbers%20from%201%20to%2010/NumbersFrom1To10/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Multiply by 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Multiply by 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/3.%20Conditional%20Statements%20Advanced%20-%20More%20Exercises/10.%20Multiply%20by%202/MultiplyBy2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
 </details>
 
