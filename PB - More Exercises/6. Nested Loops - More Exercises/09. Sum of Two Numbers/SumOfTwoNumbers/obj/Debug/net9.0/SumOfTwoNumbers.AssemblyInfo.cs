@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOfTwoNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fc2a624f8e0f51e96a2155014628003142b7088")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f971d276f89ed0958cd68c6bebed5932728a84b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOfTwoNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOfTwoNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
