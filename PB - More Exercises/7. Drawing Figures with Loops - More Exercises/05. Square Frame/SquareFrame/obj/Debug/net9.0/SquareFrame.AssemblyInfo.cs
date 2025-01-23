@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquareFrame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f971d276f89ed0958cd68c6bebed5932728a84b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+626325e1fef415721c488bfb5adf44fd3fbac1ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquareFrame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquareFrame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
