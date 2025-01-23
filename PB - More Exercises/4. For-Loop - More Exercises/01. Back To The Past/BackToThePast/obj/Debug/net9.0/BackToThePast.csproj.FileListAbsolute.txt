@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\bin\Debug\net9.0\BackToThePast.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\bin\Debug\net9.0\BackToThePast.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\bin\Debug\net9.0\BackToThePast.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\bin\Debug\net9.0\BackToThePast.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\bin\Debug\net9.0\BackToThePast.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\refint\BackToThePast.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\BackToThePast.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\01. Back To The Past\BackToThePast\obj\Debug\net9.0\ref\BackToThePast.dll
