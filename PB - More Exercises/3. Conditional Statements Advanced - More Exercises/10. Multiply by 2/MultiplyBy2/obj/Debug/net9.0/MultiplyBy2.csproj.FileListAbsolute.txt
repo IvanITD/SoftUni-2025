@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\bin\Debug\net9.0\MultiplyBy2.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\bin\Debug\net9.0\MultiplyBy2.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\bin\Debug\net9.0\MultiplyBy2.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\bin\Debug\net9.0\MultiplyBy2.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\bin\Debug\net9.0\MultiplyBy2.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\refint\MultiplyBy2.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\MultiplyBy2.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\3. Conditional Statements Advanced - More Exercises\10. Multiply by 2\MultiplyBy2\obj\Debug\net9.0\ref\MultiplyBy2.dll
