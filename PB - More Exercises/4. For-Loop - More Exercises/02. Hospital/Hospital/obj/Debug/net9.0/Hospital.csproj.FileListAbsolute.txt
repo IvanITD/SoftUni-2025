@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\bin\Debug\net9.0\Hospital.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\bin\Debug\net9.0\Hospital.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\bin\Debug\net9.0\Hospital.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\bin\Debug\net9.0\Hospital.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\bin\Debug\net9.0\Hospital.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\refint\Hospital.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\Hospital.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB - More Exercises\4. For-Loop - More Exercises\02. Hospital\Hospital\obj\Debug\net9.0\ref\Hospital.dll
