@@ -67,13 +67,13 @@
     <tr>
       <td>For Loop</td>
       <td>Lab</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Complete</td>
       <td><b><i>Increment and Decrement | For Loop - Syntax | Decreasing For Loop | For Loop with Step</i></b></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td>
+      <td>🚧 In Progress</td>
       <td><b><i>Loop Initialization | Loop Condition | Increment/Decrement | Summing or Counting Values | Iterating Through Arrays/Lists | Nested Loops | Break and Continue | Loop Efficiency and Optimization</i></b></td>
     </tr>
     <tr>
