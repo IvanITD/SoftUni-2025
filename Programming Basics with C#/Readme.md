@@ -398,7 +398,7 @@ So feel free to choose whichever one you like better!</p>
       <li>Vowels Sum (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/06.%20Vowels%20Sum/VowelsSum/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Sum Numbers (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/07.%20Sum%20Numbers/SumNumbers/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Numbers Sequence (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/08.%20Number%20sequence/NumberSequence/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Left and Right Sum (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Left and Right Sum (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab/09.%20Left%20and%20Right%20Sum/LeftAndRightSum/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Odd Even Sum (<a><b><i>Not Solved Yet</i></b></a>)</li>
     </ol>
   </details>
