@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/bin/Debug/net9.0/HalfSumElement
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/bin/Debug/net9.0/HalfSumElement.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/bin/Debug/net9.0/HalfSumElement.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/bin/Debug/net9.0/HalfSumElement.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/bin/Debug/net9.0/HalfSumElement.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/refint/HalfSumElement.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/HalfSumElement.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/02. Half Sum Element/HalfSumElement/obj/Debug/net9.0/ref/HalfSumElement.dll
