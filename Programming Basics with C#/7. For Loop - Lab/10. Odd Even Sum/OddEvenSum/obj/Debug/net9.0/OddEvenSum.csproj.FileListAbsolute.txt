@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/bin/Debug/net9.0/OddEvenSum
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/bin/Debug/net9.0/OddEvenSum.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/bin/Debug/net9.0/OddEvenSum.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/bin/Debug/net9.0/OddEvenSum.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/bin/Debug/net9.0/OddEvenSum.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/refint/OddEvenSum.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/OddEvenSum.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/7. For Loop - Lab/10. Odd Even Sum/OddEvenSum/obj/Debug/net9.0/ref/OddEvenSum.dll
