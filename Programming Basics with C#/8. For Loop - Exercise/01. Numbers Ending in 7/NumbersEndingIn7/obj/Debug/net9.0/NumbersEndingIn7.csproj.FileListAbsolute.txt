@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/bin/Debug/net9.0/NumbersEndingIn7
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/bin/Debug/net9.0/NumbersEndingIn7.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/bin/Debug/net9.0/NumbersEndingIn7.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/bin/Debug/net9.0/NumbersEndingIn7.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/bin/Debug/net9.0/NumbersEndingIn7.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/refint/NumbersEndingIn7.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/NumbersEndingIn7.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/8. For Loop - Exercise/01. Numbers Ending in 7/NumbersEndingIn7/obj/Debug/net9.0/ref/NumbersEndingIn7.dll
