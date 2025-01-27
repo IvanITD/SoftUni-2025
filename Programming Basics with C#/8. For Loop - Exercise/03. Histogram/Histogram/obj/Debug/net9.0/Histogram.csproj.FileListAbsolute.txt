@@ -1,0 +1,5 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\03. Histogram\Histogram\obj\Debug\net9.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\03. Histogram\Histogram\obj\Debug\net9.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\03. Histogram\Histogram\obj\Debug\net9.0\Histogram.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\03. Histogram\Histogram\obj\Debug\net9.0\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\03. Histogram\Histogram\obj\Debug\net9.0\Histogram.sourcelink.json
