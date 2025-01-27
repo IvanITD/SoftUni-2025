@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumsDiv3WithoutRem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d5d61ed90ca81628e4b3fefbcd7e19806cde4ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe1debbd9c1e50fb3be9c6f853442fc04a581237")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumsDiv3WithoutRem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumsDiv3WithoutRem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
