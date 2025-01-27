@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HalfSumElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8983a3fb073d61a987e4ee561c0326aec679584c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d5d61ed90ca81628e4b3fefbcd7e19806cde4ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("HalfSumElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HalfSumElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
