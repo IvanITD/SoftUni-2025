@@ -408,7 +408,7 @@ So feel free to choose whichever one you like better!</p>
       <ol>
       <li>Numbers Ending in 7 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/01.%20Numbers%20Ending%20in%207/NumbersEndingIn7/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Half Sum Element (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/02.%20Half%20Sum%20Element/HalfSumElement/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Histogram (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Histogram (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/03.%20Histogram/Histogram/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Clever Lily (<a><b><i>Not Solved Yet</i></b></a>)</li>
       <li>Salary (<a><b><i>Not Solved Yet</i></b></a>)</li>
       <li>Oscars (<a><b><i>Not Solved Yet</i></b></a>)</li>
