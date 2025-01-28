@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\bin\Debug\net9.0\Salary.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\bin\Debug\net9.0\Salary.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\bin\Debug\net9.0\Salary.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\bin\Debug\net9.0\Salary.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\bin\Debug\net9.0\Salary.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\refint\Salary.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\Salary.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\05. Salary\Salary\obj\Debug\net9.0\ref\Salary.dll
