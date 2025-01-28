@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X5h6bNqFKds=",
+  "dgSpecHash": "3TslGGSqjH8=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/2. First Steps In Coding - Exercise/07. Food Delivery/FoodDelivery/FoodDelivery.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\2. First Steps In Coding - Exercise\\07. Food Delivery\\FoodDelivery\\FoodDelivery.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

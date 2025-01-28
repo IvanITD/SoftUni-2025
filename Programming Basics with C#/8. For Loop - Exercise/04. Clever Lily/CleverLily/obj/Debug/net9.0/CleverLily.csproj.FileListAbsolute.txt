@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\bin\Debug\net9.0\CleverLily.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\bin\Debug\net9.0\CleverLily.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\bin\Debug\net9.0\CleverLily.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\bin\Debug\net9.0\CleverLily.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\bin\Debug\net9.0\CleverLily.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\refint\CleverLily.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\CleverLily.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\04. Clever Lily\CleverLily\obj\Debug\net9.0\ref\CleverLily.dll
