@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\bin\Debug\net9.0\Oscars.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\bin\Debug\net9.0\Oscars.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\bin\Debug\net9.0\Oscars.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\bin\Debug\net9.0\Oscars.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\bin\Debug\net9.0\Oscars.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\refint\Oscars.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\Oscars.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\06. Oscars\Oscars\obj\Debug\net9.0\ref\Oscars.dll
