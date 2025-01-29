@@ -83,7 +83,7 @@
   <li>House Painting (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/07.%20House%20Painting/HousePainting/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Circle Area and Perimeter (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/08.%20Circle%20Area%20and%20Perimeter/CircleAreaAndPerimeter/Program.cs" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Weather Forecast (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast1/WeatherForecast1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Weather Forecast - Part 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast2/WeatherForecast2/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Weather Forecast - Part 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast1/WeatherForecast1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
 </details>
 

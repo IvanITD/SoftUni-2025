@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GodzillaVSKong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f92285fa6194c7a8338971fbf75b79a676856d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3d8a160dacfa2a114db56e000f72a13b625e0ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("GodzillaVSKong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GodzillaVSKong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
