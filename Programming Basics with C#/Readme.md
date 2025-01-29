@@ -411,7 +411,7 @@ So feel free to choose whichever one you like better!</p>
       <li>Histogram (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/03.%20Histogram/Histogram/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Clever Lily (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/04.%20Clever%20Lily/CleverLily/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Salary (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/05.%20Salary/Salary/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Oscars (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Oscars (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/06.%20Oscars/Oscars/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Trekking Mania (<a><b><i>Not Solved Yet</i></b></a>)</li>
       <li>Tennis Ranklist (<a><b><i>Not Solved Yet</i></b></a>)</li>
       </ol>
