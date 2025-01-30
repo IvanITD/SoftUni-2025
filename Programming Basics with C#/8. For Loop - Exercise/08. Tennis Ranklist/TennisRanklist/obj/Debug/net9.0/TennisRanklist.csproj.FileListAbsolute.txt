@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\bin\Debug\net9.0\TennisRanklist.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\bin\Debug\net9.0\TennisRanklist.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\bin\Debug\net9.0\TennisRanklist.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\bin\Debug\net9.0\TennisRanklist.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\bin\Debug\net9.0\TennisRanklist.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\refint\TennisRanklist.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\TennisRanklist.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\08. Tennis Ranklist\TennisRanklist\obj\Debug\net9.0\ref\TennisRanklist.dll
