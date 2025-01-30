@@ -73,13 +73,13 @@
     <tr>
       <td>For Loop</td>
       <td>Exercise</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Complete</td>
       <td><b><i>Loop Initialization | Loop Condition | Increment/Decrement | Summing or Counting Values | Iterating Through Arrays/Lists | Nested Loops | Break and Continue | Loop Efficiency and Optimization</i></b></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Lab</td>
-      <td>❌ Not Started</td></td>
+      <td>🚧 In Progress</td></td>
       <td></td>
     </tr>
     <tr>
@@ -413,7 +413,7 @@ So feel free to choose whichever one you like better!</p>
       <li>Salary (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/05.%20Salary/Salary/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Oscars (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/06.%20Oscars/Oscars/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       <li>Trekking Mania (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/07.%20Trekking%20Mania/TrekkingMania/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Tennis Ranklist (<a><b><i>Not Solved Yet</i></b></a>)</li>
+      <li>Tennis Ranklist (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise/08.%20Tennis%20Ranklist/TennisRanklist/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
       </ol>
   </details>
 
