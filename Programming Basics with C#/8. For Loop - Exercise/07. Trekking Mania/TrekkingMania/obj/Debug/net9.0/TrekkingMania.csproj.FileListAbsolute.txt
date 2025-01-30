@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\bin\Debug\net9.0\TrekkingMania.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\bin\Debug\net9.0\TrekkingMania.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\bin\Debug\net9.0\TrekkingMania.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\bin\Debug\net9.0\TrekkingMania.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\bin\Debug\net9.0\TrekkingMania.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\refint\TrekkingMania.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\TrekkingMania.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\8. For Loop - Exercise\07. Trekking Mania\TrekkingMania\obj\Debug\net9.0\ref\TrekkingMania.dll
