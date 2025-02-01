@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/bin/Debug/net9.0/MaxNumber
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/bin/Debug/net9.0/MaxNumber.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/bin/Debug/net9.0/MaxNumber.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/bin/Debug/net9.0/MaxNumber.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/bin/Debug/net9.0/MaxNumber.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/refint/MaxNumber.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/MaxNumber.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/06. Max Number/MaxNumber/obj/Debug/net9.0/ref/MaxNumber.dll
