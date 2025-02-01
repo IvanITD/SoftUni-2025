@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/bin/Debug/net9.0/Graduation
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/bin/Debug/net9.0/Graduation.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/bin/Debug/net9.0/Graduation.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/bin/Debug/net9.0/Graduation.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/bin/Debug/net9.0/Graduation.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/refint/Graduation.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/Graduation.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/08. Graduation/Graduation/obj/Debug/net9.0/ref/Graduation.dll
