@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/bin/Debug/net9.0/SumNumbers
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/bin/Debug/net9.0/SumNumbers.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/bin/Debug/net9.0/SumNumbers.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/bin/Debug/net9.0/SumNumbers.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/bin/Debug/net9.0/SumNumbers.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/refint/SumNumbers.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/SumNumbers.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/03. Sum Numbers/SumNumbers/obj/Debug/net9.0/ref/SumNumbers.dll
