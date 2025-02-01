@@ -428,7 +428,7 @@ So feel free to choose whichever one you like better!</p>
         <li>Sequence 2k+1 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab/04.%20Sequence%202k%2B1/Sequence2kplus1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Account Balance (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab/05.%20Account%20Balance/AccountBalance/Program.cs" class="button"><b><i>Account Balance</i></b></a>)</li>
         <li>Max Number (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab/06.%20Max%20Number/MaxNumber/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Min Number (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Min Number (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab/07.%20Min%20Number/MinNumber/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Graduation (<a><b><i>Not Solved Yet</i></b></a>)</li>
       </ol>
   </details>
