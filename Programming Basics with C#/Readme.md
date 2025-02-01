@@ -424,7 +424,7 @@ So feel free to choose whichever one you like better!</p>
       <ol>
         <li>Read Text (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab/01.%20Read%20Text/ReadText/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Password (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab/02.%20Password/Password/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Sum Numbers (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Sum Numbers (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab/03.%20Sum%20Numbers/SumNumbers/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Sequence 2k+1 (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Account Balance (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Max Number (<a><b><i>Not Solved Yet</i></b></a>)</li>
