@@ -420,7 +420,7 @@ So feel free to choose whichever one you like better!</p>
   <!-- While Loop - Lab -->
   <h3>While Loop</h3>
   <details>
-    <summary><strong>Lab (<a><b><i>Not Created Yet</i></b></a>)</strong></summary>
+    <summary><strong>Lab (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</strong></summary>
       <ol>
         <li>Read Text (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Password (<a><b><i>Not Solved Yet</i></b></a>)</li>
