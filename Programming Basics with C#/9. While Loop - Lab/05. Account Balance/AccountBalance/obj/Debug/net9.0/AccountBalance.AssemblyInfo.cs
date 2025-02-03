@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountBalance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9c976e3567600307d28557e44f055b0f8d6af2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89dfd466ae6eae1ca1f948168b2d6dbe4d1dcae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountBalance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountBalance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

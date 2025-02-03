@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/bin/Debug/net9.0/ReadText
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/bin/Debug/net9.0/ReadText.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/bin/Debug/net9.0/ReadText.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/bin/Debug/net9.0/ReadText.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/bin/Debug/net9.0/ReadText.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/refint/ReadText.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ReadText.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/01. Read Text/ReadText/obj/Debug/net9.0/ref/ReadText.dll

@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/bin/Debug/net9.0/Sequence2kplus1
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/bin/Debug/net9.0/Sequence2kplus1.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/bin/Debug/net9.0/Sequence2kplus1.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/bin/Debug/net9.0/Sequence2kplus1.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/bin/Debug/net9.0/Sequence2kplus1.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/refint/Sequence2kplus1.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/Sequence2kplus1.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/9. While Loop - Lab/04. Sequence 2k+1/Sequence2kplus1/obj/Debug/net9.0/ref/Sequence2kplus1.dll
