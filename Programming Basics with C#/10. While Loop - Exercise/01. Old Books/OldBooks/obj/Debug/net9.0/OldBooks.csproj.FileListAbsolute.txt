@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/bin/Debug/net9.0/OldBooks
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/bin/Debug/net9.0/OldBooks.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/bin/Debug/net9.0/OldBooks.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/bin/Debug/net9.0/OldBooks.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/bin/Debug/net9.0/OldBooks.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/refint/OldBooks.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/OldBooks.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/10. While Loop - Exercise/01. Old Books/OldBooks/obj/Debug/net9.0/ref/OldBooks.dll
