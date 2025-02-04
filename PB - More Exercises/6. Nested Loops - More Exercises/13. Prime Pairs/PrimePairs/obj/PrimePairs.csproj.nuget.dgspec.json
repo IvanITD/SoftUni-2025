@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/6. Nested Loops - More Exercises/13. Prime Pairs/PrimePairs/PrimePairs.csproj": {}
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\6. Nested Loops - More Exercises\\13. Prime Pairs\\PrimePairs\\PrimePairs.csproj": {}
   },
   "projects": {
-    "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/6. Nested Loops - More Exercises/13. Prime Pairs/PrimePairs/PrimePairs.csproj": {
+    "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\6. Nested Loops - More Exercises\\13. Prime Pairs\\PrimePairs\\PrimePairs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/6. Nested Loops - More Exercises/13. Prime Pairs/PrimePairs/PrimePairs.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\6. Nested Loops - More Exercises\\13. Prime Pairs\\PrimePairs\\PrimePairs.csproj",
         "projectName": "PrimePairs",
-        "projectPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/6. Nested Loops - More Exercises/13. Prime Pairs/PrimePairs/PrimePairs.csproj",
-        "packagesPath": "/Users/astrosspace/.nuget/packages/",
-        "outputPath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/6. Nested Loops - More Exercises/13. Prime Pairs/PrimePairs/obj/",
+        "projectPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\6. Nested Loops - More Exercises\\13. Prime Pairs\\PrimePairs\\PrimePairs.csproj",
+        "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\PB - More Exercises\\6. Nested Loops - More Exercises\\13. Prime Pairs\\PrimePairs\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/astrosspace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Ivan Ivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

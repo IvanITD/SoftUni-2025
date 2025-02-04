@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AttDq4x6frI=",
+  "dgSpecHash": "dkP/yMrnWbM=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/3. Conditional Statements - Lab/05. Number 100To200/Number100To200/Number100To200.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\Desktop\\Coding Projects\\SoftUni-2025\\Programming Basics with C#\\3. Conditional Statements - Lab\\05. Number 100To200\\Number100To200\\Number100To200.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
