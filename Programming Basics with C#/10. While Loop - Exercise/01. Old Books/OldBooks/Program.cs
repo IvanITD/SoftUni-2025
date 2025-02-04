@@ -1,7 +1,4 @@
 ﻿// User Input
-<<<<<<< HEAD
-string favoriteBook = Console.ReadLine();
-=======
 string favoriteBook = Console.ReadLine();
 
 // Counter for books
@@ -13,10 +10,6 @@ while (true)
     // User Checks Books
     string book = Console.ReadLine();
     
-    // Book counter
-    bookCounter++;
-
-
     // If the book is found
     if (book == favoriteBook)
     {
@@ -28,6 +21,8 @@ while (true)
         Console.WriteLine("The book you search is not here!");
         Console.WriteLine($"You checked {bookCounter} books.");
         break;
-    }   
+    }
+
+    // Book counter
+    bookCounter++;
 }
->>>>>>> e27b32bdd05c88cc500f6b172d468d6dc9fd1fce
