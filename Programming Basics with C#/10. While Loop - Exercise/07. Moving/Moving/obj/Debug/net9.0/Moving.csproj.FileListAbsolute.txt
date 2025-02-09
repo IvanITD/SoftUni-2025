@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\bin\Debug\net9.0\Moving.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\bin\Debug\net9.0\Moving.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\bin\Debug\net9.0\Moving.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\bin\Debug\net9.0\Moving.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\bin\Debug\net9.0\Moving.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\refint\Moving.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\Moving.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\07. Moving\Moving\obj\Debug\net9.0\ref\Moving.dll
