@@ -1,37 +1,42 @@
-﻿// User Input
-int unsatisfactoryGrades = int.Parse(Console.ReadLine());
+﻿// User input
+int failedThreshold = int.Parse(Console.ReadLine());
 
-// Variables
-int unsatisfactoryGradesCount = 0;
+// Variables for later use in the while loop
+int failedTimes = 0;
 int solvedProblemsCount = 0;
+double gradeSum = 0;
 
-// While Loop
-while (true)
+// Variables for the last problem and if the student is failed
+string lastProblem = "";
+bool isFailed = true;
+
+// While loop that will continue until the student fails the threshold number of times
+while (failedTimes < failedThreshold)
 {
-    // User Input for the task name and grade
-    string taskName = Console.ReadLine();
+    string problemName = Console.ReadLine();
+    if   (problemName == "Enough")
+    {
+        isFailed = false;
+        break;
+    }
     int grade = int.Parse(Console.ReadLine());
-
-    // If the task name is "Enough"
-    if (taskName == "Enough")
+    if (grade <= 4) // If the grade is below 4, the student failed the problem
     {
-        break;
+        failedTimes++;
     }
-
-    // If the grade is unsatisfactory
-    if (grade <= 4)
-    {
-        unsatisfactoryGradesCount++;
-    }
-
-    // If the unsatisfactory grades count is equal to the unsatisfactory grades
-    if (unsatisfactoryGradesCount == grade)
-    {
-        Console.WriteLine($"You need a break, {unsatisfactoryGradesCount} poor grades.");
-        break;
-    }
-    
-    
-    
+    // If the grade is above 4, the student solved the problem
+    gradeSum += grade;
+    solvedProblemsCount++;
+    lastProblem = problemName;
 }
 
+if (isFailed)
+{
+    Console.WriteLine($"You need a break, {failedTimes} poor grades.");
+}
+else
+{
+    Console.WriteLine($"Average score: {gradeSum / solvedProblemsCount:F2}");
+    Console.WriteLine($"Number of problems: {solvedProblemsCount}");
+    Console.WriteLine($"Last problem: {lastProblem}");
+}

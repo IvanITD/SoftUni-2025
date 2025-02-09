@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\bin\Debug\net9.0\ExamPreparation.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\bin\Debug\net9.0\ExamPreparation.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\bin\Debug\net9.0\ExamPreparation.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\bin\Debug\net9.0\ExamPreparation.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\bin\Debug\net9.0\ExamPreparation.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\refint\ExamPreparation.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ExamPreparation.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\02. Exam Preparation\ExamPreparation\obj\Debug\net9.0\ref\ExamPreparation.dll
