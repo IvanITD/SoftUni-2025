@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\bin\Debug\net9.0\Cake.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\bin\Debug\net9.0\Cake.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\bin\Debug\net9.0\Cake.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\bin\Debug\net9.0\Cake.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\bin\Debug\net9.0\Cake.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\refint\Cake.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\Cake.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\06. Cake\Cake\obj\Debug\net9.0\ref\Cake.dll
