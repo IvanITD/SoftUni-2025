@@ -438,7 +438,7 @@ So feel free to choose whichever one you like better!</p>
     <summary><strong>Exercises (<a><b><i>Not Created Yet</i></b></a>)</strong></summary>
       <ol>
         <li>Old Books (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/10.%20While%20Loop%20-%20Exercise/01.%20Old%20Books/OldBooks/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Exam Preparation (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Exam Preparation (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/10.%20While%20Loop%20-%20Exercise/02.%20Exam%20Preparation/ExamPreparation/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Vacation (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Walking (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Coins (<a><b><i>Not Solved Yet</i></b></a>)</li>
