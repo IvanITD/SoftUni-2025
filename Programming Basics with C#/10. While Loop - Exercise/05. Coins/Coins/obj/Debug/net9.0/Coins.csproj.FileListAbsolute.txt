@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\bin\Debug\net9.0\Coins.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\bin\Debug\net9.0\Coins.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\bin\Debug\net9.0\Coins.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\bin\Debug\net9.0\Coins.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\bin\Debug\net9.0\Coins.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\refint\Coins.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\Coins.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\10. While Loop - Exercise\05. Coins\Coins\obj\Debug\net9.0\ref\Coins.dll
