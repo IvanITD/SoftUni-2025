@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriangleOfDollars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e03c6c9dc330fe596a4188dbed81c6a23957ec59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d8af47000a95b883ebaf60fe7e4068ef5f4186c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriangleOfDollars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriangleOfDollars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
