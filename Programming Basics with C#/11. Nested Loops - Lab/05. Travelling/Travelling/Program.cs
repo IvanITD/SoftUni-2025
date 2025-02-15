@@ -3,7 +3,7 @@ string destination = Console.ReadLine();
 int minimalBudget = int.Parse(Console.ReadLine());
 
 // Creating a While loop to check the budget
-while (true)
+while (destination != "End")
 {
     // Creating a variable to store the saved money
     int savedMoney = 0;
@@ -22,12 +22,6 @@ while (true)
     Console.WriteLine($"Going to {destination}!");
     // Reading the next destination
     destination = Console.ReadLine();
-
-    // Checking If the destination is "End" break the loop
-    if (destination == "End")
-    {
-        break;
-    }
     
     // If the destination is not End, read the minimal budget for the next destination
     minimalBudget = int.Parse(Console.ReadLine());
