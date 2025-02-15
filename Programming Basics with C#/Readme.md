@@ -79,25 +79,25 @@
     <tr>
       <td>While Loop</td>
       <td>Lab</td>
-      <td>🚧 In Progress</td></td>
+      <td>✅ Complete</td></td>
       <td></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td>
+      <td>✅ Complete</td>
       <td></td>
     </tr>
     <tr>
       <td>Nested Loops</td>
       <td>Lab</td>
-      <td>❌ Not Started</td>
+      <td>✅ Complete</td>
       <td></td>
     </tr>
     <tr>
       <td>Nested Loops</td>
       <td>Exercise</td>
-      <td>❌ Not Started</td>
+      <td>🚧 In Progress</td>
       <td></td>
     </tr>
   </tbody>
