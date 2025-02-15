@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/bin/Debug/net9.0/Clock
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/bin/Debug/net9.0/Clock.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/bin/Debug/net9.0/Clock.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/bin/Debug/net9.0/Clock.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/bin/Debug/net9.0/Clock.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/refint/Clock.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/Clock.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/01. Clock/Clock/obj/Debug/net9.0/ref/Clock.dll
