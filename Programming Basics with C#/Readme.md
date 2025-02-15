@@ -456,7 +456,7 @@ So feel free to choose whichever one you like better!</p>
         <li>Multiplication Table (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab/02.%20Multiplication%20Table/MultiplicationTable/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Combinations (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab/03.%20Combinations/Combinations/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Sum of Two Numbers (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab/04.%20Sum%20of%20Two%20Numbers/SumOfTwoNumbers/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Traveling (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Traveling (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab/05.%20Travelling/Travelling/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Building (<a><b><i>Not Solved Yet</i></b></a>)</li>
       </ol>
   </details>
