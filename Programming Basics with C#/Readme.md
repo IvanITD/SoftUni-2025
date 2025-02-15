@@ -453,7 +453,7 @@ So feel free to choose whichever one you like better!</p>
     <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
       <ol>
         <li>Clock (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab/01.%20Clock/Clock/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Multiplication Table (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Multiplication Table (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab/02.%20Multiplication%20Table/MultiplicationTable/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Combinations (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Sum of Two Numbers (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Traveling (<a><b><i>Not Solved Yet</i></b></a>)</li>
