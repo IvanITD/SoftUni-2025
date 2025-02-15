@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\bin\Debug\net9.0\SumOfTwoNumbers.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\bin\Debug\net9.0\SumOfTwoNumbers.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\bin\Debug\net9.0\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\bin\Debug\net9.0\SumOfTwoNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\bin\Debug\net9.0\SumOfTwoNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\refint\SumOfTwoNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\04. Sum of Two Numbers\SumOfTwoNumbers\obj\Debug\net9.0\ref\SumOfTwoNumbers.dll
