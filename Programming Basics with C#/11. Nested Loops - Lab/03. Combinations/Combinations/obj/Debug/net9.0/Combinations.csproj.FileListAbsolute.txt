@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/bin/Debug/net9.0/Combinations
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/bin/Debug/net9.0/Combinations.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/bin/Debug/net9.0/Combinations.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/bin/Debug/net9.0/Combinations.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/bin/Debug/net9.0/Combinations.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/refint/Combinations.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/Combinations.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/11. Nested Loops - Lab/03. Combinations/Combinations/obj/Debug/net9.0/ref/Combinations.dll
