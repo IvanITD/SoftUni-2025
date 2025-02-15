@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\bin\Debug\net9.0\Travelling.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\bin\Debug\net9.0\Travelling.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\bin\Debug\net9.0\Travelling.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\bin\Debug\net9.0\Travelling.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\bin\Debug\net9.0\Travelling.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\refint\Travelling.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\Travelling.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\05. Travelling\Travelling\obj\Debug\net9.0\ref\Travelling.dll
