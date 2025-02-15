@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BikeRace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65821a44903d28f07ccc8f635e2c3081eb59e835")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c92e2ae9023e4c5910178f964c3c36464b9223a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BikeRace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BikeRace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

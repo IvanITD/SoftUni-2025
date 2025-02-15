@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\bin\Debug\net9.0\Building.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\bin\Debug\net9.0\Building.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\bin\Debug\net9.0\Building.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\bin\Debug\net9.0\Building.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\bin\Debug\net9.0\Building.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\refint\Building.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\Building.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\11. Nested Loops - Lab\06. Building\Building\obj\Debug\net9.0\ref\Building.dll
