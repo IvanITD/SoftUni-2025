@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EqualSumEvenOddPosition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c27dcc7a3ae35483b4efdc1fa80d3d7575b5f76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ff993b4e1344ed98d5ffef5bd4a2f764667bd26")]
 [assembly: System.Reflection.AssemblyProductAttribute("EqualSumEvenOddPosition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EqualSumEvenOddPosition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
