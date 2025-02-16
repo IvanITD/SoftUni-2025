@@ -40,7 +40,7 @@ Below are the tasks I worked on for the **Main Exam**. You can click each task n
 
 
 ## 📜 **License**
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/IvanITD/SoftUni-2025/tree/main?tab=MIT-1-ov-file).
 
 ---
 
