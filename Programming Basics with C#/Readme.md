@@ -38,7 +38,7 @@
       <td>First Steps in Coding</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td><b><i>Working with variables</i></b> | <b><i>Arithmetic operations</i></b> | <b><i>Basic input and output</i></b> | <b><i>Formulas and calculations</i></b> | <b><i>Data formatting</i></b> | <b><i>Problem decomposition</i></b> | <b><i>Basic logic and decision-making</i></b></td>
+      <td></td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
@@ -50,7 +50,7 @@
       <td>Conditional Statements</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td><b><i>Time manipulation and calculation</i></b> | <b><i>Conditional logic and branching</i></b> | <b><i>Arithmetic and percentage calculations</i></b> | <b><i>Simple input and output handling</i></b> | <b><i>Basic mathematical operations with variables</i></b> | <b><i>Comparison operators and logical expressions</i></b> | <b><i>Problem-solving with basic data structures</i></b></td>
+      <td></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td></td>
@@ -62,7 +62,7 @@
       <td>Conditional Statements Advanced</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td><b><i>Logical Operators in Action | Switch Statement with Multiple Cases | Nested If-Else Logic | Range-Based Validation | Dynamic Condition Evaluation | Fallback Logic with Default or Else</i></b></td>
+      <td></td>
     </tr>
     <tr>
       <td>For Loop</td>
@@ -74,13 +74,13 @@
       <td>For Loop</td>
       <td>Exercise</td>
       <td>✅ Complete</td>
-      <td><b><i>Loop Initialization | Loop Condition | Increment/Decrement | Summing or Counting Values | Iterating Through Arrays/Lists | Nested Loops | Break and Continue | Loop Efficiency and Optimization</i></b></td>
+      <td></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Lab</td>
       <td>✅ Complete</td></td>
-      <td></td>
+      <td><b><i>While Loop - Structure</b></i> | <b><i>Infinite While Loop</b></i> | <b><i>Continue Operator</b></i> | <b><i>Break Operator</i></b></td>
     </tr>
     <tr>
       <td>While Loop</td>
@@ -92,7 +92,7 @@
       <td>Nested Loops</td>
       <td>Lab</td>
       <td>✅ Complete</td>
-      <td></td>
+      <td><b><i>Nested Loops</i></b> | <b><i>Terminating a Nested Loop</i></b></td>
     </tr>
     <tr>
       <td>Nested Loops</td>
