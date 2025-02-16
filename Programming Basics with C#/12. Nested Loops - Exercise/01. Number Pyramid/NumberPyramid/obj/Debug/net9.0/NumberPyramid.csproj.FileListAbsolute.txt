@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\bin\Debug\net9.0\NumberPyramid.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\bin\Debug\net9.0\NumberPyramid.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\bin\Debug\net9.0\NumberPyramid.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\bin\Debug\net9.0\NumberPyramid.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\bin\Debug\net9.0\NumberPyramid.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\refint\NumberPyramid.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\NumberPyramid.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\01. Number Pyramid\NumberPyramid\obj\Debug\net9.0\ref\NumberPyramid.dll
