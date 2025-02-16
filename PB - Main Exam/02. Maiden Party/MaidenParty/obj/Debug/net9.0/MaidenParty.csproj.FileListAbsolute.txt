@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\bin\Debug\net9.0\MaidenParty.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\bin\Debug\net9.0\MaidenParty.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\bin\Debug\net9.0\MaidenParty.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\bin\Debug\net9.0\MaidenParty.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\bin\Debug\net9.0\MaidenParty.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\refint\MaidenParty.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\MaidenParty.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\02. Maiden Party\MaidenParty\obj\Debug\net9.0\ref\MaidenParty.dll

@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\bin\Debug\net9.0\CourierExpress.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\bin\Debug\net9.0\CourierExpress.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\bin\Debug\net9.0\CourierExpress.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\bin\Debug\net9.0\CourierExpress.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\bin\Debug\net9.0\CourierExpress.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\refint\CourierExpress.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\CourierExpress.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\03. Courier Express\CourierExpress\obj\Debug\net9.0\ref\CourierExpress.dll

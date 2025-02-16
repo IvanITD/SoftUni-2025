@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\bin\Debug\net9.0\Excursion.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\bin\Debug\net9.0\Excursion.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\bin\Debug\net9.0\Excursion.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\bin\Debug\net9.0\Excursion.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\bin\Debug\net9.0\Excursion.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\refint\Excursion.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\Excursion.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\01. Excursion\Excursion\obj\Debug\net9.0\ref\Excursion.dll

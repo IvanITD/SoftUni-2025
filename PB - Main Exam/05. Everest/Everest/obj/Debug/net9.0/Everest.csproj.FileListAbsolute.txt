@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\bin\Debug\net9.0\Everest.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\bin\Debug\net9.0\Everest.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\bin\Debug\net9.0\Everest.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\bin\Debug\net9.0\Everest.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\bin\Debug\net9.0\Everest.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\refint\Everest.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\Everest.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\05. Everest\Everest\obj\Debug\net9.0\ref\Everest.dll

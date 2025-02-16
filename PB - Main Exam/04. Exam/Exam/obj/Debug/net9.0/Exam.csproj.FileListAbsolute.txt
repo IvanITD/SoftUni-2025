@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\bin\Debug\net9.0\Exam.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\bin\Debug\net9.0\Exam.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\bin\Debug\net9.0\Exam.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\bin\Debug\net9.0\Exam.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\bin\Debug\net9.0\Exam.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\refint\Exam.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\Exam.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\04. Exam\Exam\obj\Debug\net9.0\ref\Exam.dll

@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\bin\Debug\net9.0\Substitute.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\bin\Debug\net9.0\Substitute.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\bin\Debug\net9.0\Substitute.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\bin\Debug\net9.0\Substitute.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\bin\Debug\net9.0\Substitute.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\refint\Substitute.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\Substitute.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\PB Main\06. Substitute\Substitute\obj\Debug\net9.0\ref\Substitute.dll
