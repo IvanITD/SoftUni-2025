@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\bin\Debug\net9.0\TrainTheTrainers.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\bin\Debug\net9.0\TrainTheTrainers.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\bin\Debug\net9.0\TrainTheTrainers.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\bin\Debug\net9.0\TrainTheTrainers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\bin\Debug\net9.0\TrainTheTrainers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\refint\TrainTheTrainers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\TrainTheTrainers.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\04. Train The Trainers\TrainTheTrainers\obj\Debug\net9.0\ref\TrainTheTrainers.dll
