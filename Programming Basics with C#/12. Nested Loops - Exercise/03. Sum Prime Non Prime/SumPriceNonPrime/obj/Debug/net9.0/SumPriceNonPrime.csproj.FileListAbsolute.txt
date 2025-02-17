@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/bin/Debug/net9.0/SumPriceNonPrime
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/bin/Debug/net9.0/SumPriceNonPrime.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/bin/Debug/net9.0/SumPriceNonPrime.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/bin/Debug/net9.0/SumPriceNonPrime.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/bin/Debug/net9.0/SumPriceNonPrime.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/refint/SumPriceNonPrime.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/SumPriceNonPrime.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/03. Sum Prime Non Prime/SumPriceNonPrime/obj/Debug/net9.0/ref/SumPriceNonPrime.dll
