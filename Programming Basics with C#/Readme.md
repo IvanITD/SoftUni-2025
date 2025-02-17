@@ -467,7 +467,7 @@ So feel free to choose whichever one you like better!</p>
       <ol>
         <li>Number Pyramid (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/12.%20Nested%20Loops%20-%20Exercise/01.%20Number%20Pyramid/NumberPyramid/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Equal Sums Even Odd Position (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/12.%20Nested%20Loops%20-%20Exercise/02.%20Equal%20Sums%20Even%20Odd%20Position/EqualSumEvenOddPosition/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Sum Prime Non Prime (<a><b><i>Not Solved Yet</i></b></a>)</li>
+        <li>Sum Prime Non Prime (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/Programming%20Basics%20with%20C%23/12.%20Nested%20Loops%20-%20Exercise/03.%20Sum%20Prime%20Non%20Prime/SumPriceNonPrime/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
         <li>Train The Trainers (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Special Numbers (<a><b><i>Not Solved Yet</i></b></a>)</li>
         <li>Cinema Tickets (<a><b><i>Not Solved Yet</i></b></a>)</li>
