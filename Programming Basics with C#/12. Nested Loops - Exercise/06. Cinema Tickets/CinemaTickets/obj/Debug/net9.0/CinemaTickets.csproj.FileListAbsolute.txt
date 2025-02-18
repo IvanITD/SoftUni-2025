@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/bin/Debug/net9.0/CinemaTickets
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/bin/Debug/net9.0/CinemaTickets.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/bin/Debug/net9.0/CinemaTickets.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/bin/Debug/net9.0/CinemaTickets.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/bin/Debug/net9.0/CinemaTickets.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/refint/CinemaTickets.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/CinemaTickets.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/Programming Basics with C#/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/obj/Debug/net9.0/ref/CinemaTickets.dll
