@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecialNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63118db381d9728c5f03f7a90001d3def7758363")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e5c9a1b587c72fa8fa1bfb2aed4cbc7ee2c164b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecialNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecialNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
