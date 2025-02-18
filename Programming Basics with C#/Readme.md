@@ -533,7 +533,7 @@ So feel free to choose whichever one you like better!</p>
 <!--For Loop - More Exercises-->
 <h3>For Loop</h3>
 <details>
-<summary><strong>More Exercises</strong> (<a><b><i>Not Created Yet</i></b></a>)</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
   <li>Back To The Past (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/01.%20Back%20To%20The%20Past/BackToThePast/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Hospital (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/02.%20Hospital/Hospital/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
