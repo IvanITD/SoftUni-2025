@@ -1,0 +1,15 @@
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\bin\Debug\net9.0\SpecialNumbers.exe
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\bin\Debug\net9.0\SpecialNumbers.deps.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\bin\Debug\net9.0\SpecialNumbers.runtimeconfig.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\bin\Debug\net9.0\SpecialNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\bin\Debug\net9.0\SpecialNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.AssemblyInfo.cs
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.sourcelink.json
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\refint\SpecialNumbers.dll
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.pdb
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\SpecialNumbers.genruntimeconfig.cache
+C:\Users\Ivan Ivanov\Desktop\Coding Projects\SoftUni-2025\Programming Basics with C#\12. Nested Loops - Exercise\05. Special Numbers\SpecialNumbers\obj\Debug\net9.0\ref\SpecialNumbers.dll
