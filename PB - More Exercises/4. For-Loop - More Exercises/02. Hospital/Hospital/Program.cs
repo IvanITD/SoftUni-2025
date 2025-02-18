@@ -1,48 +1,50 @@
 ﻿// User Input
 int period = int.Parse(Console.ReadLine());
-int patientsAmount = int.Parse(Console.ReadLine());
 
-// The amount of doctors is always 7
+// The amount of doctors
 int doctors = 7;
 
-// Variable for the treated patients
-int treatedPatients = 0;
+// Day counter that keeps the day count
+int dayCount = 0;
 
-// Variable for the untreated patients
-int untreatedPatients = 0;
+// Creating two variables for the treated and untreated patients
+int treated = 0;
+int untreated = 0;
 
-// Loop through the period
+// Creating a for loop that will circle through the days
 for (int i = 1; i <= period; i++)
 {
-    // Check if the period is divisible by 3
-    if (i % 3 == 0)
+    // Adding plus one for each day
+    dayCount++;
+    
+    /* Every third day we check to see if the untreated are more than the treated
+    so we can add one more doctor*/
+    if (dayCount == 3)
     {
-        // Check if the untreated patients are more than the treated patients
-        if (untreatedPatients > treatedPatients)
+        // Checking to see if the untreated are more than the treated
+        if (untreated > treated)
         {
-            // Increase the amount of doctors by 1
             doctors++;
         }
+
+        // Here there should be a dayCount reset
+        dayCount = 0;
     }
 
-    // Check if the patients are more than the doctors
-    if (patientsAmount > doctors)
-    {
-        // Increase the treated patients by the amount of doctors
-        treatedPatients += doctors;
+    int patients = int.Parse(Console.ReadLine());
 
-        // Increase the untreated patients by the difference between the patients and the doctors
-        untreatedPatients += patientsAmount - doctors;
+    // Checking to see if the patients are equal or less than seven
+    if (patients <= doctors)
+    {
+        treated += patients;
     }
     else
     {
-        // Increase the treated patients by the amount of patients
-        treatedPatients += patientsAmount;
+        treated += doctors;
+        untreated += (patients - doctors);
     }
+
 }
-
-// Print the treated patients
-Console.WriteLine($"Treated patients: {treatedPatients}.");
-
-// Print the untreated patients
-Console.WriteLine($"Untreated patients: {untreatedPatients}.");
+// Print the treated and untreated patients
+Console.WriteLine($"Treated patients: {treated}.");
+Console.WriteLine($"Untreated patients: {untreated}.");
