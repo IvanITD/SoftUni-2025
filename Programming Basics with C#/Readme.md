@@ -31,73 +31,73 @@
     <tr>
       <td>First Steps in Coding</td>
       <td>Lab</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td><b><i>Variables</i></b> | <b><i>Data Types</i></b> | <b><i>Console Input/Output</i></b> | <b><i>Simple Operations and Calculations</i></b></td>
     </tr>
     <tr>
       <td>First Steps in Coding</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td></td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
       <td>Lab</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td><b><i>Comparison operators</i></b> | <b><i>Boolean variable</i></b> | <b><i>Simple logical checks</i></b> | <b><i>Series of checks</i></b> | <b><i>Rounding and formatting</i></b> | <b><i>Variable lifetime</i></b> | <b><i>Debugging</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td></td>
       <td>Lab</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td><b><i>Switch-case construct</b></i> | <b><i>Nested checks</b></i> | <b><i>Logical operators: AND, OR, NOT</b></i></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Lab</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td><b><i>Increment and Decrement | For Loop - Syntax | Decreasing For Loop | For Loop with Step</i></b></td>
     </tr>
     <tr>
       <td>For Loop</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Lab</td>
-      <td>✅ Complete</td></td>
+      <td>✅ Completed</td></td>
       <td><b><i>While Loop - Structure</b></i> | <b><i>Infinite While Loop</b></i> | <b><i>Continue Operator</b></i> | <b><i>Break Operator</i></b></td>
     </tr>
     <tr>
       <td>While Loop</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td></td>
     </tr>
     <tr>
       <td>Nested Loops</td>
       <td>Lab</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td><b><i>Nested Loops</i></b> | <b><i>Terminating a Nested Loop</i></b></td>
     </tr>
     <tr>
       <td>Nested Loops</td>
       <td>Exercise</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed</td>
       <td></td>
     </tr>
   </tbody>
