@@ -97,7 +97,7 @@
     <tr>
       <td>Nested Loops</td>
       <td>Exercise</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Complete</td>
       <td></td>
     </tr>
   </tbody>
