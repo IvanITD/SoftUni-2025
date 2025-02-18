@@ -39,12 +39,12 @@
     </tr>
     <tr>
       <td>Conditional Statements Advanced - More Exercises</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Complete</td>
       <td><b><i>Complex Conditions</i></b> | <b><i>Switch-Case</i></b> | <b><i>Nested Conditions</i></b> | <b><i>Logical Operators</i></b></td>
     </tr>
     <tr>
       <td>For Loop - More Exercises</td>
-      <td>❌ Not Started</td>
+      <td>🚧 In Progress</td>
       <td><b><i>Loops</i></b> | <b><i>Iteration</i></b> | <b><i>Nested Loops</i></b> | <b><i>Problem Solving</i></b></td>
     </tr>
     <tr>
@@ -127,7 +127,7 @@
 <summary><strong>More Exercises</strong> (<a><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
   <li>Back To The Past (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/01.%20Back%20To%20The%20Past/BackToThePast/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Hospital (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Hospital (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/02.%20Hospital/Hospital/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Logistics (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Grades (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Game Of Intervals (<a><b><i>Not Solved Yet</i></b></a>)</li>
