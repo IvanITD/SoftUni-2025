@@ -123,7 +123,7 @@ So feel free to choose whichever one you like better!</p>
 <tr>
 <!--Left Side Content-->
 <td style="vertical-align: top; padding-right: 20px;">
-<h1>C# Basics</h1>
+<h1>C# Basics ✅</h1>
 <h3>First Steps in Coding</h3>
   <details>
   <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/1.%20First%20Steps%20In%20Coding%20-%20Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
