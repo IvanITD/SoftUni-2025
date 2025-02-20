@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumPriceNonPrime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb8e88e2b018f5b83e0697602e2af5d021b002e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fedc865334f08c6536117c4a821696ffd10ecf75")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumPriceNonPrime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumPriceNonPrime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

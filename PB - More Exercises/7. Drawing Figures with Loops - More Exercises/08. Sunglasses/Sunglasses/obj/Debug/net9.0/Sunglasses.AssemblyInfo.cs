@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sunglasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c27dcc7a3ae35483b4efdc1fa80d3d7575b5f76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fedc865334f08c6536117c4a821696ffd10ecf75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sunglasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sunglasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
