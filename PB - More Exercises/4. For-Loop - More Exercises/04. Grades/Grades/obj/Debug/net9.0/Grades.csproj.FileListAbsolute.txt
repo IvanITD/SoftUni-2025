@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/bin/Debug/net9.0/Grades
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/bin/Debug/net9.0/Grades.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/bin/Debug/net9.0/Grades.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/bin/Debug/net9.0/Grades.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/bin/Debug/net9.0/Grades.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/refint/Grades.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/Grades.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/04. Grades/Grades/obj/Debug/net9.0/ref/Grades.dll
