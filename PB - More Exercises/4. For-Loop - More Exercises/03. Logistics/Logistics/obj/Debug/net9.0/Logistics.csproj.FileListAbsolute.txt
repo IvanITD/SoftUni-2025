@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/bin/Debug/net9.0/Logistics
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/bin/Debug/net9.0/Logistics.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/bin/Debug/net9.0/Logistics.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/bin/Debug/net9.0/Logistics.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/bin/Debug/net9.0/Logistics.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/refint/Logistics.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/Logistics.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/03. Logistics/Logistics/obj/Debug/net9.0/ref/Logistics.dll
