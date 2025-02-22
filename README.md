@@ -73,7 +73,7 @@ Here’s a quick overview of my progress in the **SoftUni 2025** curriculum:
 
 | Module                         | Status       | Concepts Learned                               |
 | ------------------------------ | ------------ | ---------------------------------------------- |
-| **Programming Basics**          | 🚧 In Progress | Intro to programming, variables, data types, loops, conditionals |
+| **Programming Basics**          | ✅ Completed | Intro to programming, variables, data types, loops, conditionals |
 | **Programming Fundamentals**    | ❌ Not Started | Functions, arrays, basic algorithms            |
 | **C# Advanced**                 | ❌ Not Started | LINQ, async/await, advanced OOP                |
 | **C# DB**                       | ❌ Not Started | SQL, Entity Framework Core                     |
@@ -95,11 +95,11 @@ This repository is organized by modules, with each folder containing tasks, assi
 │   ├── Topic 5 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/5.%20Conditional%20Statements%20Advanced%20-%20Lab" class="button"><b><i>Conditional Statements Advanced - Lab</i></b></a>
 │   ├── Topic 6 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/6.%20Conditional%20Statements%20Advanced%20-%20Exercise" class="button"><b><i>Conditional Statements Advanced - Exercise</i></b></a>
 │   ├── Topic 7 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/7.%20For%20Loop%20-%20Lab" class="button"><b><i>For Loop - Lab</i></b></a>
-│   ├── Topic 8 - For Loop - Exercise
-│   ├── Topic 9 - While Loop - Lab
-│   ├── Topic 10 - While Loop - Exercise
-│   ├── Topic 11 - Nested Loops - Lab
-│   └── Topic 12 - Nested Loops - Exercise
+│   ├── Topic 8 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/8.%20For%20Loop%20-%20Exercise" class="button"><b><i>For Loop - Exercise</i></b></a>
+│   ├── Topic 9 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/9.%20While%20Loop%20-%20Lab" class="button"><b><i>While Loop - Lab</i></b></a>
+│   ├── Topic 10 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/10.%20While%20Loop%20-%20Exercise" class="button"><b><i>While Loop - Exercise</i></b></a>
+│   ├── Topic 11 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/11.%20Nested%20Loops%20-%20Lab" class="button"><b><i>Nested Loops - Lab</i></b></a>
+│   └── Topic 12 - <a href="https://github.com/IvanITD/SoftUni-2025/tree/main/Programming%20Basics%20with%20C%23/12.%20Nested%20Loops%20-%20Exercise" class="button"><b><i>Nested Loops - Exercise</i></b></a>
 ├── Fundamentals
 │   ├── Task 1 - Functions
 │   ├── Task 2 - Arrays and Lists
