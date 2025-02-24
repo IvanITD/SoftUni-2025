@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameOfIntervals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5a96b9f7720020833f7a20b92ca861091e6db7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64a1c8333d4a3770b7e6723e19a83c1c78e82ff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameOfIntervals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameOfIntervals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

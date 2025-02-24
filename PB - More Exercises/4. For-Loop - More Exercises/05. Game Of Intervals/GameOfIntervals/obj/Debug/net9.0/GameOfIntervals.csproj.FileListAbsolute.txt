@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/bin/Debug/net9.0/GameOfIntervals
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/bin/Debug/net9.0/GameOfIntervals.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/bin/Debug/net9.0/GameOfIntervals.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/bin/Debug/net9.0/GameOfIntervals.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/bin/Debug/net9.0/GameOfIntervals.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/refint/GameOfIntervals.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/GameOfIntervals.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/05. Game Of Intervals/GameOfIntervals/obj/Debug/net9.0/ref/GameOfIntervals.dll
