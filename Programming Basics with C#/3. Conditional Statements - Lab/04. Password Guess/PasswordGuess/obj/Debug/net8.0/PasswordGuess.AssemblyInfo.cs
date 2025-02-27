@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasswordGuess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ca9d412dd898fe448adb52d2034155416203ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd0988c59f2f67b499b022d3d80083cefa50599")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasswordGuess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasswordGuess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

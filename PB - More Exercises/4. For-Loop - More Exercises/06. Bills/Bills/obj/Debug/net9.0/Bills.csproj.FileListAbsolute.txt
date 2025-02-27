@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/bin/Debug/net9.0/Bills
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/bin/Debug/net9.0/Bills.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/bin/Debug/net9.0/Bills.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/bin/Debug/net9.0/Bills.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/bin/Debug/net9.0/Bills.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/refint/Bills.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/Bills.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/06. Bills/Bills/obj/Debug/net9.0/ref/Bills.dll
