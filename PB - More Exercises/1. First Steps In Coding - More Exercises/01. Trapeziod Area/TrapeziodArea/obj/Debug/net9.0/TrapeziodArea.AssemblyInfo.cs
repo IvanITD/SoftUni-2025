@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrapeziodArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd0988c59f2f67b499b022d3d80083cefa50599")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00f07c8e46e2f8c9d4beb13b8645d31ef1f372a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrapeziodArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrapeziodArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
