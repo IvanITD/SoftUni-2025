@@ -1,0 +1,15 @@
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/bin/Debug/net9.0/FootballLeague
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/bin/Debug/net9.0/FootballLeague.deps.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/bin/Debug/net9.0/FootballLeague.runtimeconfig.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/bin/Debug/net9.0/FootballLeague.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/bin/Debug/net9.0/FootballLeague.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.AssemblyInfoInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.AssemblyInfo.cs
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.csproj.CoreCompileInputs.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.sourcelink.json
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/refint/FootballLeague.dll
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.pdb
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/FootballLeague.genruntimeconfig.cache
+/Users/astrosspace/Desktop/Programming Files/VS Code/SoftUni-2025/PB - More Exercises/4. For-Loop - More Exercises/07. Football League/FootballLeague/obj/Debug/net9.0/ref/FootballLeague.dll
