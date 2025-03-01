@@ -541,7 +541,7 @@ So feel free to choose whichever one you like better!</p>
   <li>Grades (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/04.%20Grades/Grades/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Game Of Intervals (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/05.%20Game%20Of%20Intervals/GameOfIntervals/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Bills (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/06.%20Bills/Bills/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Football League (<a><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Football League (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/4.%20For-Loop%20-%20More%20Exercises/07.%20Football%20League/FootballLeague/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Equal Pairs (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Clock (<a><b><i>Not Solved Yet</i></b></a>)</li>
   <li>Clock - part 2 (<a><b><i>Not Solved Yet</i></b></a>)</li>
